@@ -1,0 +1,2554 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+    "belongs_to_collection": null,
+    "budget": 125000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "https://www.universalpictures.com.mx/micro/fall-guy",
+    "id": 746036,
+    "imdb_id": "tt1684562",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Fall Guy",
+    "overview": "Un especialista maltratado y pasado de su mejor momento se encuentra de nuevo en una película con la estrella para la que fue su doble hace mucho tiempo y que lo reemplazó. El problema, sin embargo, es que la estrella ha desaparecido.",
+    "popularity": 11.9181,
+    "poster_path": "/A5LijwDVZsupBTL0qKoagMfUiKR.jpg",
+    "production_companies": [
+      {
+        "id": 121470,
+        "logo_path": "/zvJFu1C6gB80A98n6IGXBvMtgVl.png",
+        "name": "87North Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 78984,
+        "logo_path": "/vJLYh9YHQaEryuzu7GNUa1zwKG1.png",
+        "name": "Entertainment 360",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1778,
+        "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+        "name": "dentsu",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      }
+    ],
+    "release_date": "2024-04-24",
+    "revenue": 181073291,
+    "runtime": 127,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Un doble de riesgo se convertirá en el héroe.",
+    "title": "Profesión peligro",
+    "video": false,
+    "vote_average": 7.011,
+    "vote_count": 3092,
+    "trailer": "j7jPnwVGdZ8",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 843527,
+    "imdb_id": "tt9466114",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Idea of You",
+    "overview": "Basada en la aclamada historia de amor contemporánea del mismo nombre, The Idea of You se centra en Solène (Anne Hathaway), una madre soltera de 40 años que comienza un romance inesperado con Hayes Campbell (Nicholas Galitzine), de 24 años, el cantante principal de August Moon, la banda de chicos más popular del planeta.",
+    "popularity": 17.2841,
+    "poster_path": "/y1WpsgfBA5GywXIuqLm9D4aQHNd.jpg",
+    "production_companies": [
+      {
+        "id": 173612,
+        "logo_path": "/c3qT8JXmVUtkSqJ8eZYkN1Ezf4C.png",
+        "name": "Welle Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 176196,
+        "logo_path": null,
+        "name": "Somewhere Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 111265,
+        "logo_path": "/sz7riw1keqTwhqolN3z6rILTw08.png",
+        "name": "I'll Have Another",
+        "origin_country": "US"
+      },
+      {
+        "id": 112037,
+        "logo_path": "/tEjXfABMQ01K1T6YQienJMe0QRH.png",
+        "name": "Semi-Formal Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/d6HwljzlOzxJ4tXlrpRkNZaZMWL.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2024-05-02",
+    "revenue": 36178,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Idea de Tenerte",
+    "video": false,
+    "vote_average": 7.356,
+    "vote_count": 1736,
+    "trailer": "pz6qx4n2Ewc",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wNAhuOZ3Zf84jCIlrcI6JhgmY5q.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 786892,
+    "original_language": "en",
+    "original_title": "Furiosa: A Mad Max Saga",
+    "overview": "As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.",
+    "popularity": 18.873,
+    "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+    "release_date": "2024-05-22",
+    "title": "Furiosa: A Mad Max Saga",
+    "video": false,
+    "vote_average": 7.475,
+    "vote_count": 4303,
+    "belongs_to_collection": {
+      "id": 8945,
+      "name": "Mad Max - Colección",
+      "poster_path": "/pk5CE0GbxKom47ePGIa8yE2ALvv.jpg",
+      "backdrop_path": "/zI0q2ENcQOLECbe0gAEGlncVh2j.jpg"
+    },
+    "budget": 168000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "https://www.warnerbroslatino.com/es-mx/peliculas/furiosa",
+    "imdb_id": "tt12037194",
+    "origin_country": [
+      "AU",
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 28382,
+        "logo_path": "/eaQ9IuuaSNBeSdocdtGLvhXAHfg.png",
+        "name": "Kennedy Miller Mitchell",
+        "origin_country": "AU"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 174287546,
+    "runtime": 149,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Venda",
+        "iso_639_1": "ve",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "trailer": "XJMuhwVlca4",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+    "genre_ids": [
+      16,
+      878,
+      10751
+    ],
+    "id": 1184918,
+    "original_language": "en",
+    "original_title": "The Wild Robot",
+    "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+    "popularity": 27.2644,
+    "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+    "release_date": "2024-09-12",
+    "title": "The Wild Robot",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 5222,
+    "belongs_to_collection": {
+      "id": 1370345,
+      "name": "The Wild Robot Collection",
+      "poster_path": "/vm94OwAJdVE62BnNdrkM0aAgnEi.jpg",
+      "backdrop_path": "/f6G8QPeod5ngQMs5Fe1O4LdphB7.jpg"
+    },
+    "budget": 78000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "https://www.universalpictures.com.mx/micro/wild-robot",
+    "imdb_id": "tt29623480",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 331982078,
+    "runtime": 101,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Descubre tu verdadera naturaleza.",
+    "trailer": "67vbA5ZJdKQ",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pZfpUMEJzw9BZHtXuZzzOrRxtMa.jpg",
+    "genre_ids": [
+      16,
+      12,
+      14,
+      10751
+    ],
+    "id": 823219,
+    "original_language": "lv",
+    "original_title": "Straume",
+    "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+    "popularity": 22.823,
+    "poster_path": "/imKSymKBK7o73sajciEmndJoVkR.jpg",
+    "release_date": "2024-08-29",
+    "title": "Flow",
+    "video": false,
+    "vote_average": 8.166,
+    "vote_count": 2166,
+    "belongs_to_collection": null,
+    "budget": 3700000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt4772188",
+    "origin_country": [
+      "LV"
+    ],
+    "production_companies": [
+      {
+        "id": 153335,
+        "logo_path": "/bEsO7l12cRGAY25Uqt1a66Ife1U.png",
+        "name": "Dream Well Studio",
+        "origin_country": "LV"
+      },
+      {
+        "id": 12433,
+        "logo_path": "/sKu7Gr83ie8w6waDwYNHMBEaSah.png",
+        "name": "Sacrebleu Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 101516,
+        "logo_path": "/q7ynwvgbkht96N8qPFexUW3QFeR.png",
+        "name": "Take Five",
+        "origin_country": "BE"
+      },
+      {
+        "id": 94,
+        "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+        "name": "ARTE France Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 792,
+        "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+        "name": "RTBF",
+        "origin_country": "BE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "LV",
+        "name": "Latvia"
+      },
+      {
+        "iso_3166_1": "BE",
+        "name": "Belgium"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 17660107,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "No Language",
+        "iso_639_1": "xx",
+        "name": "No Language"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "trailer": "eD06LQzWFTc",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o869RihWTdTyBcEZBjz0izvEsVf.jpg",
+    "genre_ids": [
+      878,
+      12
+    ],
+    "id": 693134,
+    "original_language": "en",
+    "original_title": "Dune: Part Two",
+    "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+    "popularity": 20.8192,
+    "poster_path": "/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+    "release_date": "2024-02-27",
+    "title": "Dune: Part Two",
+    "video": false,
+    "vote_average": 8.139,
+    "vote_count": 6895,
+    "belongs_to_collection": {
+      "id": 726871,
+      "name": "Duna - Colección",
+      "poster_path": "/kylC8ibuv4t8ch3nnq2Kp8i8p3X.jpg",
+      "backdrop_path": "/fahk0Fu7VUUfK6IkTt1R3waOD9F.jpg"
+    },
+    "budget": 190000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt15239678",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 714444358,
+    "runtime": 167,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Larga vida a los luchadores.",
+    "trailer": "Way9Dexny3w",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
+    "genre_ids": [
+      28,
+      878,
+      35,
+      10751
+    ],
+    "id": 939243,
+    "original_language": "en",
+    "original_title": "Sonic the Hedgehog 3",
+    "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+    "popularity": 45.5202,
+    "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+    "release_date": "2024-12-19",
+    "title": "Sonic the Hedgehog 3",
+    "video": false,
+    "vote_average": 7.674,
+    "vote_count": 2821,
+    "belongs_to_collection": {
+      "id": 720879,
+      "name": "Sonic - Colección",
+      "poster_path": "/fx5ap8o1RDwSoiEJho98jyussY3.jpg",
+      "backdrop_path": "/ggDVF2DhqIQjJI0zUqsWMS2WTcF.jpg"
+    },
+    "budget": 122000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "https://paramountpictures.com.mx/titulo.php?idkey=sonic-3-la-pelicula",
+    "imdb_id": "tt18259086",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 333,
+        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+        "name": "Original Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 77884,
+        "logo_path": "/dP2lxVNctD5Cried0IWVqgrO2o9.png",
+        "name": "Marza Animation Planet",
+        "origin_country": "JP"
+      },
+      {
+        "id": 113750,
+        "logo_path": "/A3QVZ9Ah0yI2d2GiXUFpdlbTgyr.png",
+        "name": "SEGA",
+        "origin_country": "JP"
+      },
+      {
+        "id": 10644,
+        "logo_path": "/ocLZIdYJBppuCt1rhYEb2jbpt5F.png",
+        "name": "Blur Studio",
+        "origin_country": "US"
+      },
+      {
+        "id": 168701,
+        "logo_path": "/vWdZFT4V64CCv12D10m44duQjyg.png",
+        "name": "SEGA of America",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 492162604,
+    "runtime": 110,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nueva aventura. Nuevo rival.",
+    "trailer": "qSu6i2iFMO0",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jw4SNkaSgbrO7VJPsZUZqbBg1Ph.jpg",
+    "genre_ids": [
+      12,
+      18
+    ],
+    "id": 618588,
+    "original_language": "en",
+    "original_title": "Arthur the King",
+    "overview": "Over the course of ten days and 435 miles, an unbreakable bond is forged between pro adventure racer Michael Light and a scrappy street dog companion dubbed Arthur. As the team is pushed to their outer limits of endurance in the race, Arthur redefines what victory, loyalty and friendship truly mean.",
+    "popularity": 4.3312,
+    "poster_path": "/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg",
+    "release_date": "2024-03-15",
+    "title": "Arthur the King",
+    "video": false,
+    "vote_average": 7.589,
+    "vote_count": 827,
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt10720352",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 8147,
+        "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+        "name": "Entertainment One",
+        "origin_country": "CA"
+      },
+      {
+        "id": 100033,
+        "logo_path": "/74LDJbOFdya1ijNT11uh0mM5eg0.png",
+        "name": "Tucker Tooley Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 169668,
+        "logo_path": "/iGEtQO0W5H2PAgqjL0yubcbSgr4.png",
+        "name": "Municipal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2995,
+        "logo_path": "/drzD5Yq9aQuDEbNxlTAhmlL2izx.png",
+        "name": "Atmosphere Entertainment MM",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 40829138,
+    "runtime": 107,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una amistad sin límites",
+    "trailer": "wjDJNEPghNY",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/by8z9Fe8y7p4jo2YlW2SZDnptyT.jpg",
+    "genre_ids": [
+      28,
+      35,
+      878
+    ],
+    "id": 533535,
+    "original_language": "en",
+    "original_title": "Deadpool & Wolverine",
+    "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+    "popularity": 41.8313,
+    "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+    "release_date": "2024-07-24",
+    "title": "Deadpool & Wolverine",
+    "video": false,
+    "vote_average": 7.584,
+    "vote_count": 7548,
+    "belongs_to_collection": {
+      "id": 448150,
+      "name": "Deadpool - Colección",
+      "poster_path": "/6dVSBlh9blLX96tyRDsYtNKpswv.jpg",
+      "backdrop_path": "/dTq7mGyAR5eAydR532feWfjJjzm.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "https://www.disneylatino.com/peliculas/deadpool-&-wolverine",
+    "imdb_id": "tt6263850",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 104228,
+        "logo_path": "/hx0C1XcSxGgat8N62GpxoJGTkCk.png",
+        "name": "Maximum Effort",
+        "origin_country": "US"
+      },
+      {
+        "id": 2575,
+        "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+        "name": "21 Laps Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 176762,
+        "logo_path": null,
+        "name": "Kevin Feige Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1338073645,
+    "runtime": 128,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Acabaron juntos.",
+    "trailer": "73_1biulkYk",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+    "genre_ids": [
+      16,
+      12,
+      35,
+      10751
+    ],
+    "id": 1022789,
+    "original_language": "en",
+    "original_title": "Inside Out 2",
+    "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+    "popularity": 35.6607,
+    "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+    "release_date": "2024-06-11",
+    "title": "Inside Out 2",
+    "video": false,
+    "vote_average": 7.554,
+    "vote_count": 6027,
+    "belongs_to_collection": {
+      "id": 1022790,
+      "name": "Intensa-Mente - Colección",
+      "poster_path": "/lqsR16EbyLXOjuPBSXuj8i1C5Ae.jpg",
+      "backdrop_path": "/7hYG0v6BEErqqwnU7vWJjWgYJJp.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "https://www.disneylatino.com/peliculas/intensamente-2",
+    "imdb_id": "tt22022452",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1698863816,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Hagan espacio para nuevas emociones.",
+    "trailer": "LEjhY15eCx0",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fypydCipcWDKDTTCoPucBsdGYXW.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28,
+      18,
+      53
+    ],
+    "id": 653346,
+    "original_language": "en",
+    "original_title": "Kingdom of the Planet of the Apes",
+    "overview": "Several generations following Caesar's reign, apes – now the dominant species – live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all he's known about the past and to make choices that will define a future for apes and humans alike.",
+    "popularity": 15.4248,
+    "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+    "release_date": "2024-05-08",
+    "title": "Kingdom of the Planet of the Apes",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 3830,
+    "belongs_to_collection": {
+      "id": 173710,
+      "name": "El planeta de los simios (El origen) - Colección",
+      "poster_path": "/4QUhVxQgtsUhqydkmrFob90Rtwl.jpg",
+      "backdrop_path": "/iMhm0g555HgQNIXAMvnlgOiW5Rz.jpg"
+    },
+    "budget": 160000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt11389872",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 133024,
+        "logo_path": null,
+        "name": "Oddball Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 89254,
+        "logo_path": null,
+        "name": "Jason T. Reed Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 397378150,
+    "runtime": 145,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una nueva era comienza.",
+    "trailer": "XtFI7SNtVpY",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3q01ACG0MWm0DekhvkPFCXyPZSu.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80,
+      53,
+      12
+    ],
+    "id": 573435,
+    "original_language": "en",
+    "original_title": "Bad Boys: Ride or Die",
+    "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+    "popularity": 18.9465,
+    "poster_path": "/oGythE98MYleE6mZlGs5oBGkux1.jpg",
+    "release_date": "2024-06-05",
+    "title": "Bad Boys: Ride or Die",
+    "video": false,
+    "vote_average": 7.37,
+    "vote_count": 2991,
+    "belongs_to_collection": {
+      "id": 14890,
+      "name": "Bad Boys - Colección",
+      "poster_path": "/vpnAElpSww3nUdCLcFatC2Jb2Gc.jpg",
+      "backdrop_path": "/r8kZJbi6UNhilLhM5WhauYELIR8.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt4919268",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 122771,
+        "logo_path": "/bYRqVEAuaC1QWmt3hGo0PMdK7EX.png",
+        "name": "Westbrook",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10288,
+        "logo_path": "/Aszf09kIVXR6cwG9lwjZIawbYVS.png",
+        "name": "Don Simpson/Jerry Bruckheimer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 84792,
+        "logo_path": "/7Rfr3Zu6QnHpXW2VdSEzUminAQd.png",
+        "name": "2.0 Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 404547819,
+    "runtime": 115,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Los mejores detectives, ahora son fugitivos.",
+    "trailer": "hRFY_Fesa9Q",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1w8kutrRucTd3wlYyu5QlUDMiG1.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      16
+    ],
+    "id": 762509,
+    "original_language": "en",
+    "original_title": "Mufasa: The Lion King",
+    "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+    "popularity": 33.2066,
+    "poster_path": "/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg",
+    "release_date": "2024-12-18",
+    "title": "Mufasa: The Lion King",
+    "video": false,
+    "vote_average": 7.365,
+    "vote_count": 2292,
+    "belongs_to_collection": {
+      "id": 762512,
+      "name": "The Lion King (Reboot) Collection",
+      "poster_path": "/sU7piNWqf6KKtQEWPUz2GjqhSkM.jpg",
+      "backdrop_path": "/1KeXF239BkqLChcAcF8gKl1stZz.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "https://www.disneyplus.com/movies/mufasa-the-lion-king/7RfrGx9oSIl7",
+    "imdb_id": "tt13186482",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 722631756,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Huérfano, intruso, rey.",
+    "trailer": "o17MF9vnabg",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
+    "genre_ids": [
+      53,
+      28,
+      80
+    ],
+    "id": 866398,
+    "original_language": "en",
+    "original_title": "The Beekeeper",
+    "overview": "One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.",
+    "popularity": 13.754,
+    "poster_path": "/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+    "release_date": "2024-01-08",
+    "title": "The Beekeeper",
+    "video": false,
+    "vote_average": 7.298,
+    "vote_count": 3696,
+    "belongs_to_collection": {
+      "id": 1440784,
+      "name": "The Beekeeper Collection",
+      "poster_path": "/yVO4Py2gZ2yFruiscOkEyrrtXFa.jpg",
+      "backdrop_path": "/ugMAqOB83VH6VtsbgdPIPtAQeUs.jpg"
+    },
+    "budget": 35000000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt15314262",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      },
+      {
+        "id": 118475,
+        "logo_path": "/x8mwqWGZK2gQvrp5QlYQho1VgXj.png",
+        "name": "Cedar Park Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 218150,
+        "logo_path": null,
+        "name": "Punch Palace Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 152720535,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "trailer": "CHKn-yDCE2w",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1YMrOtrW7b4pL2lfD8UciZPOJGs.jpg",
+    "genre_ids": [
+      18,
+      53
+    ],
+    "id": 974576,
+    "original_language": "en",
+    "original_title": "Conclave",
+    "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
+    "popularity": 9.6287,
+    "poster_path": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+    "release_date": "2024-10-25",
+    "title": "Conclave",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 2785,
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt20215234",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7493,
+        "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+        "name": "FilmNation Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 9350,
+        "logo_path": "/xz60JVoUHpOeg1cJbxzMJiwbuL7.png",
+        "name": "Indian Paintbrush",
+        "origin_country": "US"
+      },
+      {
+        "id": 112783,
+        "logo_path": "/g95BBJvKyOawT3sGVXTdDG72Qad.png",
+        "name": "House Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 115657988,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "trailer": "JX9jasdi3ic",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eP4RZSHliWu6lPT5WQyHr5ZZKuC.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "id": 945961,
+    "original_language": "en",
+    "original_title": "Alien: Romulus",
+    "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+    "popularity": 23.2997,
+    "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+    "release_date": "2024-08-13",
+    "title": "Alien: Romulus",
+    "video": false,
+    "vote_average": 7.191,
+    "vote_count": 3837,
+    "belongs_to_collection": {
+      "id": 1434946,
+      "name": "Alien: Romulus Collection",
+      "poster_path": "/pJdItyeP5Ep5oYoqHlPpX4BEnPC.jpg",
+      "backdrop_path": "/nklXuO1cBEViut27TpChoKIzyI5.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt18412256",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 127928,
+        "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+        "name": "20th Century Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 221347,
+        "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+        "name": "Scott Free Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 401,
+        "logo_path": "/t7mM3DvQ9MwDT3YzMCBrkWpWiiz.png",
+        "name": "Brandywine Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 350865342,
+    "runtime": 119,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "En el espacio nadie puede oírte.",
+    "trailer": "OzY2r2JXsDM",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lLh39Th5plbrQgbQ4zyIULsd0Pp.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 823464,
+    "original_language": "en",
+    "original_title": "Godzilla x Kong: The New Empire",
+    "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+    "popularity": 19.7972,
+    "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+    "release_date": "2024-03-27",
+    "title": "Godzilla x Kong: The New Empire",
+    "video": false,
+    "vote_average": 7.085,
+    "vote_count": 4280,
+    "belongs_to_collection": null,
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt14539740",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 571750016,
+    "runtime": 115,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Levántate juntos o cae solo.",
+    "trailer": "lV1OOlGwExM",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kYgQzzjNis5jJalYtIHgrom0gOx.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      28,
+      35,
+      12,
+      14
+    ],
+    "id": 1011985,
+    "original_language": "en",
+    "original_title": "Kung Fu Panda 4",
+    "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+    "popularity": 25.315,
+    "poster_path": "/nqXsAaQsKw2gKpkfhIgjXNDRqg7.jpg",
+    "release_date": "2024-03-02",
+    "title": "Kung Fu Panda 4",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 3156,
+    "belongs_to_collection": {
+      "id": 77816,
+      "name": "Kung Fu Panda - Colección",
+      "poster_path": "/fbgmC0eQJ8KNRwBrjMJgtG9POdn.jpg",
+      "backdrop_path": "/2nbtv33hEk2CTnuMhTGZgsFdi3K.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "http://www.kungfupanda.com.mx",
+    "imdb_id": "tt21692408",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 548040835,
+    "runtime": 93,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡Quien controla la especia, controla el SKADOOSH!",
+    "trailer": "_inKs4eeHiI",
+    "added_date": "2025-09-28"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg",
+    "genre_ids": [
+      35,
+      14,
+      10751
+    ],
+    "id": 639720,
+    "original_language": "en",
+    "original_title": "IF",
+    "overview": "After discovering she can see everyone's imaginary friends, a girl embarks on a magical adventure to reconnect forgotten imaginary friends with their kids.",
+    "popularity": 15.0679,
+    "poster_path": "/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
+    "release_date": "2024-05-08",
+    "title": "IF",
+    "video": false,
+    "vote_average": 7.037,
+    "vote_count": 1402,
+    "belongs_to_collection": null,
+    "budget": 110000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt11152168",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 29312,
+        "logo_path": "/v6aLhoAviWYkfOksBJTd9XbO0YH.png",
+        "name": "Sunday Night Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 104228,
+        "logo_path": "/hx0C1XcSxGgat8N62GpxoJGTkCk.png",
+        "name": "Maximum Effort",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 190309707,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "Danish",
+        "iso_639_1": "da",
+        "name": "Dansk"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Entra a un mundo asombroso.",
+    "trailer": "mb2187ZQtBE",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+    "genre_ids": [
+      28,
+      35,
+      14
+    ],
+    "id": 845781,
+    "original_language": "en",
+    "original_title": "Red One",
+    "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+    "popularity": 23.0598,
+    "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+    "release_date": "2024-10-31",
+    "title": "Red One",
+    "video": false,
+    "vote_average": 7.03,
+    "vote_count": 2591,
+    "belongs_to_collection": null,
+    "budget": 250000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt14948432",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 73669,
+        "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+        "name": "Seven Bucks Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 92693,
+        "logo_path": "/rMKRo8kFoJKxZr0MFEVRoZ8b54E.png",
+        "name": "The Detective Agency",
+        "origin_country": "US"
+      },
+      {
+        "id": 25998,
+        "logo_path": null,
+        "name": "Chris Morgan Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/d6HwljzlOzxJ4tXlrpRkNZaZMWL.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 185700759,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "trailer": "U8XH3W0cMss",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lgkPzcOSnTvjeMnuFzozRO5HHw1.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      16,
+      878
+    ],
+    "id": 519182,
+    "original_language": "en",
+    "original_title": "Despicable Me 4",
+    "overview": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+    "popularity": 35.4443,
+    "poster_path": "/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
+    "release_date": "2024-06-20",
+    "title": "Despicable Me 4",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 2867,
+    "belongs_to_collection": {
+      "id": 86066,
+      "name": "Mi villano favorito - Colección",
+      "poster_path": "/xiA6S0XNwMCMERS18ekGQPohIYr.jpg",
+      "backdrop_path": "/37xamYKRUGCRux532lKcZdVGYuR.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "https://www.universalpictures-latam.com/micro/dm4",
+    "imdb_id": "tt7510222",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 969597394,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "trailer": "qQlr9-rF32A",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xi1VSt3DtkevUmzCx2mNlCoDe74.jpg",
+    "genre_ids": [
+      27,
+      35,
+      14
+    ],
+    "id": 917496,
+    "original_language": "en",
+    "original_title": "Beetlejuice Beetlejuice",
+    "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+    "popularity": 9.4987,
+    "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+    "release_date": "2024-09-04",
+    "title": "Beetlejuice Beetlejuice",
+    "video": false,
+    "vote_average": 6.999,
+    "vote_count": 2667,
+    "belongs_to_collection": {
+      "id": 945475,
+      "name": "Beetlejuice Collection",
+      "poster_path": "/jxp9sLEcIIuuxEm0olA33LAM8JF.jpg",
+      "backdrop_path": "/fosuzKaLA43tcW9gzmW5Tc354hf.jpg"
+    },
+    "budget": 99000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/beetlejuice-beetlejuice#about",
+    "imdb_id": "tt2049403",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 360,
+        "logo_path": "/7j0Z7TEW0YQyL4W1dcigaE44OfV.png",
+        "name": "Geffen Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 81,
+        "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+        "name": "Plan B Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 8601,
+        "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+        "name": "Tim Burton Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 228708,
+        "logo_path": null,
+        "name": "Tommy Harper Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 451900435,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Has esperado una eternidad para esto.",
+    "trailer": "CoZqL9N6Rx4",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/58D6ZAvOKxlHjyX9S8qNKSBE9Y.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 718821,
+    "original_language": "en",
+    "original_title": "Twisters",
+    "overview": "As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+    "popularity": 12.6753,
+    "poster_path": "/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg",
+    "release_date": "2024-07-10",
+    "title": "Twisters",
+    "video": false,
+    "vote_average": 6.818,
+    "vote_count": 2575,
+    "belongs_to_collection": {
+      "id": 1062948,
+      "name": "Tornado Colección",
+      "poster_path": "/s6jL8oqIQGkQ51tnTl7OKMofTIY.jpg",
+      "backdrop_path": "/bnb3pWSDihCCeZ0wGlFBbTScyZv.jpg"
+    },
+    "budget": 155000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt12584954",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 372262265,
+    "runtime": 123,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Perseguir. Conducir. Sobrevivir.",
+    "trailer": "wdok0rZdmx4",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6XjMwQTvnICBz6TguiDKkDVHvgS.jpg",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "id": 762441,
+    "original_language": "en",
+    "original_title": "A Quiet Place: Day One",
+    "overview": "As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive with her cat.",
+    "popularity": 13.9989,
+    "poster_path": "/hU42CRk14JuPEdqZG3AWmagiPAP.jpg",
+    "release_date": "2024-06-26",
+    "title": "A Quiet Place: Day One",
+    "video": false,
+    "vote_average": 6.712,
+    "vote_count": 2879,
+    "belongs_to_collection": null,
+    "budget": 67000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt13433802",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2481,
+        "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+        "name": "Platinum Dunes",
+        "origin_country": "US"
+      },
+      {
+        "id": 29312,
+        "logo_path": "/v6aLhoAviWYkfOksBJTd9XbO0YH.png",
+        "name": "Sunday Night Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 261907653,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Escuche cómo todo comenzó.",
+    "trailer": "YPY7J-flzE8",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 912649,
+    "original_language": "en",
+    "original_title": "Venom: The Last Dance",
+    "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+    "popularity": 36.5472,
+    "poster_path": "/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+    "release_date": "2024-10-22",
+    "title": "Venom: The Last Dance",
+    "video": false,
+    "vote_average": 6.708,
+    "vote_count": 3607,
+    "belongs_to_collection": {
+      "id": 558216,
+      "name": "Venom - Colección",
+      "poster_path": "/lzQgrRH0xkhlY0eTg8kFXlKd7KT.jpg",
+      "backdrop_path": "/vq340s8DxA5Q209FT8PHA6CXYOx.jpg"
+    },
+    "budget": 120000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "https://www.sonypictures.com.mx/peliculas/venom-el-ultimo-baile",
+    "imdb_id": "tt16366836",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 84041,
+        "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+        "name": "Pascal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 53462,
+        "logo_path": "/nx8B3Phlcse02w86RW4CJqzCnfL.png",
+        "name": "Matt Tolmach Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 91797,
+        "logo_path": "/1AvZ17QgpvN8zGI06ZWoN6gJeDH.png",
+        "name": "Hutch Parker Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 14439,
+        "logo_path": null,
+        "name": "Arad Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 478103649,
+    "runtime": 109,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Hasta que la muerte los separe.",
+    "trailer": "__2bjWbetsA",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/euYIwmwkmz95mnXvufEmbL6ovhZ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "id": 558449,
+    "original_language": "en",
+    "original_title": "Gladiator II",
+    "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+    "popularity": 28.8943,
+    "poster_path": "/2cxhvwyEwRlysAmRH4iodkvo0z5.jpg",
+    "release_date": "2024-11-13",
+    "title": "Gladiator II",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 3723,
+    "belongs_to_collection": {
+      "id": 1069584,
+      "name": "Gladiador - Colección",
+      "poster_path": "/aRMttbADa60lYPVTfW0JKMzsvq0.jpg",
+      "backdrop_path": "/1VdLvSIeHuwqCT13H9EafxCacGB.jpg"
+    },
+    "budget": 310000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt9218128",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 221347,
+        "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+        "name": "Scott Free Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 246486,
+        "logo_path": null,
+        "name": "Lucy Fisher/Douglas Wick Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 462180717,
+    "runtime": 148,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "trailer": "4rgYUipGJNo",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5cCfqeUH2f5Gnu7Lh9xepY9TB6x.jpg",
+    "genre_ids": [
+      14,
+      12,
+      35
+    ],
+    "id": 967847,
+    "original_language": "en",
+    "original_title": "Ghostbusters: Frozen Empire",
+    "overview": "When the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.",
+    "popularity": 6.752,
+    "poster_path": "/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
+    "release_date": "2024-03-20",
+    "title": "Ghostbusters: Frozen Empire",
+    "video": false,
+    "vote_average": 6.484,
+    "vote_count": 1883,
+    "belongs_to_collection": {
+      "id": 2980,
+      "name": "Los Cazafantasmas - Colección",
+      "poster_path": "/xMIU7Z0EwU3nSJM4imcFKSUJGXt.jpg",
+      "backdrop_path": "/guigdRPHN65fsgZHmvVvBOyiArf.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "https://waa.ai/cJfD",
+    "imdb_id": "tt21235248",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 84042,
+        "logo_path": "/hbln3zGw1R6mkfRETOaUbRuAJSI.png",
+        "name": "Ghost Corps",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 201967521,
+    "runtime": 115,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Un escalofrío recorrerá tu espalda.",
+    "trailer": "HpOBXh02rVc",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tpiqEVTLRz2Mq7eLq5DT8jSrp71.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 934632,
+    "original_language": "en",
+    "original_title": "Rebel Moon - Part Two: The Scargiver",
+    "overview": "The rebels gear up for battle against the ruthless forces of the Motherworld as unbreakable bonds are forged, heroes emerge — and legends are made.",
+    "popularity": 4.8861,
+    "poster_path": "/95gnJZIk2rEkMO0Ch46x5CVjnms.jpg",
+    "release_date": "2024-04-19",
+    "title": "Rebel Moon - Part Two: The Scargiver",
+    "video": false,
+    "vote_average": 6.1,
+    "vote_count": 1320,
+    "belongs_to_collection": {
+      "id": 934765,
+      "name": "Rebel Moon Collection",
+      "poster_path": "/6HLBxS3bPVCTRsWiy17BYvZUcb9.jpg",
+      "backdrop_path": "/tCo96jmjKEMoWa5eCZNNss3MtMH.jpg"
+    },
+    "budget": 83000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "https://www.netflix.com/mx/title/81624666",
+    "imdb_id": "tt23137904",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 114152,
+        "logo_path": "/xYfrnGFXxrEy5x5OVThunxHYScK.png",
+        "name": "The Stone Quarry",
+        "origin_country": "US"
+      },
+      {
+        "id": 156880,
+        "logo_path": "/jyHwJYa76aHLLS9Sg9c5LiOLcDQ.png",
+        "name": "Grand Electric",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 123,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "trailer": "UEJuNHOd8Dw",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uGmYqxh8flqkudioyFtD7IJSHxK.jpg",
+    "genre_ids": [
+      18,
+      80,
+      53
+    ],
+    "id": 889737,
+    "original_language": "en",
+    "original_title": "Joker: Folie à Deux",
+    "overview": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+    "popularity": 8.8691,
+    "poster_path": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
+    "release_date": "2024-10-01",
+    "title": "Joker: Folie à Deux",
+    "video": false,
+    "vote_average": 5.427,
+    "vote_count": 2508,
+    "belongs_to_collection": {
+      "id": 987044,
+      "name": "Guasón - Colección",
+      "poster_path": "/d1c5tpRamibA7M0UdOhgboqOQms.jpg",
+      "backdrop_path": "/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg"
+    },
+    "budget": 190000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt11315808",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 83036,
+        "logo_path": null,
+        "name": "Joint Effort",
+        "origin_country": "US"
+      },
+      {
+        "id": 216687,
+        "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+        "name": "Domain Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 207500287,
+    "runtime": 138,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El mundo es un escenario.",
+    "trailer": "_OKAwz2MsJs",
+    "added_date": "2025-09-27"
+  }
+]

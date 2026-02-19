@@ -1,0 +1,1085 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/aBwn1DUpAUgluPNlR2RCjaw7wWn.jpg",
+    "belongs_to_collection": {
+      "id": 12203,
+      "name": "El Maestro Borracho - Colección",
+      "poster_path": "/4YKqOyFW1IP4jyX1vy5BooM0dU.jpg",
+      "backdrop_path": "/eryXQLWERsknzQsGQhWK1ftXzgX.jpg"
+    },
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 12207,
+    "imdb_id": "tt0111512",
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "醉拳二",
+    "overview": "Cuando el gobierno británico es descubierto traficando con obras de arte chinas fuera del país, el héroe Wong Fei Hung (Chan) utiliza sus extravagantes artes marciales para luchar contra los conspiradores y salvar las obras, antes de que sea demasiado tarde. Cuanto más bebe Hung, más ágil se vuelve, siendo capaz de defenderse de numerosos ataques, con increíbles movimientos. Hung consigue, de esta manera, afrontar todo tipo de desafíos.",
+    "popularity": 3.7881,
+    "poster_path": "/jBcsGcLuDXYQCZGEjyRd8QM0Xmm.jpg",
+    "production_companies": [
+      {
+        "id": 2521,
+        "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+        "name": "Orange Sky Golden Harvest",
+        "origin_country": "HK"
+      },
+      {
+        "id": 130978,
+        "logo_path": null,
+        "name": "Hong Kong Stuntman Association",
+        "origin_country": "HK"
+      },
+      {
+        "id": 2734,
+        "logo_path": null,
+        "name": "Paragon Films",
+        "origin_country": "HK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "1994-02-03",
+    "revenue": 34300528,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El Maestro Borracho II",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 1019,
+    "added_date": "2025-09-28"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tllmUjmEQKF0OaH7FgqZYnLBsYB.jpg",
+    "belongs_to_collection": {
+      "id": 947429,
+      "name": "Father Knows Best Collection",
+      "poster_path": "/mih5elkOf6FzcXKarvnf6MPN4qq.jpg",
+      "backdrop_path": "/r2AONqU2VF4O32fumHqNjVnQEO3.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 10451,
+    "imdb_id": "tt0111797",
+    "origin_country": [
+      "TW"
+    ],
+    "original_language": "zh",
+    "original_title": "飲食男女",
+    "overview": "",
+    "popularity": 1.8127,
+    "poster_path": "/uUTk6VVzmsUArSicFbaLLAiemVL.jpg",
+    "production_companies": [
+      {
+        "id": 10565,
+        "logo_path": "/5djnxodjmgbzdXiNRllwhQPxANY.png",
+        "name": "Good Machine",
+        "origin_country": "US"
+      },
+      {
+        "id": 5528,
+        "logo_path": null,
+        "name": "Ang Lee Productions",
+        "origin_country": "TW"
+      },
+      {
+        "id": 25345,
+        "logo_path": "/pFRF57Hp5x8EKIqmWHv1t34dWVR.png",
+        "name": "Central Motion Picture Corporation",
+        "origin_country": "TW"
+      },
+      {
+        "id": 199749,
+        "logo_path": null,
+        "name": "Xiongfa Film Company",
+        "origin_country": "CN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TW",
+        "name": "Taiwan"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1994-08-03",
+    "revenue": 24194403,
+    "runtime": 123,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "飲食男女",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 365,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 278,
+    "original_language": "en",
+    "original_title": "The Shawshank Redemption",
+    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "popularity": 28.365,
+    "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "release_date": "1994-09-23",
+    "title": "The Shawshank Redemption",
+    "video": false,
+    "vote_average": 8.712,
+    "vote_count": 28626,
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0111161",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 97,
+        "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+        "name": "Castle Rock Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 28341469,
+    "runtime": 143,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La esperanza es algo bueno, quizás sea lo mejor. Y lo bueno núnca muere.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "genre_ids": [
+      53,
+      80,
+      35,
+      18
+    ],
+    "id": 680,
+    "original_language": "en",
+    "original_title": "Pulp Fiction",
+    "overview": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "popularity": 20.9817,
+    "poster_path": "/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+    "release_date": "1994-09-10",
+    "title": "Pulp Fiction",
+    "video": false,
+    "vote_average": 8.487,
+    "vote_count": 28925,
+    "belongs_to_collection": null,
+    "budget": 8000000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0110912",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      },
+      {
+        "id": 59,
+        "logo_path": "/b1tj5EWcFQLYaQrw1D9V4s8kUgN.png",
+        "name": "A Band Apart",
+        "origin_country": "US"
+      },
+      {
+        "id": 216,
+        "logo_path": "/iKPzC6YxqNAk6fMoTtFhIF5p6yw.png",
+        "name": "Jersey Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 213928762,
+    "runtime": 154,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/67HggiWaP9ZLv5sPYmyRV37yAJM.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "id": 13,
+    "original_language": "en",
+    "original_title": "Forrest Gump",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "popularity": 18.7509,
+    "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+    "release_date": "1994-06-23",
+    "title": "Forrest Gump",
+    "video": false,
+    "vote_average": 8.468,
+    "vote_count": 28455,
+    "belongs_to_collection": null,
+    "budget": 55000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0109830",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 21920,
+        "logo_path": null,
+        "name": "The Steve Tisch Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 412,
+        "logo_path": null,
+        "name": "Wendy Finerman Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 677387716,
+    "runtime": 142,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La vida es como una caja de bombones... nunca sabes lo que te va a tocar.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wXsQvli6tWqja51pYxXNG1LFIGV.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      18,
+      14,
+      12
+    ],
+    "id": 8587,
+    "original_language": "en",
+    "original_title": "The Lion King",
+    "overview": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+    "popularity": 14.6125,
+    "poster_path": "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "release_date": "1994-06-15",
+    "title": "The Lion King",
+    "video": false,
+    "vote_average": 8.258,
+    "vote_count": 18904,
+    "belongs_to_collection": {
+      "id": 94032,
+      "name": "El rey león - Colección",
+      "poster_path": "/ziOlEr5aYVlNTYz4mpXdKAEzJZl.jpg",
+      "backdrop_path": "/A9IEaj9cPAwEgFnTmteB70oxgJY.jpg"
+    },
+    "budget": 45000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0110357",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171656,
+        "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+        "name": "Walt Disney Feature Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 763455561,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La mayor aventura es encontrar nuestro sitio en el ciclo de la vida.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kJQS6jxxtNTaWI8jw7ynck97rgl.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1637,
+    "original_language": "en",
+    "original_title": "Speed",
+    "overview": "Jack Traven, an LAPD cop on SWAT detail, and veteran SWAT officer Harry Temple thwart an extortionist-bomber's scheme for a $3 million ransom. As they corner the bomber, he flees and detonates a bomb vest, seemingly killing himself. Weeks later, Jack witnesses a mass transit city bus explode and nearby a pay phone rings. On the phone is that same bomber looking for vengeance and the money he's owed. He gives a personal challenge to Jack: a bomb is rigged on another city bus - if it slows down below 50 mph, it will explode - bad enough any day, but a nightmare in LA traffic. And that's just the beginning...",
+    "popularity": 6.7684,
+    "poster_path": "/o1Zs7VaS9y2GYH9CLeWxaVLWd3x.jpg",
+    "release_date": "1994-06-09",
+    "title": "Speed",
+    "video": false,
+    "vote_average": 7.142,
+    "vote_count": 6437,
+    "belongs_to_collection": {
+      "id": 43064,
+      "name": "Máxima Velocidad - Colección",
+      "poster_path": "/67iiAakOS6nW2pvZD4b5pHpw85N.jpg",
+      "backdrop_path": "/waNV7lQsnMzjQKelCgvF3T927LL.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0111257",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 1557,
+        "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+        "name": "The Mark Gordon Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 350448145,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Prepárate para la hora pico.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jRZ3joUcg8YDCQYl4Tog5xhY6wk.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 36955,
+    "original_language": "en",
+    "original_title": "True Lies",
+    "overview": "A fearless, globe-trotting, terrorist-battling secret agent has his life turned upside down when he discovers his wife might be having an affair with a used car salesman while terrorists smuggle nuclear war heads into the United States.",
+    "popularity": 4.8389,
+    "poster_path": "/pweFTnzzTfGK68woSVkiTgjLzWm.jpg",
+    "release_date": "1994-07-15",
+    "title": "True Lies",
+    "video": false,
+    "vote_average": 7.082,
+    "vote_count": 4278,
+    "belongs_to_collection": null,
+    "budget": 115000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0111503",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 574,
+        "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+        "name": "Lightstorm Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 378900000,
+    "runtime": 141,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La verdad puede ser peligrosa... y muy, muy divertida.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/80uHK2xWwjlOxmfJ1wQB09omAht.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      80,
+      14
+    ],
+    "id": 854,
+    "original_language": "en",
+    "original_title": "The Mask",
+    "overview": "When timid bank clerk Stanley Ipkiss discovers a magical mask containing the spirit of the Norse god Loki, his entire life changes. While wearing the mask, Ipkiss becomes a supernatural playboy exuding charm and confidence which allows him to catch the eye of local nightclub singer Tina Carlyle. Unfortunately, under the mask's influence, Ipkiss also robs a bank, which angers junior crime lord Dorian Tyrell, whose goons get blamed for the heist.",
+    "popularity": 10.8761,
+    "poster_path": "/yd3wjLLeQHJ3oRDy4wwiNNFVyLW.jpg",
+    "release_date": "1994-07-29",
+    "title": "The Mask",
+    "video": false,
+    "vote_average": 6.967,
+    "vote_count": 10677,
+    "belongs_to_collection": {
+      "id": 43072,
+      "name": "La máscara - Colección",
+      "poster_path": "/zf7hBzgMrh67oa8pawysmpQ1UZe.jpg",
+      "backdrop_path": "/ucDNm5TJW1ji7kIjnX2SZYm7ATM.jpg"
+    },
+    "budget": 23000000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0110475",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 552,
+        "logo_path": "/9dGdLfm3GteWeUDtD9c9tvlidUG.png",
+        "name": "Dark Horse Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 351583407,
+    "runtime": 101,
+    "spoken_languages": [
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "De cero a héroe.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/YfGn3fRHqswQXJaIZs5yYO9OWI.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 8467,
+    "original_language": "en",
+    "original_title": "Dumb and Dumber",
+    "overview": "Lloyd and Harry are two men whose stupidity is really indescribable. When Mary, a beautiful woman, loses an important suitcase with money before she leaves for Aspen, the two friends (who have found the suitcase) decide to return it to her. After some \"adventures\" they finally get to Aspen where, using the lost money they live it up and fight for Mary's heart.",
+    "popularity": 6.8829,
+    "poster_path": "/4LdpBXiCyGKkR8FGHgjKlphrfUc.jpg",
+    "release_date": "1994-12-16",
+    "title": "Dumb and Dumber",
+    "video": false,
+    "vote_average": 6.637,
+    "vote_count": 6350,
+    "belongs_to_collection": {
+      "id": 96665,
+      "name": "Una pareja de idiotas - Colección",
+      "poster_path": "/bkAhPglWif1eTwyReOqEDwOe005.jpg",
+      "backdrop_path": "/saUnj5K6buVafDfLfTozDH2eqdC.jpg"
+    },
+    "budget": 16000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0109686",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 2090,
+        "logo_path": "/jYlUttNqcN5u1pzMQrh5AEhZ27t.png",
+        "name": "Motion Picture Corporation of America",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 247275374,
+    "runtime": 107,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Para Harry y Lloyd, cada día es una obviedad.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2MDqPMYUmX7DNZ0yIIDCHpyBC7d.jpg",
+    "genre_ids": [
+      35,
+      9648,
+      80
+    ],
+    "id": 3049,
+    "original_language": "en",
+    "original_title": "Ace Ventura: Pet Detective",
+    "overview": "He's Ace Ventura: Pet Detective. Jim Carrey is on the case to find the Miami Dolphins' missing mascot and quarterback Dan Marino. He goes eyeball to eyeball with a man-eating shark, stakes out the Miami Dolphins and woos and wows the ladies. Whether he's undercover, under fire or underwater, he always gets his man… or beast!",
+    "popularity": 6.2136,
+    "poster_path": "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg",
+    "release_date": "1994-02-04",
+    "title": "Ace Ventura: Pet Detective",
+    "video": false,
+    "vote_average": 6.571,
+    "vote_count": 6026,
+    "belongs_to_collection": {
+      "id": 3167,
+      "name": "Ace Ventura - Colección",
+      "poster_path": "/5Tmxq1OtaLTj7cMo3jI5fkRXts3.jpg",
+      "backdrop_path": "/81lmzeTuMAyrDpgX6um9PIYgw8Y.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0109040",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 10210,
+        "logo_path": "/fmFmUxBijh8764GNSSIiwXYD83K.png",
+        "name": "Morgan Creek Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 107217396,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7bDfeFS4utVf2LNN5lr2pnVgRTb.jpg",
+    "genre_ids": [
+      35,
+      12,
+      10751,
+      80,
+      18
+    ],
+    "id": 11212,
+    "original_language": "en",
+    "original_title": "Baby's Day Out",
+    "overview": "Baby Bink couldn't ask for more: he has adoring (if somewhat sickly-sweet) parents, lives in a huge mansion, and he's just about to appear in the social pages of the paper. Unfortunately, not everyone in the world is as nice as Baby Bink's parents—especially the three enterprising kidnappers who pretend to be photographers from the newspaper. Successfully kidnapping Baby Bink, they have a harder time keeping hold of the rascal, who not only keeps one step ahead of them, but seems to be more than a little bit smarter than the three bumbling criminals.",
+    "popularity": 5.0001,
+    "poster_path": "/21U2jwl36hoTHsXB3fDuIQkcchu.jpg",
+    "release_date": "1994-07-01",
+    "title": "Baby's Day Out",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 1364,
+    "belongs_to_collection": null,
+    "budget": 50000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0109190",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 477,
+        "logo_path": "/4wfCdggcE3ZG26uJpnAvyI0vEeL.png",
+        "name": "Hughes Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 16671505,
+    "runtime": 99,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Sin babero. Sin cuna. No hay problema.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vmXRiIs6alZFDtlHlUT3Tx5rHww.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      53
+    ],
+    "id": 11667,
+    "original_language": "en",
+    "original_title": "Street Fighter",
+    "overview": "Colonel Guile and various other martial arts heroes fight against the tyranny of dictator M. Bison and his cohorts.",
+    "popularity": 2.3347,
+    "poster_path": "/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg",
+    "release_date": "1994-12-23",
+    "title": "Street Fighter",
+    "video": false,
+    "vote_average": 4.6,
+    "vote_count": 1534,
+    "belongs_to_collection": null,
+    "budget": 35000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0111301",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7220,
+        "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+        "name": "Capcom",
+        "origin_country": "JP"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 6455,
+        "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+        "name": "Pressman Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 64110,
+        "logo_path": null,
+        "name": "Film Queensland",
+        "origin_country": "AU"
+      },
+      {
+        "id": 105748,
+        "logo_path": null,
+        "name": "Salon Films",
+        "origin_country": "TH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      },
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      },
+      {
+        "iso_3166_1": "TH",
+        "name": "Thailand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 99423521,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Esperanto",
+        "iso_639_1": "eo",
+        "name": "Esperanto"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Street Fighter: La última batalla",
+    "added_date": "2025-09-27"
+  }
+]

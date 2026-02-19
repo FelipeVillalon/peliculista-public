@@ -1,0 +1,2701 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/6IcKXawCxDd6QZ8CfQHamp3qFDO.jpg",
+    "belongs_to_collection": null,
+    "budget": 825000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 17097,
+    "imdb_id": "tt0465375",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "After Sex",
+    "overview": "",
+    "popularity": 1.7539,
+    "poster_path": "/jlh0wTuIS7mSLxapxLXfOf53VoD.jpg",
+    "production_companies": [
+      {
+        "id": 37304,
+        "logo_path": null,
+        "name": "Supino Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 2088,
+        "logo_path": "/AoCD5EcqTAuLkxwsKAXYG2VARPP.png",
+        "name": "NALA Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2007-09-26",
+    "revenue": 0,
+    "runtime": 78,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "After Sex",
+    "video": false,
+    "vote_average": 5.548,
+    "vote_count": 238,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      14
+    ],
+    "id": 2062,
+    "original_language": "en",
+    "original_title": "Ratatouille",
+    "overview": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.",
+    "popularity": 14.933,
+    "poster_path": "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+    "release_date": "2007-06-28",
+    "title": "Ratatouille",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 17675,
+    "belongs_to_collection": null,
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0382932",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 623726000,
+    "runtime": 110,
+    "spoken_languages": [
+      {
+        "english_name": "Danish",
+        "iso_639_1": "da",
+        "name": "Dansk"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Él se muere por ser un chef.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/82a7AGF081PzFfoM8GAVGMvZNYK.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 675,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Order of the Phoenix",
+    "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+    "popularity": 20.8806,
+    "poster_path": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+    "release_date": "2007-07-08",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "video": false,
+    "vote_average": 7.674,
+    "vote_count": 20035,
+    "belongs_to_collection": {
+      "id": 1241,
+      "name": "Harry Potter - Colección",
+      "poster_path": "/5m8RGRYDhnR6TQANkePx9lrv8fG.jpg",
+      "backdrop_path": "/kmEsQL2vOTA0jnM28fXS45Ky8kX.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0373889",
+    "origin_country": [
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 938212738,
+    "runtime": 138,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El mal debe ser enfrentado.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dLL90vskYFn1S89RZp5TUguK9wl.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 4982,
+    "original_language": "en",
+    "original_title": "American Gangster",
+    "overview": "Loosely based on the criminal career of Frank Lucas, a gangster from La Grange, North Carolina, who smuggled heroin into the United States on American service planes returning from the Vietnam War, before being detained by a task force led by Newark Detective Richie Roberts.",
+    "popularity": 6.0073,
+    "poster_path": "/8sV6nWuKczuXRt0C6EWoXqJAj6G.jpg",
+    "release_date": "2007-11-02",
+    "title": "American Gangster",
+    "video": false,
+    "vote_average": 7.59,
+    "vote_count": 5678,
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0765429",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 8083,
+        "logo_path": null,
+        "name": "Film Rites",
+        "origin_country": "US"
+      },
+      {
+        "id": 23,
+        "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+        "name": "Imagine Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7295,
+        "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+        "name": "Relativity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 221347,
+        "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+        "name": "Scott Free Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 269755430,
+    "runtime": 157,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Hay dos lados del sueño americano",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/77P56ZcL8M9Cw7FIptMIGjhNJoj.jpg",
+    "genre_ids": [
+      12,
+      878,
+      28
+    ],
+    "id": 1858,
+    "original_language": "en",
+    "original_title": "Transformers",
+    "overview": "Young teenager Sam Witwicky becomes involved in the ancient struggle between two extraterrestrial factions of transforming robots – the heroic Autobots and the evil Decepticons. Sam holds the clue to unimaginable power and the Decepticons will stop at nothing to retrieve it.",
+    "popularity": 3.4821,
+    "poster_path": "/1P7w3AImoEOWJX7nn3fdaKDfEQA.jpg",
+    "release_date": "2007-06-27",
+    "title": "Transformers",
+    "video": false,
+    "vote_average": 6.8,
+    "vote_count": 11662,
+    "belongs_to_collection": {
+      "id": 8650,
+      "name": "Transformers - Colección",
+      "poster_path": "/uUhVOA4GNN5AQ5aR2ohAa1PDYLQ.jpg",
+      "backdrop_path": "/rkLyg9ClVRtfCAu89y2sxTCOjvt.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0418279",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 435,
+        "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+        "name": "di Bonaventura Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 38831,
+        "logo_path": null,
+        "name": "DeSanto/Murphy Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 709709780,
+    "runtime": 144,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Su guerra. Nuestro mundo.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sZIJkZPKySo398Me4HLeUM7eCy0.jpg",
+    "genre_ids": [
+      16,
+      28,
+      14
+    ],
+    "id": 20982,
+    "original_language": "ja",
+    "original_title": "劇場版 NARUTO -ナルト- 疾風伝",
+    "overview": "Demons that once almost destroyed the world, are revived by someone. To prevent the world from being destroyed, the demon has to be sealed and the only one who can do it is the shrine maiden Shion from the country of demons, who has two powers; one is sealing demons and the other is predicting the deaths of humans. This time Naruto's mission is to guard Shion, but she predicts Naruto's death. The only way to escape it, is to get away from Shion, which would leave her unguarded, then the demon, whose only goal is to kill Shion will do so, thus meaning the end of the world. Naruto decides to challenge this \"prediction of death.\"",
+    "popularity": 4.7804,
+    "poster_path": "/vDkct38sSFSWJIATlfJw0l3QOIR.jpg",
+    "release_date": "2007-08-04",
+    "title": "Naruto Shippuden the Movie",
+    "video": false,
+    "vote_average": 7.405,
+    "vote_count": 1040,
+    "belongs_to_collection": {
+      "id": 23616,
+      "name": "Naruto - Colección",
+      "poster_path": "/3XNeBzlAYo0GsbryNHulkY52MOq.jpg",
+      "backdrop_path": "/prLI2SNNkd9wcQkFh9iWXzQtR5D.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0988982",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 3234,
+        "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+        "name": "Pierrot",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3034,
+        "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+        "name": "TV Tokyo",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2883,
+        "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+        "name": "Aniplex",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1778,
+        "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+        "name": "dentsu",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 13219807,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "id": 285,
+    "original_language": "en",
+    "original_title": "Pirates of the Caribbean: At World's End",
+    "overview": "Will Turner and Elizabeth Swann join forces with the revived Captain Barbossa to free Jack Sparrow from Davy Jones' locker. The group must navigate dangerous waters, confront many foes and, ultimately, choose sides in a battle wherein piracy itself hangs in the balance.",
+    "popularity": 17.9469,
+    "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+    "release_date": "2007-05-19",
+    "title": "Pirates of the Caribbean: At World's End",
+    "video": false,
+    "vote_average": 7.261,
+    "vote_count": 14824,
+    "belongs_to_collection": {
+      "id": 295,
+      "name": "Piratas del Caribe - Colección",
+      "poster_path": "/aTP6lznCDV4eF8zR9ytlPU9PjHd.jpg",
+      "backdrop_path": "/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg"
+    },
+    "budget": 300000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0449088",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 130,
+        "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+        "name": "Jerry Bruckheimer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 19936,
+        "logo_path": null,
+        "name": "Second Mate Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 961691209,
+    "runtime": 168,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "En el fin del mundo, la aventura comienza.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mFt3dvxKugYPgUQgV16M6K2nEtc.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 8363,
+    "original_language": "en",
+    "original_title": "Superbad",
+    "overview": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+    "popularity": 7.6748,
+    "poster_path": "/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg",
+    "release_date": "2007-08-17",
+    "title": "Superbad",
+    "video": false,
+    "vote_average": 7.255,
+    "vote_count": 7605,
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0829482",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10105,
+        "logo_path": "/bN4tiAS8oNlHhIqq66KBPQ1Ekqh.png",
+        "name": "Apatow Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 170800000,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡Ven y toma algo!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/g6pNnKmvTkNlEvn0ScwstYvhFE.jpg",
+    "genre_ids": [
+      27,
+      18,
+      53
+    ],
+    "id": 6537,
+    "original_language": "es",
+    "original_title": "El orfanato",
+    "overview": "A woman brings her family back to her childhood home, which used to be an orphanage, intent on reopening it. Before long, her son starts to communicate with a new invisible friend.",
+    "popularity": 3.117,
+    "poster_path": "/vIpi1KtHLXUOfSVC2m6MqpjSPgL.jpg",
+    "release_date": "2007-05-20",
+    "title": "The Orphanage",
+    "video": false,
+    "vote_average": 7.234,
+    "vote_count": 2958,
+    "belongs_to_collection": null,
+    "budget": 3400000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0464141",
+    "origin_country": [
+      "BE",
+      "FR",
+      "ES"
+    ],
+    "production_companies": [
+      {
+        "id": 1182,
+        "logo_path": "/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png",
+        "name": "Telecinco Cinema",
+        "origin_country": "ES"
+      },
+      {
+        "id": 11651,
+        "logo_path": "/i5JILeNrP9piqdJWmfQCbTHQKJf.png",
+        "name": "Rodar y Rodar",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "revenue": 78638987,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Un cuento de amor. Una historia de terror.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xfrguTH6maYiGsC8FXiQ9N3lZXw.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 8329,
+    "original_language": "es",
+    "original_title": "[REC]",
+    "overview": "A television reporter and cameraman follow emergency workers into a dark apartment building and are quickly locked inside with something terrifying.",
+    "popularity": 6.2045,
+    "poster_path": "/5XsVGgo8I12v3KlPcD0r1CNHMC6.jpg",
+    "release_date": "2007-11-23",
+    "title": "[REC]",
+    "video": false,
+    "vote_average": 7.221,
+    "vote_count": 4600,
+    "belongs_to_collection": {
+      "id": 74508,
+      "name": "REC - Colección",
+      "poster_path": "/4dMROKV4sAyIHX8PfJhhPs73nGt.jpg",
+      "backdrop_path": "/txIG3D9UrvF4QRo8AEjhAeRMYSm.jpg"
+    },
+    "budget": 1500000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1038988",
+    "origin_country": [
+      "ES"
+    ],
+    "production_companies": [
+      {
+        "id": 3631,
+        "logo_path": "/ttrj8O0KF5PbUoHamU2mTOLB6d9.png",
+        "name": "Filmax",
+        "origin_country": "ES"
+      },
+      {
+        "id": 7956,
+        "logo_path": null,
+        "name": "Castelao Productions",
+        "origin_country": "ES"
+      },
+      {
+        "id": 9335,
+        "logo_path": null,
+        "name": "Canal+ España",
+        "origin_country": "ES"
+      },
+      {
+        "id": 981,
+        "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+        "name": "TVE",
+        "origin_country": "ES"
+      },
+      {
+        "id": 29259,
+        "logo_path": null,
+        "name": "ICO",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "revenue": 32511655,
+    "runtime": 76,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6RTy7uC4C5pue8snDfbVxrZ160n.jpg",
+    "genre_ids": [
+      18,
+      878,
+      53
+    ],
+    "id": 6479,
+    "original_language": "en",
+    "original_title": "I Am Legend",
+    "overview": "Robert Neville is a scientist who was unable to stop the spread of the terrible virus that was incurable and man-made. Immune, Neville is now the last human survivor in what is left of New York City and perhaps the world. For three years, Neville has faithfully sent out daily radio messages, desperate to find any other survivors who might be out there. But he is not alone.",
+    "popularity": 11.7923,
+    "poster_path": "/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+    "release_date": "2007-12-12",
+    "title": "I Am Legend",
+    "video": false,
+    "vote_average": 7.21,
+    "vote_count": 16163,
+    "belongs_to_collection": {
+      "id": 945984,
+      "name": "Soy Leyenda - Colección",
+      "poster_path": "/kMWArwXFzMwCzRMRzJqZBC6d22A.jpg",
+      "backdrop_path": "/nvwI0ohPlC4M9rBMr3ZORFvcMQr.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0480249",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 433,
+        "logo_path": "/iafkKMpcRfEXq9a4sQf0h6tg2E2.png",
+        "name": "Weed Road Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 907,
+        "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+        "name": "Overbrook Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 333,
+        "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+        "name": "Original Film",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 585410052,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El último humano sobre la Tierra no está solo...",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+    "genre_ids": [
+      28,
+      12,
+      10752
+    ],
+    "id": 1271,
+    "original_language": "en",
+    "original_title": "300",
+    "overview": "Based on Frank Miller's graphic novel, \"300\" is very loosely based the 480 B.C. Battle of Thermopylae, where the King of Sparta led his army against the advancing Persians; the battle is said to have inspired all of Greece to band together against the Persians, and helped usher in the world's first democracy.",
+    "popularity": 8.2695,
+    "poster_path": "/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg",
+    "release_date": "2007-03-07",
+    "title": "300",
+    "video": false,
+    "vote_average": 7.189,
+    "vote_count": 14123,
+    "belongs_to_collection": {
+      "id": 125570,
+      "name": "300 - Colección",
+      "poster_path": "/1gAZsMeemlHQ5t3DcdDt8W4qNPG.jpg",
+      "backdrop_path": "/jeyZp2BKvAyl0L6LV3z13duoUFz.jpg"
+    },
+    "budget": 65000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0416449",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 449,
+        "logo_path": "/fV3x8bowlRCXKtkWDovLYco7cOK.png",
+        "name": "Virtual Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2994,
+        "logo_path": "/jg4nWIIjQ49APUHqTWZ09gArhF8.png",
+        "name": "Hollywood Gang Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2995,
+        "logo_path": "/drzD5Yq9aQuDEbNxlTAhmlL2izx.png",
+        "name": "Atmosphere Entertainment MM",
+        "origin_country": "US"
+      },
+      {
+        "id": 7636,
+        "logo_path": "/e6uCvCNTf0nnery1iaQh6QSgpbn.png",
+        "name": "Nimar Studios",
+        "origin_country": "BG"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9995,
+        "logo_path": "/mAIGhOYhN4N2N0F7p4dbKhgXf3l.png",
+        "name": "Cruel & Unusual Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 456082343,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Espartanos... ¡Preparense para la gloria!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uy2trYgO8MOQfQXlvMaLhBnkUqg.jpg",
+    "genre_ids": [
+      18,
+      28,
+      53
+    ],
+    "id": 7485,
+    "original_language": "en",
+    "original_title": "Shooter",
+    "overview": "A top Marine sniper, Bob Lee Swagger, leaves the military after a mission goes horribly awry and disappears, living in seclusion. He is coaxed back into service after a high-profile government official convinces him to help thwart a plot to kill the President of the United States. Ultimately double-crossed and framed for the attempt, Swagger becomes the target of a nationwide manhunt. He goes on the run to track the real killer and find out who exactly set him up, and why, eventually seeking revenge against some of the most powerful and corrupt leaders in the free world.",
+    "popularity": 8.9943,
+    "poster_path": "/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg",
+    "release_date": "2007-03-22",
+    "title": "Shooter",
+    "video": false,
+    "vote_average": 7.121,
+    "vote_count": 5117,
+    "belongs_to_collection": null,
+    "budget": 61000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0822854",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 435,
+        "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+        "name": "di Bonaventura Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 57421,
+        "logo_path": null,
+        "name": "Grosvenor Park Impact Productions",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 95700000,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ayer se trataba del honor. Hoy se trata de la justica.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 35,
+    "original_language": "en",
+    "original_title": "The Simpsons Movie",
+    "overview": "After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.",
+    "popularity": 7.8895,
+    "poster_path": "/gzb6P78zeFTnv9eoFYnaJ2YrZ5q.jpg",
+    "release_date": "2007-07-25",
+    "title": "The Simpsons Movie",
+    "video": false,
+    "vote_average": 7.012,
+    "vote_count": 8229,
+    "belongs_to_collection": null,
+    "budget": 75000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0462538",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 18,
+        "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+        "name": "Gracie Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 527068851,
+    "runtime": 86,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/f4WzxA4jiYaSKO2Zw07JEYmYFVo.jpg",
+    "genre_ids": [
+      80,
+      53
+    ],
+    "id": 298,
+    "original_language": "en",
+    "original_title": "Ocean's Thirteen",
+    "overview": "Danny Ocean's team of criminals are back and composing a plan more personal than ever. When ruthless casino owner Willy Bank doublecrosses Reuben Tishkoff, causing a heart attack, Danny Ocean vows that he and his team will do anything to bring down Willy Bank along with everything he's got. Even if it means asking for help from an enemy.",
+    "popularity": 4.4122,
+    "poster_path": "/pBsZs4zYUiUTemqbikTZ76iQRaU.jpg",
+    "release_date": "2007-06-05",
+    "title": "Ocean's Thirteen",
+    "video": false,
+    "vote_average": 6.722,
+    "vote_count": 6538,
+    "belongs_to_collection": {
+      "id": 304,
+      "name": "La Gran Estafa - Colección",
+      "poster_path": "/vp21DLKO4QPQWreleRE4Hn0KO5D.jpg",
+      "backdrop_path": "/7WUSrq8DqSkVgv1vmhBvav5bPoB.jpg"
+    },
+    "budget": 85000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0496806",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2596,
+        "logo_path": "/755EAcJW7MqKFpCPgbWicsb2QV6.png",
+        "name": "Jerry Weintraub Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 129,
+        "logo_path": "/nmnWiA0Xf0uve4Hw3HKWdVE5tH1.png",
+        "name": "Section Eight",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 311312624,
+    "runtime": 122,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aRqTPOPt8BOHE0ngppM9jnuuaeS.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1571,
+    "original_language": "en",
+    "original_title": "Live Free or Die Hard",
+    "overview": "John McClane is back and badder than ever, and this time he calls on the services of a young hacker in his bid to stop a ring of Internet terrorists intent on taking control of America's computer infrastructure.",
+    "popularity": 4.865,
+    "poster_path": "/wplG0vWnpnzkIBDxBhTfIygqfoK.jpg",
+    "release_date": "2007-06-20",
+    "title": "Live Free or Die Hard",
+    "video": false,
+    "vote_average": 6.628,
+    "vote_count": 6038,
+    "belongs_to_collection": {
+      "id": 1570,
+      "name": "Duro de Matar - Colección",
+      "poster_path": "/As8l0i21dtha874Tr0GYWsSGShW.jpg",
+      "backdrop_path": "/nKShbIW0wJnSbl3t8uPje0QhTb7.jpg"
+    },
+    "budget": 110000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0337978",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 444,
+        "logo_path": null,
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 890,
+        "logo_path": null,
+        "name": "Cheyenne Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 11845,
+        "logo_path": null,
+        "name": "Wintergreen Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 133789,
+        "logo_path": "/bJdeIb1ET3BkyodAASVDq1x3mls.png",
+        "name": "Ingenious Film Partners",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 383531464,
+    "runtime": 128,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡El policía de la vieja escuela está de vuelta!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zdxWO47KatCZhQRGaNMDXfz6DPO.jpg",
+    "genre_ids": [
+      35,
+      80
+    ],
+    "id": 13161,
+    "original_language": "en",
+    "original_title": "Big Stan",
+    "overview": "A weak con man panics when he learns he's going to prison for fraud. He hires a mysterious martial arts guru who helps transform him into a martial arts expert who can fight off inmates who want to hurt or love him.",
+    "popularity": 3.7074,
+    "poster_path": "/zS1uUwKEFcd8ak0NTXxw97DlbAa.jpg",
+    "release_date": "2007-11-03",
+    "title": "Big Stan",
+    "video": false,
+    "vote_average": 6.594,
+    "vote_count": 949,
+    "belongs_to_collection": null,
+    "budget": 7500000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0490086",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 20241,
+        "logo_path": null,
+        "name": "Crystal Sky Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 58219,
+        "logo_path": null,
+        "name": "From Out of Nowhere Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2262,
+        "logo_path": null,
+        "name": "Silver Nitrate",
+        "origin_country": "US"
+      },
+      {
+        "id": 61623,
+        "logo_path": null,
+        "name": "Chicago Entertainment Partners",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 8742330,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Deberá patear algunos traseros para salvar el suyo.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ozsLB1HRCN6ZAmJN89pWtoiAwnb.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "id": 5174,
+    "original_language": "en",
+    "original_title": "Rush Hour 3",
+    "overview": "After a botched assassination attempt, the mismatched duo finds themselves in Paris, struggling to retrieve a precious list of names, as the murderous crime syndicate's henchmen try their best to stop them. Once more, Lee and Carter must fight their way through dangerous gangsters; however, this time, the past has come back to haunt Lee. Will the boys get the job done once and for all?",
+    "popularity": 7.4415,
+    "poster_path": "/rZ7IxJlPhNNJ6Rn8z1rzsXuA70P.jpg",
+    "release_date": "2007-08-08",
+    "title": "Rush Hour 3",
+    "video": false,
+    "vote_average": 6.484,
+    "vote_count": 3460,
+    "belongs_to_collection": {
+      "id": 90863,
+      "name": "Una Pareja Explosiva - Colección",
+      "poster_path": "/iT7xJmPwUHoowHokx0hPUtoML5b.jpg",
+      "backdrop_path": "/Atik4QqBg8IrTPiCzaj9AcI9p1i.jpg"
+    },
+    "budget": 140000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0293564",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 961,
+        "logo_path": null,
+        "name": "Roger Birnbaum Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 139921,
+        "logo_path": null,
+        "name": "Arthur Sarkissian Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 197243,
+        "logo_path": null,
+        "name": "Unlike Film Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 258097122,
+    "runtime": 90,
+    "spoken_languages": [
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La explosión final está por llegar.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xMjAkXpCb55FTAV7By31p3TQMxb.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 14001,
+    "original_language": "en",
+    "original_title": "Dead Silence",
+    "overview": "Jamie returns to his hometown in search of answers to his wife's murder, which occurred after receiving a weird package containing a ventriloquist dummy named Billy, which may be linked to the legend of ventriloquist Mary Shaw. Destined to find out the truth, Jamie goes to the town of Raven's Fair, where Shaw used to perform and is buried. But Jamie is in for more than he expected.",
+    "popularity": 4.6453,
+    "poster_path": "/rvcUVdATIHKZt7BSSttUkKbeBXN.jpg",
+    "release_date": "2007-03-16",
+    "title": "Dead Silence",
+    "video": false,
+    "vote_average": 6.447,
+    "vote_count": 2333,
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0455760",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 23019,
+        "logo_path": null,
+        "name": "Evolution Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2061,
+        "logo_path": "/o9LbN33hRaj4qcebUv1bikyXeoB.png",
+        "name": "Twisted Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 22217407,
+    "runtime": 89,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 559,
+    "original_language": "en",
+    "original_title": "Spider-Man 3",
+    "overview": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+    "popularity": 14.5448,
+    "poster_path": "/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+    "release_date": "2007-05-01",
+    "title": "Spider-Man 3",
+    "video": false,
+    "vote_average": 6.441,
+    "vote_count": 14570,
+    "belongs_to_collection": {
+      "id": 556,
+      "name": "El Hombre Araña - Colección",
+      "poster_path": "/16qe3Iu8xAivAsLN3Dhzs9TCVT8.jpg",
+      "backdrop_path": "/waZqriYTuBE3WqXI3SDGi3kfDQE.jpg"
+    },
+    "budget": 258000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0413300",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 326,
+        "logo_path": null,
+        "name": "Laura Ziskin Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 894983373,
+    "runtime": 139,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La mayor batalla se libra por dentro.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zBFbGxw22wY2VTNGbcknd84CIEf.jpg",
+    "genre_ids": [
+      53,
+      9648,
+      80
+    ],
+    "id": 3594,
+    "original_language": "en",
+    "original_title": "The Number 23",
+    "overview": "Animal control officer Walter Sparrow becomes obsessed with a novel that he believes was written about him, as more and more similarities between himself and his literary alter ego seem to arise.",
+    "popularity": 2.2207,
+    "poster_path": "/iPJwdvgX3I5dEw9QhDOG3hxUvMp.jpg",
+    "release_date": "2007-02-23",
+    "title": "The Number 23",
+    "video": false,
+    "vote_average": 6.417,
+    "vote_count": 3321,
+    "belongs_to_collection": null,
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0481369",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1838,
+        "logo_path": null,
+        "name": "Firm Films",
+        "origin_country": ""
+      },
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 1836,
+        "logo_path": null,
+        "name": "Contrafilm",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 77677553,
+    "runtime": 98,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/njvvh0OvwJCda03uMGbK8xTIbqf.jpg",
+    "genre_ids": [
+      28,
+      12,
+      9648,
+      53
+    ],
+    "id": 6637,
+    "original_language": "en",
+    "original_title": "National Treasure: Book of Secrets",
+    "overview": "Benjamin Franklin Gates and Abigail Chase re-team with Riley Poole and, now armed with a stack of long-lost pages from John Wilkes Booth's diary, Ben must follow a clue left there to prove his ancestor's innocence in the assassination of Abraham Lincoln.",
+    "popularity": 3.8012,
+    "poster_path": "/xxoIBbvmTj1ZttzV439jAvoovTw.jpg",
+    "release_date": "2007-12-19",
+    "title": "National Treasure: Book of Secrets",
+    "video": false,
+    "vote_average": 6.363,
+    "vote_count": 5293,
+    "belongs_to_collection": {
+      "id": 52984,
+      "name": "La Leyenda del Tesoro Perdido - Colección",
+      "poster_path": "/kAjoo0o7thpCPsnH7QZiIChavmu.jpg",
+      "backdrop_path": "/a0GLVfaDSf5GNZKK5H4FgGCD2VW.jpg"
+    },
+    "budget": 130000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0465234",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 130,
+        "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+        "name": "Jerry Bruckheimer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 831,
+        "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+        "name": "Saturn Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 19097,
+        "logo_path": null,
+        "name": "Junction Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 20012,
+        "logo_path": null,
+        "name": "Sparkler Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 20013,
+        "logo_path": null,
+        "name": "NT2 Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 459200000,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La historia de la aventura más grande ha sido revelada",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/u8QUvrq24pWB2x1DxCy4ulbKJG5.jpg",
+    "genre_ids": [
+      27,
+      28,
+      878
+    ],
+    "id": 7737,
+    "original_language": "en",
+    "original_title": "Resident Evil: Extinction",
+    "overview": "Years after the Racoon City catastrophe, survivors travel across the Nevada desert, hoping to make it to Alaska. Alice joins the caravan and their fight against hordes of zombies and the evil Umbrella Corp.",
+    "popularity": 1.5351,
+    "poster_path": "/6yaLr7Ymg5cvbtSVi5hHwBKx35I.jpg",
+    "release_date": "2007-09-20",
+    "title": "Resident Evil: Extinction",
+    "video": false,
+    "vote_average": 6.307,
+    "vote_count": 4326,
+    "belongs_to_collection": {
+      "id": 17255,
+      "name": "Resident Evil - Colección",
+      "poster_path": "/2rOr1CPnC5fuTbVIKH0UkqJJjjw.jpg",
+      "backdrop_path": "/zwSs7PYLAH684qXjducR5TzVOdi.jpg"
+    },
+    "budget": 45000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0432021",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3287,
+        "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+        "name": "Screen Gems",
+        "origin_country": "US"
+      },
+      {
+        "id": 248,
+        "logo_path": null,
+        "name": "Impact Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 342,
+        "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+        "name": "Davis Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 47,
+        "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+        "name": "Constantin Film",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 147717833,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La extinción se acerca...",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qSNz1G1Ts8fFw6v4Vae4aMAjcY7.jpg",
+    "genre_ids": [
+      14,
+      12,
+      16,
+      35,
+      10751
+    ],
+    "id": 810,
+    "original_language": "en",
+    "original_title": "Shrek the Third",
+    "overview": "The King of Far Far Away has died and Shrek and Fiona are to become King & Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom.",
+    "popularity": 9.996,
+    "poster_path": "/n4SexGGQzI26E269tfpa80MZaGV.jpg",
+    "release_date": "2007-05-17",
+    "title": "Shrek the Third",
+    "video": false,
+    "vote_average": 6.299,
+    "vote_count": 9346,
+    "belongs_to_collection": {
+      "id": 2150,
+      "name": "Shrek - Colección",
+      "poster_path": "/kbZ0L9Jx44ObEltogQ6gkLo7dFL.jpg",
+      "backdrop_path": "/lhsd1zCsq5UquvcNalmhuddV3tI.jpg"
+    },
+    "budget": 160000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0413267",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 520,
+        "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+        "name": "Pacific Data Images",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 813367380,
+    "runtime": 93,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¿Quién está listo para tres?",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3lrNJ5jNqKq9UpQrXo8FNFzyoE4.jpg",
+    "genre_ids": [
+      27,
+      53,
+      80
+    ],
+    "id": 663,
+    "original_language": "en",
+    "original_title": "Saw IV",
+    "overview": "Despite Jigsaw's death, and in order to save the lives of two of his colleagues, Lieutenant Rigg is forced to take part in a new game, which promises to test him to the limit.",
+    "popularity": 3.6673,
+    "poster_path": "/ku1QdCXOU4ckz3zxLLlis8MIJVm.jpg",
+    "release_date": "2007-10-25",
+    "title": "Saw IV",
+    "video": false,
+    "vote_average": 6.168,
+    "vote_count": 3919,
+    "belongs_to_collection": {
+      "id": 656,
+      "name": "El Juego del Miedo - Colección",
+      "poster_path": "/gfw1wl8KW0j71XcR9r3xKCJ0wKs.jpg",
+      "backdrop_path": "/q6XF2qbrxdv3OwZPnXgecDRft1O.jpg"
+    },
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0890870",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2061,
+        "logo_path": "/o9LbN33hRaj4qcebUv1bikyXeoB.png",
+        "name": "Twisted Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 139352633,
+    "runtime": 108,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dM69VHjYFs8JBFNwI1rG0c7xeQz.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      35
+    ],
+    "id": 5559,
+    "original_language": "en",
+    "original_title": "Bee Movie",
+    "overview": "Barry B. Benson, a recent college graduate who wants more out of his life than making honey, decides to sue the human race after learning about the exploitation of bees at the hands of mankind. What will happen next?",
+    "popularity": 5.803,
+    "poster_path": "/rYBaXgvTKFS8iZC7Wr8SMomSauQ.jpg",
+    "release_date": "2007-10-28",
+    "title": "Bee Movie",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 5014,
+    "belongs_to_collection": null,
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0389790",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1903,
+        "logo_path": null,
+        "name": "Columbus 81 Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 287594577,
+    "runtime": 91,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lIruQxRCxw5ZI3CmBL6VxwpKtUe.jpg",
+    "genre_ids": [
+      12,
+      28,
+      16
+    ],
+    "id": 2310,
+    "original_language": "en",
+    "original_title": "Beowulf",
+    "overview": "A 6th-century Scandinavian warrior named Beowulf embarks on a mission to slay the man-like ogre, Grendel.",
+    "popularity": 3.2484,
+    "poster_path": "/7QsWYyJAV97N9jOh21pdRIqJeJq.jpg",
+    "release_date": "2007-11-05",
+    "title": "Beowulf",
+    "video": false,
+    "vote_average": 5.912,
+    "vote_count": 2911,
+    "belongs_to_collection": null,
+    "budget": 70000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0442933",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2265,
+        "logo_path": "/Pt0geXD3kQs2H5WSTreYV8MzRe.png",
+        "name": "Shangri-La Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 11395,
+        "logo_path": "/5vSBzUwnCcaF90ZTchG3LwRKQ2M.png",
+        "name": "ImageMovers",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 195735876,
+    "runtime": 115,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El orgullo es la maldición.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14
+    ],
+    "id": 6477,
+    "original_language": "en",
+    "original_title": "Alvin and the Chipmunks",
+    "overview": "A struggling songwriter named Dave Seville finds success when he comes across a trio of singing chipmunks: mischievous leader Alvin, brainy Simon, and chubby, impressionable Theodore.",
+    "popularity": 6.6156,
+    "poster_path": "/22YxmH8FHZGEVyBgKBNorVF4cqi.jpg",
+    "release_date": "2007-12-13",
+    "title": "Alvin and the Chipmunks",
+    "video": false,
+    "vote_average": 5.823,
+    "vote_count": 4580,
+    "belongs_to_collection": {
+      "id": 167613,
+      "name": "Alvin y las Ardillas - Colección",
+      "poster_path": "/5bYsn9ieWEQp44TrPAdm4oWYKOc.jpg",
+      "backdrop_path": "/oLbsrl70GSwntrXxRxusfeLid0F.jpg"
+    },
+    "budget": 60000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0952640",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 711,
+        "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+        "name": "Fox 2000 Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 508,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 10930,
+        "logo_path": "/gTl5zq214ifd2qW7sp7to0aHS6C.png",
+        "name": "Bagdasarian Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 444,
+        "logo_path": null,
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 361366633,
+    "runtime": 91,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o2wYH40zW0JIYiYUTu6L4gsNy7E.jpg",
+    "genre_ids": [
+      878,
+      12,
+      28
+    ],
+    "id": 1979,
+    "original_language": "en",
+    "original_title": "Fantastic Four: Rise of the Silver Surfer",
+    "overview": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
+    "popularity": 33.9248,
+    "poster_path": "/f3ldtPF7SESMcyAIyIJHBLlBBkr.jpg",
+    "release_date": "2007-06-13",
+    "title": "Fantastic Four: Rise of the Silver Surfer",
+    "video": false,
+    "vote_average": 5.617,
+    "vote_count": 8063,
+    "belongs_to_collection": {
+      "id": 9744,
+      "name": "Los 4 Fantásticos - Colección",
+      "poster_path": "/upUu24JdUHhz8DvLNaYi86pct0T.jpg",
+      "backdrop_path": "/u3gPzjUY0iJr8ecZGVwChdSRFZt.jpg"
+    },
+    "budget": 130000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0486576",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 436,
+        "logo_path": "/A7WCkG3F0NFvjGCwUnclpGdIu9E.png",
+        "name": "1492 Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10881,
+        "logo_path": null,
+        "name": "Bernd Eichinger Productions",
+        "origin_country": "DE"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 47,
+        "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+        "name": "Constantin Film",
+        "origin_country": "DE"
+      },
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 133789,
+        "logo_path": "/bJdeIb1ET3BkyodAASVDq1x3mls.png",
+        "name": "Ingenious Film Partners",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 301913131,
+    "runtime": 92,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7zS58YPAw002RNejOF1vNB3XHbW.jpg",
+    "genre_ids": [
+      53,
+      28,
+      14
+    ],
+    "id": 1250,
+    "original_language": "en",
+    "original_title": "Ghost Rider",
+    "overview": "In order to save his dying father, young stunt cyclist Johnny Blaze sells his soul to Mephistopheles and sadly parts from the pure-hearted Roxanne Simpson, the love of his life. Years later, Johnny's path crosses again with Roxanne, now a go-getting reporter, and also with Mephistopheles, who offers to release Johnny's soul if Johnny becomes the fabled, fiery 'Ghost Rider'.",
+    "popularity": 7.1162,
+    "poster_path": "/d9Oan9XJJ6gRJa64Ifsgp1sXbC4.jpg",
+    "release_date": "2007-01-15",
+    "title": "Ghost Rider",
+    "video": false,
+    "vote_average": 5.577,
+    "vote_count": 6140,
+    "belongs_to_collection": {
+      "id": 90306,
+      "name": "Ghost Rider - Colección",
+      "poster_path": "/2H0amGBlBaH40JOyh2PWMwXI72R.jpg",
+      "backdrop_path": "/cNRAWtbItigb2oFwXpcDi6mjMQm.jpg"
+    },
+    "budget": 110000000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0259324",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 20241,
+        "logo_path": null,
+        "name": "Crystal Sky Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7295,
+        "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+        "name": "Relativity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 216248,
+        "logo_path": null,
+        "name": "Canarsie",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 228738393,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

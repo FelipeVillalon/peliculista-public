@@ -1,0 +1,456 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/9NlMiHVpgswGt4cWrUtrahlYDQu.jpg",
+    "belongs_to_collection": {
+      "id": 146136,
+      "name": "Armadura de Dios - Colección",
+      "poster_path": "/zhjUae8ZAnbLvxIXXQXH5x1yblQ.jpg",
+      "backdrop_path": "/9NlMiHVpgswGt4cWrUtrahlYDQu.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 10974,
+    "imdb_id": "tt0091431",
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "龍兄虎弟",
+    "overview": "Alan acude a su viejo amigo Jackie cuando una secta de monjes malignos secuestra a su novia. Sólo podrán salvarla encontrando la Armadura de Dios antes que los monjes y Jackie conoce el paradero de dos piezas. Investigando, acaban en la mansión de un noble que posee otra pieza, pues la ha adquirido recientemente en una subasta. Encontrar la pieza más preciada, la espada, será la tarea más ardua, pues los dos amigos y luchadores deberán superar a enemigos altamente entrenados en el combate, y cargar con la caprichosa hija de un conde no formaba parte de sus planes.",
+    "popularity": 5.35,
+    "poster_path": "/rd6xis5CFUzXbGfEGroDrMSCKag.jpg",
+    "production_companies": [
+      {
+        "id": 2521,
+        "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+        "name": "Orange Sky Golden Harvest",
+        "origin_country": "HK"
+      },
+      {
+        "id": 2734,
+        "logo_path": null,
+        "name": "Paragon Films",
+        "origin_country": "HK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "1986-08-16",
+    "revenue": 16000000,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La armadura de Dios",
+    "video": false,
+    "vote_average": 7.052,
+    "vote_count": 596,
+    "added_date": "2025-09-28"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fuKt9vmyN8cpZvPflfW9YGrFTuQ.jpg",
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 10776,
+    "imdb_id": "tt0091419",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Little Shop of Horrors",
+    "overview": "La aburrida vida de un hombre en una floristería se ilumina al cultivar una planta cuyo apetito es por sangre humana.",
+    "popularity": 3.0237,
+    "poster_path": "/cS7gOIENg0loAwRDvqAVbMghqdT.jpg",
+    "production_companies": [
+      {
+        "id": 360,
+        "logo_path": "/7j0Z7TEW0YQyL4W1dcigaE44OfV.png",
+        "name": "Geffen Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1986-12-19",
+    "revenue": 53964308,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La ira de una Berenjena... carnívora",
+    "title": "La Tiendita de Los Horrores",
+    "video": false,
+    "vote_average": 6.951,
+    "vote_count": 1514,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zFKPAMN9kWr1hJF4owR83DrwjK6.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "id": 679,
+    "original_language": "en",
+    "original_title": "Aliens",
+    "overview": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+    "popularity": 11.8635,
+    "poster_path": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+    "release_date": "1986-07-18",
+    "title": "Aliens",
+    "video": false,
+    "vote_average": 7.953,
+    "vote_count": 10224,
+    "belongs_to_collection": {
+      "id": 8091,
+      "name": "Alien - Colección",
+      "poster_path": "/jIAKsVHZA210iSesqoy8pUAvLql.jpg",
+      "backdrop_path": "/6X42JnSMdo3dPAswOHUuvebdTq7.jpg"
+    },
+    "budget": 18500000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0090605",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 396,
+        "logo_path": "/5iNXO7nAiSsms7ur1Qy2UwuwcDP.png",
+        "name": "SLM Production Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 401,
+        "logo_path": "/t7mM3DvQ9MwDT3YzMCBrkWpWiiz.png",
+        "name": "Brandywine Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 183316455,
+    "runtime": 137,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Esta vez, es guerra.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2olgnm402FuL7kQHUQwyRSj0SmD.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "id": 9426,
+    "original_language": "en",
+    "original_title": "The Fly",
+    "overview": "When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.",
+    "popularity": 5.2466,
+    "poster_path": "/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg",
+    "release_date": "1986-08-15",
+    "title": "The Fly",
+    "video": false,
+    "vote_average": 7.4,
+    "vote_count": 4648,
+    "belongs_to_collection": {
+      "id": 109609,
+      "name": "La Mosca (1986) - Colección",
+      "poster_path": "/4pNh75oNtGvLHUMP5lfpurinQDe.jpg",
+      "backdrop_path": "/2PtGyUVjSJO3T3kuUtYqq9Lrgk5.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0091064",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 396,
+        "logo_path": "/5iNXO7nAiSsms7ur1Qy2UwuwcDP.png",
+        "name": "SLM Production Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 5612,
+        "logo_path": null,
+        "name": "Brooksfilms",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 60629159,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Teme. Ten mucho miedo.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mAxA5ltgqNXLXlm7PO5XrWSo9U1.jpg",
+    "genre_ids": [
+      28,
+      35,
+      14,
+      12
+    ],
+    "id": 6978,
+    "original_language": "en",
+    "original_title": "Big Trouble in Little China",
+    "overview": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.",
+    "popularity": 2.8514,
+    "poster_path": "/aeGy6SZua7eFXEZP9zAvrLkkbI2.jpg",
+    "release_date": "1986-05-30",
+    "title": "Big Trouble in Little China",
+    "video": false,
+    "vote_average": 7.213,
+    "vote_count": 3146,
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0090728",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 965,
+        "logo_path": null,
+        "name": "TAFT Entertainment Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 396,
+        "logo_path": "/5iNXO7nAiSsms7ur1Qy2UwuwcDP.png",
+        "name": "SLM Production Group",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 11102672,
+    "runtime": 99,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La aventura no puede ser más grande.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jILeJ60zPpIjjJHGSmIeY4eO30t.jpg",
+    "genre_ids": [
+      28,
+      18
+    ],
+    "id": 744,
+    "original_language": "en",
+    "original_title": "Top Gun",
+    "overview": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+    "popularity": 13.1077,
+    "poster_path": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+    "release_date": "1986-05-16",
+    "title": "Top Gun",
+    "video": false,
+    "vote_average": 7.061,
+    "vote_count": 9022,
+    "belongs_to_collection": {
+      "id": 531330,
+      "name": "Top Gun - Colección",
+      "poster_path": "/wNUt0VHJ3fVa8EtDMko0kBKyjfB.jpg",
+      "backdrop_path": "/9MGm0XT04ob99MyGQfMT7I8y3UE.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0092099",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10288,
+        "logo_path": "/Aszf09kIVXR6cwG9lwjZIawbYVS.png",
+        "name": "Don Simpson/Jerry Bruckheimer Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 356830601,
+    "runtime": 110,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/eEKpOowAkVAF3sKJKqY2h4h12GV.jpg",
+    "genre_ids": [
+      16,
+      10751
+    ],
+    "id": 11360,
+    "original_language": "en",
+    "original_title": "Dumbo",
+    "overview": "Dumbo is a baby elephant born with over-sized ears and a supreme lack of confidence. But thanks to his even more diminutive buddy Timothy the Mouse,  the pint-sized pachyderm learns to surmount all obstacles.",
+    "popularity": 5.8743,
+    "poster_path": "/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg",
+    "release_date": "1941-10-31",
+    "title": "Dumbo",
+    "video": false,
+    "vote_average": 6.995,
+    "vote_count": 5101,
+    "belongs_to_collection": null,
+    "budget": 812000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0033563",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3166,
+        "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+        "name": "Walt Disney Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1600000,
+    "runtime": 64,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El número uno... El único... El fabuloso...",
+    "added_date": "2025-09-27"
+  }
+]

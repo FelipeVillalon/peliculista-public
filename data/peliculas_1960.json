@@ -1,0 +1,67 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/9hdHLj5aJ0kQpPnCC2lFHsu9K7K.jpg",
+    "belongs_to_collection": {
+      "id": 123724,
+      "name": "Dracula (Hammer) Collection",
+      "poster_path": "/n5SozLvdQZ7cYJb22ZIwNw1DzSg.jpg",
+      "backdrop_path": "/vnOfyNpcJBES6gF699Wr4QFxl4I.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 23220,
+    "imdb_id": "tt0053677",
+    "origin_country": [
+      "GB"
+    ],
+    "original_language": "en",
+    "original_title": "The Brides of Dracula",
+    "overview": "Después de que el joven barón Meinster sufra la mordedura del conde Drácula, para impedir que actúe como un vampiro, su madre decide confinarlo en sus habitaciones. Sin embargo, una joven lo libera sin sospechar las consecuencias de su acción.",
+    "popularity": 0.6936,
+    "poster_path": "/dLImH0T5QsLJdWWXZbsZsIgWosO.jpg",
+    "production_companies": [
+      {
+        "id": 4202,
+        "logo_path": null,
+        "name": "Hotspur Film Productions Ltd.",
+        "origin_country": ""
+      },
+      {
+        "id": 1314,
+        "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
+        "name": "Hammer Film Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "release_date": "1960-05-01",
+    "revenue": 0,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Las novias de Drácula",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 240,
+    "added_date": "2025-09-27"
+  }
+]

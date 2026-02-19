@@ -1,0 +1,270 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": null,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [],
+    "homepage": "",
+    "id": 694683,
+    "imdb_id": null,
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Marguerite",
+    "overview": "",
+    "popularity": 0.0281,
+    "poster_path": null,
+    "production_companies": [],
+    "production_countries": [],
+    "release_date": "1971-04-10",
+    "revenue": 0,
+    "runtime": 4,
+    "spoken_languages": [],
+    "status": "Released",
+    "tagline": "",
+    "title": "Marguerite",
+    "video": false,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jLm7Wd2n9MZ9hTdWU1TkcFXIdP9.jpg",
+    "belongs_to_collection": null,
+    "budget": 2000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 11302,
+    "imdb_id": "tt0066808",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Bananas",
+    "overview": "Fielding Mellish (Woody Allen) es un torpe y tímido catador de productos que, abandonado por su novia, la sensual y atractiva Nancy, decide cogerse unas vacaciones y pasarlas en la pequeña República de San Marcos. Pero lo único que consigue es verse envuelto en un sinfín de líos burocráticos en un país dominado por la guerrilla. Todo se complica aún más cuando, después de la conquista del poder por los guerrilleros, su líder se vuelve completamente loco.",
+    "popularity": 0.8628,
+    "poster_path": "/eLt9ByexJF77faffBQqSUsV32An.jpg",
+    "production_companies": [
+      {
+        "id": 13309,
+        "logo_path": null,
+        "name": "Jack Rollins & Charles H. Joffe Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 60,
+        "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+        "name": "United Artists",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1971-04-28",
+    "revenue": 11833696,
+    "runtime": 82,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Yiddish",
+        "iso_639_1": "yi",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Bananas",
+    "video": false,
+    "vote_average": 6.699,
+    "vote_count": 773,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3hwKS7e21hzEnXZaOs2FE6e97bc.jpg",
+    "genre_ids": [
+      878,
+      80
+    ],
+    "id": 185,
+    "original_language": "en",
+    "original_title": "A Clockwork Orange",
+    "overview": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+    "popularity": 6.2976,
+    "poster_path": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg",
+    "release_date": "1971-12-19",
+    "title": "A Clockwork Orange",
+    "video": false,
+    "vote_average": 8.186,
+    "vote_count": 13271,
+    "belongs_to_collection": null,
+    "budget": 2200000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0066921",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 88,
+        "logo_path": null,
+        "name": "Hawk Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 385,
+        "logo_path": null,
+        "name": "Stanley Kubrick Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 234371,
+        "logo_path": null,
+        "name": "Polaris Productions Limited",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "revenue": 27033812,
+    "runtime": 137,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Siendo las aventuras de un joven ... que no pudo resistirse a las chicas bonitas ... o un poco de la vieja ultraviolencia ... fue a la cárcel, fue recondicionado ... y salió un joven diferente ... o era él?",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iiusvOLB4ytkZ6FSFMlGHvt33uW.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      35
+    ],
+    "id": 252,
+    "original_language": "en",
+    "original_title": "Willy Wonka & the Chocolate Factory",
+    "overview": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+    "popularity": 8.9377,
+    "poster_path": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg",
+    "release_date": "1971-06-29",
+    "title": "Willy Wonka & the Chocolate Factory",
+    "video": false,
+    "vote_average": 7.479,
+    "vote_count": 3745,
+    "belongs_to_collection": null,
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0067992",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 16354,
+        "logo_path": null,
+        "name": "Wolper Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 4000000,
+    "runtime": 99,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

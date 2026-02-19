@@ -1,0 +1,792 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+    "belongs_to_collection": {
+      "id": 5039,
+      "name": "Rambo - Colección",
+      "poster_path": "/bAB4f27dtioQokZesx28x1sqmXA.jpg",
+      "backdrop_path": "/ecvVwlK75evrAlsEE96V14KN6MN.jpg"
+    },
+    "budget": 63000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "id": 1370,
+    "imdb_id": "tt0095956",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Rambo III",
+    "overview": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas…",
+    "popularity": 5.5264,
+    "poster_path": "/69iGRVnOi62ZK2ExoJl12tnvH0T.jpg",
+    "production_companies": [
+      {
+        "id": 559,
+        "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+        "name": "TriStar Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 275,
+        "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+        "name": "Carolco Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1988-05-24",
+    "revenue": 189015611,
+    "runtime": 101,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Rambo III",
+    "video": false,
+    "vote_average": 6.195,
+    "vote_count": 3285,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dGbBnTYxdHf1qyUgHsuFpxn1K4E.jpg",
+    "belongs_to_collection": null,
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 2280,
+    "imdb_id": "tt0094737",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Big",
+    "overview": "Josh Baskin tiene trece años pero, cansado de que las chicas no le hagan caso y de que sus padres le traten como a un niño, desea ser mayor. Una noche, encuentra, en una feria, una vieja máquina que concede un deseo a cambio de una moneda. Josh, sin dudarlo un instante, pide hacerse mayor. A la mañana siguiente, descubre en el espejo un cuerpo de adulto. La otra cara de la moneda serán los problemas y responsabilidades que debe asumir sin ninguna experiencia previa.",
+    "popularity": 4.1486,
+    "poster_path": "/ri6DEF9rul9Z0nOkPdTWHilZgJd.jpg",
+    "production_companies": [
+      {
+        "id": 21451,
+        "logo_path": null,
+        "name": "American Entertainment Partners II L.P.",
+        "origin_country": ""
+      },
+      {
+        "id": 18,
+        "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+        "name": "Gracie Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1988-06-03",
+    "revenue": 151927281,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Descubre la magia de ser grande.",
+    "title": "Quisiera ser grande",
+    "video": false,
+    "vote_average": 7.18,
+    "vote_count": 3768,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dlC0ed9Ugh3FzydnkBtV5lRXUu4.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10752
+    ],
+    "id": 12477,
+    "original_language": "ja",
+    "original_title": "火垂るの墓",
+    "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
+    "popularity": 0.0084,
+    "poster_path": "/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+    "release_date": "1988-04-16",
+    "title": "Grave of the Fireflies",
+    "video": false,
+    "vote_average": 8.449,
+    "vote_count": 5989,
+    "belongs_to_collection": null,
+    "budget": 3700000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0095327",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 10342,
+        "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+        "name": "Studio Ghibli",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 516962,
+    "runtime": 89,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "A los 4 y 14 años decidieron vivir.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/95ozIP0A2fKaAXxwDxUEVn74Iux.jpg",
+    "genre_ids": [
+      14,
+      16,
+      10751
+    ],
+    "id": 8392,
+    "original_language": "ja",
+    "original_title": "となりのトトロ",
+    "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
+    "popularity": 9.767,
+    "poster_path": "/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg",
+    "release_date": "1988-04-16",
+    "title": "My Neighbor Totoro",
+    "video": false,
+    "vote_average": 8.069,
+    "vote_count": 8337,
+    "belongs_to_collection": null,
+    "budget": 3700000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0096283",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 10342,
+        "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+        "name": "Studio Ghibli",
+        "origin_country": "JP"
+      },
+      {
+        "id": 12516,
+        "logo_path": null,
+        "name": "Nibariki",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1779,
+        "logo_path": "/41nGzTdCnORYZIZzaGZtfsBwQCl.png",
+        "name": "Tokuma Shoten",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 41000000,
+    "runtime": 86,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oIwfoUFfWfESn0Y8u8jv9lc8li1.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 562,
+    "original_language": "en",
+    "original_title": "Die Hard",
+    "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
+    "popularity": 7.3926,
+    "poster_path": "/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
+    "release_date": "1988-07-15",
+    "title": "Die Hard",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 11600,
+    "belongs_to_collection": {
+      "id": 1570,
+      "name": "Duro de Matar - Colección",
+      "poster_path": "/As8l0i21dtha874Tr0GYWsSGShW.jpg",
+      "backdrop_path": "/nKShbIW0wJnSbl3t8uPje0QhTb7.jpg"
+    },
+    "budget": 28000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0095016",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1073,
+        "logo_path": null,
+        "name": "Gordon Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 1885,
+        "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+        "name": "Silver Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 140767956,
+    "runtime": 132,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jIrdfersZeOLGf6sgYWDuOaJ09v.jpg",
+    "genre_ids": [
+      14,
+      16,
+      35,
+      80
+    ],
+    "id": 856,
+    "original_language": "en",
+    "original_title": "Who Framed Roger Rabbit",
+    "overview": "'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.",
+    "popularity": 5.0833,
+    "poster_path": "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg",
+    "release_date": "1988-06-22",
+    "title": "Who Framed Roger Rabbit",
+    "video": false,
+    "vote_average": 7.532,
+    "vote_count": 5907,
+    "belongs_to_collection": null,
+    "budget": 70000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0096438",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 554,
+        "logo_path": "/mN5HU5xYq9xtEs1X0Hu25A9y8lW.png",
+        "name": "Silver Screen Partners III",
+        "origin_country": "US"
+      },
+      {
+        "id": 9195,
+        "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+        "name": "Touchstone Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 329800000,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La historia de un hombre, una mujer y un conejo en un triángulo de problemas.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yRKyJJYIzfeiVDHBe4LXguPQCvD.jpg",
+    "genre_ids": [
+      14,
+      35
+    ],
+    "id": 4011,
+    "original_language": "en",
+    "original_title": "Beetlejuice",
+    "overview": "A newly dead New England couple seeks help from a deranged demon exorcist to scare an affluent New York family out of their home.",
+    "popularity": 6.9783,
+    "poster_path": "/nnl6OWkyPpuMm595hmAxNW3rZFn.jpg",
+    "release_date": "1988-03-30",
+    "title": "Beetlejuice",
+    "video": false,
+    "vote_average": 7.373,
+    "vote_count": 8003,
+    "belongs_to_collection": {
+      "id": 945475,
+      "name": "Beetlejuice Collection",
+      "poster_path": "/jxp9sLEcIIuuxEm0olA33LAM8JF.jpg",
+      "backdrop_path": "/fosuzKaLA43tcW9gzmW5Tc354hf.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0094721",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 360,
+        "logo_path": "/7j0Z7TEW0YQyL4W1dcigaE44OfV.png",
+        "name": "Geffen Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 84554197,
+    "runtime": 92,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Dilo una vez... Dilo dos veces... Pero te retamos a que lo digas TRES VECES.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sXfQGa7juaTpZ5IF17Xa6hI53nx.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12
+    ],
+    "id": 12144,
+    "original_language": "en",
+    "original_title": "The Land Before Time",
+    "overview": "An orphaned brontosaurus named Littlefoot sets off in search of the legendary Great Valley. A land of lush vegetation where the dinosaurs can thrive and live in peace. Along the way he meets four other young dinosaurs, each one a different species, and they encounter several obstacles as they learn to work together in order to survive.",
+    "popularity": 3.107,
+    "poster_path": "/7phV1ETZnQrLsEeuk4hNeceEl25.jpg",
+    "release_date": "1988-11-18",
+    "title": "The Land Before Time",
+    "video": false,
+    "vote_average": 7.143,
+    "vote_count": 2610,
+    "belongs_to_collection": {
+      "id": 19163,
+      "name": "En busca del valle encantado  - Colección",
+      "poster_path": "/17gjyP0KNJWXsAVo0uDhBo7ntFg.jpg",
+      "backdrop_path": "/zDkQ0BPPhsmepLGZJx0aXVAuKG6.jpg"
+    },
+    "budget": 12500000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0095489",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 6422,
+        "logo_path": "/rxO73jR41tGlohvPGMC3sJeclcf.png",
+        "name": "Don Bluth Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 211615,
+        "logo_path": "/rxO73jR41tGlohvPGMC3sJeclcf.png",
+        "name": "Don Bluth Ireland",
+        "origin_country": "IE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "IE",
+        "name": "Ireland"
+      }
+    ],
+    "revenue": 84704291,
+    "runtime": 69,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡La aventura que lo inició todo!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vsCIw7ARCKQVPT2K2hkkFVl7yo5.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 9602,
+    "original_language": "en",
+    "original_title": "Coming to America",
+    "overview": "An African prince decides it’s time for him to find a princess... and his mission leads him and his most loyal friend to Queens, New York. In disguise as an impoverished immigrant, the pampered prince quickly finds himself a new job, new friends, new digs, new enemies and lots of trouble.",
+    "popularity": 5.0064,
+    "poster_path": "/8YZiA1o264dk0cr1USyMdph6SZl.jpg",
+    "release_date": "1988-06-29",
+    "title": "Coming to America",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 4507,
+    "belongs_to_collection": {
+      "id": 647077,
+      "name": "El Príncipe de Zamunda - Colección",
+      "poster_path": "/7o23Iyc2CU5QqBLQOsA7l8XiSYQ.jpg",
+      "backdrop_path": "/mgfXpEAnmuWCdSslqeoyTE7iqU9.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0094898",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 30,
+        "logo_path": null,
+        "name": "Eddie Murphy Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 288752301,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zoQOMpk80wK685NERhKaoISlJdm.jpg",
+    "genre_ids": [
+      35,
+      27,
+      878
+    ],
+    "id": 16296,
+    "original_language": "en",
+    "original_title": "Killer Klowns from Outer Space",
+    "overview": "Aliens disguised as clowns crash land on Earth in a rural town to capture unsuspecting victims in cotton candy cocoons for later consumption.",
+    "popularity": 2.0891,
+    "poster_path": "/nOC22f6kzrKPWXBoYr2XNWfMFEh.jpg",
+    "release_date": "1988-05-27",
+    "title": "Killer Klowns from Outer Space",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 1076,
+    "belongs_to_collection": null,
+    "budget": 1800000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0095444",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 8610,
+        "logo_path": null,
+        "name": "Sarlui / Diamant Production",
+        "origin_country": ""
+      },
+      {
+        "id": 3173,
+        "logo_path": null,
+        "name": "Chiodo Bros. Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 43625095,
+    "runtime": 86,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

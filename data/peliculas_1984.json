@@ -1,0 +1,585 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+    "genre_ids": [
+      12,
+      16,
+      14
+    ],
+    "id": 81,
+    "original_language": "ja",
+    "original_title": "風の谷のナウシカ",
+    "overview": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+    "popularity": 5.472,
+    "poster_path": "/tcrkfB8SRPQCgwI88hQScua6nxh.jpg",
+    "release_date": "1984-03-11",
+    "title": "Nausicaä of the Valley of the Wind",
+    "video": false,
+    "vote_average": 7.95,
+    "vote_count": 3787,
+    "belongs_to_collection": null,
+    "budget": 1000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0087544",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 29,
+        "logo_path": "/2ZGkaLO1oVR39zxtQca8iDaU7fR.png",
+        "name": "Topcraft",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1779,
+        "logo_path": "/41nGzTdCnORYZIZzaGZtfsBwQCl.png",
+        "name": "Tokuma Shoten",
+        "origin_country": "JP"
+      },
+      {
+        "id": 13411,
+        "logo_path": "/yjF0FwJX69h0yGB6WvQwzUOzBln.png",
+        "name": "Hakuhodo",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 9016411,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "id": 218,
+    "original_language": "en",
+    "original_title": "The Terminator",
+    "overview": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+    "popularity": 12.3502,
+    "poster_path": "/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+    "release_date": "1984-10-26",
+    "title": "The Terminator",
+    "video": false,
+    "vote_average": 7.669,
+    "vote_count": 13755,
+    "belongs_to_collection": {
+      "id": 528,
+      "name": "Terminator - Colección",
+      "poster_path": "/2DdRQER3D5QjBFAXXgVG7QgBYp2.jpg",
+      "backdrop_path": "/sCnBEw2Yu6foEjs4Xb4eMddYHRo.jpg"
+    },
+    "budget": 6400000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0088247",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3952,
+        "logo_path": "/hLfS5FjBQjK5MUNl7kdXgIHSSWy.png",
+        "name": "Hemdale",
+        "origin_country": "GB"
+      },
+      {
+        "id": 1280,
+        "logo_path": null,
+        "name": "Pacific Western",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 78371200,
+    "runtime": 108,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "id": 620,
+    "original_language": "en",
+    "original_title": "Ghostbusters",
+    "overview": "After losing their academic posts at a prestigious university, a team of parapsychologists goes into business as proton-pack-toting \"ghostbusters\" who exterminate ghouls, hobgoblins and supernatural pests of all stripes. An ad campaign pays off when a knockout cellist hires the squad to purge her swanky digs of demons that appear to be living in her refrigerator.",
+    "popularity": 6.2254,
+    "poster_path": "/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg",
+    "release_date": "1984-06-08",
+    "title": "Ghostbusters",
+    "video": false,
+    "vote_average": 7.494,
+    "vote_count": 9302,
+    "belongs_to_collection": {
+      "id": 2980,
+      "name": "Los Cazafantasmas - Colección",
+      "poster_path": "/xMIU7Z0EwU3nSJM4imcFKSUJGXt.jpg",
+      "backdrop_path": "/guigdRPHN65fsgZHmvVvBOyiArf.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0087332",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4267,
+        "logo_path": "/cw6C1E64Ckf5jV8ppAIz9gHaho4.png",
+        "name": "Delphi Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 47565,
+        "logo_path": null,
+        "name": "Black Rhino Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 296640120,
+    "runtime": 107,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No le temen a los fantasmas",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+    "genre_ids": [
+      12,
+      28
+    ],
+    "id": 87,
+    "original_language": "en",
+    "original_title": "Indiana Jones and the Temple of Doom",
+    "overview": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+    "popularity": 6.7849,
+    "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+    "release_date": "1984-05-23",
+    "title": "Indiana Jones and the Temple of Doom",
+    "video": false,
+    "vote_average": 7.303,
+    "vote_count": 9636,
+    "belongs_to_collection": {
+      "id": 84,
+      "name": "Indiana Jones - Colección",
+      "poster_path": "/z1ZuPmh4gdwfDbCJmzbe8WJgZ0m.jpg",
+      "backdrop_path": "/s4xWmz9PEjPERSRcd7H7xMJpYvE.jpg"
+    },
+    "budget": 28000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0087469",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1,
+        "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+        "name": "Lucasfilm Ltd.",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 333000000,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Sinhalese",
+        "iso_639_1": "si",
+        "name": "සිංහල"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Si la aventura tiene un nombre, ese nombre es Indiana Jones.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j1xaeJZOEOiVBD1rk3dg4YaAk23.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      10751
+    ],
+    "id": 1885,
+    "original_language": "en",
+    "original_title": "The Karate Kid",
+    "overview": "New Jersey teen Daniel LaRusso moves to Los Angeles with his mother, and soon strikes up a relationship with Ali. He quickly finds himself the target of bullying by a group of thugs, led by Ali's ex-boyfriend Johnny, who study karate at the Cobra Kai dojo under ruthless sensei John Kreese. Fortunately, Daniel befriends Mr. Miyagi, an unassuming repairman who just happens to be a martial arts master himself. Miyagi takes Daniel under his wing, training him in a more compassionate form of karate for self-defense and, later, preparing him to compete against the brutal Cobra Kai.",
+    "popularity": 10.6841,
+    "poster_path": "/1mp4ViklKvA0WXXsNvNx0RBuiit.jpg",
+    "release_date": "1984-06-22",
+    "title": "The Karate Kid",
+    "video": false,
+    "vote_average": 7.21,
+    "vote_count": 4425,
+    "belongs_to_collection": {
+      "id": 8580,
+      "name": "Karate Kid - Colección",
+      "poster_path": "/zymeg72VtbAeFdMzr2f1MfumH9X.jpg",
+      "backdrop_path": "/vG9eCvIfSoucQZ9EFEOrSXhesws.jpg"
+    },
+    "budget": 8000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0087538",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7585,
+        "logo_path": null,
+        "name": "Delphi II Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 2596,
+        "logo_path": "/755EAcJW7MqKFpCPgbWicsb2QV6.png",
+        "name": "Jerry Weintraub Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 130442786,
+    "runtime": 126,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/or6DXSUr7vhqwjFgxP4MqghYr6U.jpg",
+    "genre_ids": [
+      12,
+      14,
+      10751,
+      18
+    ],
+    "id": 34584,
+    "original_language": "de",
+    "original_title": "Die unendliche Geschichte",
+    "overview": "While hiding from bullies in his school's attic, a young boy discovers the extraordinary land of Fantasia, through a magical book called The Neverending Story. The book tells the tale of Atreyu, a young warrior who, with the help of a luck dragon named Falkor, must save Fantasia from the destruction of The Nothing.",
+    "popularity": 3.8993,
+    "poster_path": "/ddYCa91iDXfJCxaqSYzwi2fjfnl.jpg",
+    "release_date": "1984-04-06",
+    "title": "The NeverEnding Story",
+    "video": false,
+    "vote_average": 7.199,
+    "vote_count": 4166,
+    "belongs_to_collection": {
+      "id": 91430,
+      "name": "La Historia sin Fin - Colección",
+      "poster_path": "/mvPsYm7CgJQjzJZytlqx0Ej4qDw.jpg",
+      "backdrop_path": "/2IqXJIR1i0f6Ngq3A6rjXhQNqFc.jpg"
+    },
+    "budget": 27000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0088323",
+    "origin_country": [
+      "DE"
+    ],
+    "production_companies": [
+      {
+        "id": 47,
+        "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+        "name": "Constantin Film",
+        "origin_country": "DE"
+      },
+      {
+        "id": 1704,
+        "logo_path": "/sb3PuMTgJgpPUY7x634etBAhodu.png",
+        "name": "Bavaria Film",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "revenue": 20158808,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
+    "genre_ids": [
+      14,
+      27,
+      35
+    ],
+    "id": 927,
+    "original_language": "en",
+    "original_title": "Gremlins",
+    "overview": "After receiving an exotic small animal as a Christmas gift, a young man inadvertently breaks three important rules concerning his new pet, which unleashes a horde of malevolently mischievous creatures on a small town.",
+    "popularity": 5.3482,
+    "poster_path": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+    "release_date": "1984-06-08",
+    "title": "Gremlins",
+    "video": false,
+    "vote_average": 7.134,
+    "vote_count": 6613,
+    "belongs_to_collection": {
+      "id": 89151,
+      "name": "Gremlins - Colección",
+      "poster_path": "/kBAIF98eDbPcdVuM0i3ySn2SCtY.jpg",
+      "backdrop_path": "/otza3wkQmttOfBLDMc4g1gIfSLT.jpg"
+    },
+    "budget": 11000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0087363",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 153083102,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Graciosos. Listos. Malvados. Inteligentes. Peligrosos.",
+    "added_date": "2025-09-27"
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/q9AjUl2DRCyC7TOxheLElRTCtuH.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 35101,
+    "imdb_id": "tt0081031",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Last Flight of Noah's Ark",
+    "overview": "",
+    "popularity": 0.7741,
+    "poster_path": "/xOxD4JC0AMMNZTZUmBlYBCiTuha.jpg",
+    "production_companies": [
+      {
+        "id": 3166,
+        "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+        "name": "Walt Disney Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1980-06-24",
+    "revenue": 11000000,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "The Last Flight of Noah's Ark",
+    "video": false,
+    "vote_average": 5.5,
+    "vote_count": 52,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kgjvZgs6cV2v5bigzzzWqJ9EMGs.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 1891,
+    "original_language": "en",
+    "original_title": "The Empire Strikes Back",
+    "overview": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+    "popularity": 8.1182,
+    "poster_path": "/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+    "release_date": "1980-05-20",
+    "title": "The Empire Strikes Back",
+    "video": false,
+    "vote_average": 8.4,
+    "vote_count": 17573,
+    "belongs_to_collection": {
+      "id": 10,
+      "name": "Star Wars - Colección",
+      "poster_path": "/b8FzGmDRm8E1revfJGLbJb33BkO.jpg",
+      "backdrop_path": "/4z9ijhgEthfRHShoOvMaBlpciXS.jpg"
+    },
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0080684",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1,
+        "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+        "name": "Lucasfilm Ltd.",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 538400000,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La epopeya de La guerra de las galaxias continua.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 694,
+    "original_language": "en",
+    "original_title": "The Shining",
+    "overview": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+    "popularity": 10.6845,
+    "poster_path": "/xazWoLealQwEgqZ89MLZklLZD3k.jpg",
+    "release_date": "1980-05-23",
+    "title": "The Shining",
+    "video": false,
+    "vote_average": 8.211,
+    "vote_count": 18078,
+    "belongs_to_collection": {
+      "id": 530064,
+      "name": "El resplandor - Colección",
+      "poster_path": "/xKsvYP0mjiZavWBxVxFxoHa60Fh.jpg",
+      "backdrop_path": "/8L2bt7OWxrVhZPrFPkyZW4rEXzq.jpg"
+    },
+    "budget": 19000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0081505",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11272,
+        "logo_path": null,
+        "name": "Peregrine",
+        "origin_country": "GB"
+      },
+      {
+        "id": 88,
+        "logo_path": null,
+        "name": "Hawk Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 734,
+        "logo_path": null,
+        "name": "The Producer Circle Co.",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 44781695,
+    "runtime": 144,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e77VeVcrXhxfCdJWD9rameYn7Qn.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 8536,
+    "original_language": "en",
+    "original_title": "Superman II",
+    "overview": "Three Kryptonian criminals led by General Zod team up with Lex Luthor to conquer Earth, forcing a depowered Superman to regain his strength and stop them.",
+    "popularity": 5.5231,
+    "poster_path": "/6XjwM5SbvrrfYPfs6LHAuGO9cOY.jpg",
+    "release_date": "1980-12-12",
+    "title": "Superman II",
+    "video": false,
+    "vote_average": 6.7,
+    "vote_count": 2367,
+    "belongs_to_collection": {
+      "id": 8537,
+      "name": "Superman - Colección",
+      "poster_path": "/l2WfFVl8PoEvLskxowo7k62tywZ.jpg",
+      "backdrop_path": "/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg"
+    },
+    "budget": 54000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0081573",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 51861,
+        "logo_path": null,
+        "name": "Dovemead Films",
+        "origin_country": ""
+      },
+      {
+        "id": 213555,
+        "logo_path": null,
+        "name": "Alexander and Ilya Salkind Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 211429,
+        "logo_path": null,
+        "name": "International Film Production",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "revenue": 216385706,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El hombre de acero conoce un enemigo de su nivel.",
+    "added_date": "2025-09-27"
+  }
+]

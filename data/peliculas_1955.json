@@ -1,0 +1,74 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/yGgEg4yimYQJLZrZg3Qhogp2raQ.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      10749
+    ],
+    "id": 10340,
+    "original_language": "en",
+    "original_title": "Lady and the Tramp",
+    "overview": "Lady, a golden cocker spaniel, meets up with a mongrel dog who calls himself the Tramp. He is obviously from the wrong side of town, but happenings at Lady's home make her decide to travel with him for a while.",
+    "popularity": 5.3393,
+    "poster_path": "/340NcWz9SQXWQyf4oicMxjbrLOb.jpg",
+    "release_date": "1955-06-22",
+    "title": "Lady and the Tramp",
+    "video": false,
+    "vote_average": 7.122,
+    "vote_count": 5435,
+    "belongs_to_collection": {
+      "id": 97460,
+      "name": "La dama y el vagabundo - Colección",
+      "poster_path": "/ewB8OmYbI8SpKrBQzIGALRW87dS.jpg",
+      "backdrop_path": "/3nnYC4UeGaWT8ODIAGCHLbuguy6.jpg"
+    },
+    "budget": 4000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0048280",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3166,
+        "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+        "name": "Walt Disney Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 36359037,
+    "runtime": 77,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

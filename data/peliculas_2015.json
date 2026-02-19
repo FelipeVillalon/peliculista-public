@@ -1,0 +1,2680 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/mA7cELWJKHJsQMbwhUgvD4UHoCT.jpg",
+    "belongs_to_collection": null,
+    "budget": 64000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 309809,
+    "imdb_id": "tt1754656",
+    "origin_country": [
+      "FR"
+    ],
+    "original_language": "en",
+    "original_title": "The Little Prince",
+    "overview": "Para que todo salga bien en la prestigiosa Academia Werth, la pequeña y su madre se mudan a una casa nueva. La pequeña es muy seria y madura para su edad y planea estudiar durante las vacaciones siguiendo un estricto programa organizado por su madre; pero sus planes son perturbados por un vecino excéntrico y generoso. Él le enseña un mundo extraordinario en donde todo es posible. Un mundo en el que el Aviador se topó alguna vez con el misterioso Principito. Entonces comienza la aventura de la pequeña en el universo del Principito. Y así descubre nuevamente su infancia y comprenderá que sólo se ve bien con el corazón. Lo esencial es invisible a los ojos. Cuenta con las voces (en versión inglesa) de James Franco, Rachel McAdams, Marion Cotillard, Jeff Bridges, Benicio Del Toro, Mackenzie Foy y Paul Giamatti.",
+    "popularity": 5.5521,
+    "poster_path": "/i8gmsOtNe2Zqlj7dqstEprf3w1T.jpg",
+    "production_companies": [
+      {
+        "id": 15433,
+        "logo_path": "/9nnaDAbuHwbikxAV1t1BC2Z60GC.png",
+        "name": "Orange Studio",
+        "origin_country": "FR"
+      },
+      {
+        "id": 1115,
+        "logo_path": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
+        "name": "M6 Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 779,
+        "logo_path": "/KFFOFoztyjV5epvnW5GerPbcvx.png",
+        "name": "Lucky Red",
+        "origin_country": "IT"
+      },
+      {
+        "id": 120960,
+        "logo_path": null,
+        "name": "LPPTV",
+        "origin_country": "FR"
+      },
+      {
+        "id": 59725,
+        "logo_path": null,
+        "name": "On Entertainment",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "release_date": "2015-07-29",
+    "revenue": 97571250,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El problema no es crecer. Es olvdar.",
+    "title": "El Principito",
+    "video": false,
+    "vote_average": 7.6,
+    "vote_count": 2855,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wvlIoof1FnKPLv9jAYanuP31V0C.jpg",
+    "belongs_to_collection": {
+      "id": 528,
+      "name": "Terminator - Colección",
+      "poster_path": "/2DdRQER3D5QjBFAXXgVG7QgBYp2.jpg",
+      "backdrop_path": "/sCnBEw2Yu6foEjs4Xb4eMddYHRo.jpg"
+    },
+    "budget": 155000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 87101,
+    "imdb_id": "tt1340138",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Terminator Genisys",
+    "overview": "Año 2032. La guerra del futuro se está librando y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor es el líder de la resistencia, y Kyle Reese es su fiel soldado, criado en las ruinas de una postapocalíptica California. Para salvaguardar el futuro, Connor envía a Reese a 1984 para salvar a su madre, Sarah de un Terminator programado para matarla con el fin de que no llegue a dar a luz a John. Pero lo que Reese encuentra en el otro lado no es como él esperaba.",
+    "popularity": 15.4656,
+    "poster_path": "/5N5PnUoywvOduFb4Qw6HD2LkMtu.jpg",
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2015-06-23",
+    "revenue": 440603537,
+    "runtime": 125,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Las reglas se han restablecido.",
+    "title": "Terminator: Génesis",
+    "video": false,
+    "vote_average": 5.942,
+    "vote_count": 8627,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yYvQXiX4KPN0cfPzVBcWOD5OuRJ.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 298312,
+    "imdb_id": "tt3567288",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Visit",
+    "overview": "Una madre deja a sus dos hijos durante una semana en la remota granja de sus abuelos, en Pensilvania. Los niños descubrirán que la anciana pareja está implicada en algo profundamente inquietante. Película de M. Night Shyamalan (‘El sexto sentido’) realizada con muy bajo presupuesto.",
+    "popularity": 3.18,
+    "poster_path": "/bwZ9zpsWHYlwffMJg2E8N9RLL0M.jpg",
+    "production_companies": [
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 12236,
+        "logo_path": "/bVu0qQm4GujSTCvZZz9S3rHDczA.png",
+        "name": "Blinding Edge Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2015-09-10",
+    "revenue": 98450062,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nadie te ama como tus abuelos",
+    "title": "Los huéspedes",
+    "video": false,
+    "vote_average": 6.318,
+    "vote_count": 4914,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1fpwEe2GvNjAq2MN2xxdifNZLBT.jpg",
+    "belongs_to_collection": {
+      "id": 228446,
+      "name": "La noche del demonio - Colección",
+      "poster_path": "/fct5wsWu6niDIGRIC4aWEsN5Npa.jpg",
+      "backdrop_path": "/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg"
+    },
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 280092,
+    "imdb_id": "tt3195644",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Insidious: Chapter 3",
+    "overview": "Elise Rainier acepta a regañadientes utilizar su capacidad de ponerse en contacto con los muertos a fin de ayudar a una adolescente que se ha convertido en el blanco de una peligrosa entidad sobrenatural.",
+    "popularity": 4.523,
+    "poster_path": "/yc8vkZgbaJjaZjEE1K1qMrDWiB5.jpg",
+    "production_companies": [
+      {
+        "id": 3172,
+        "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+        "name": "Blumhouse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 8147,
+        "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+        "name": "Entertainment One",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2015-05-28",
+    "revenue": 120453155,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El capítulo más oscuro vuelve al principio.",
+    "title": "La noche del demonio: Capítulo 3",
+    "video": false,
+    "vote_average": 6.281,
+    "vote_count": 3459,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      18,
+      35
+    ],
+    "id": 150540,
+    "original_language": "en",
+    "original_title": "Inside Out",
+    "overview": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+    "popularity": 15.8986,
+    "poster_path": "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg",
+    "release_date": "2015-06-17",
+    "title": "Inside Out",
+    "video": false,
+    "vote_average": 7.911,
+    "vote_count": 22654,
+    "belongs_to_collection": {
+      "id": 1022790,
+      "name": "Intensa-Mente - Colección",
+      "poster_path": "/lqsR16EbyLXOjuPBSXuj8i1C5Ae.jpg",
+      "backdrop_path": "/7hYG0v6BEErqqwnU7vWJjWgYJJp.jpg"
+    },
+    "budget": 175000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "http://peliculas.disneylatino.com/intensa-mente",
+    "imdb_id": "tt2096673",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 857611174,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Conocerás a las pequeñas voces dentro de tu cabeza.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7gfDVfaw0VaIkUGiEH13o3TIC7A.jpg",
+    "genre_ids": [
+      18,
+      9648,
+      37
+    ],
+    "id": 273248,
+    "original_language": "en",
+    "original_title": "The Hateful Eight",
+    "overview": "Bounty hunters seek shelter from a raging blizzard and get caught up in a plot of betrayal and deception.",
+    "popularity": 6.8202,
+    "poster_path": "/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+    "release_date": "2015-12-25",
+    "title": "The Hateful Eight",
+    "video": false,
+    "vote_average": 7.753,
+    "vote_count": 14622,
+    "belongs_to_collection": null,
+    "budget": 44000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 37,
+        "name": "Western"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt3460252",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 308,
+        "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+        "name": "The Weinstein Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 215,
+        "logo_path": "/tQyeqkCj24krhY2W8qeAztcOS37.png",
+        "name": "Double Feature Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 1811,
+        "logo_path": "/3yDJuCucOl41d9z3712l5gER0Md.png",
+        "name": "FilmColony",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 155760117,
+    "runtime": 187,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nadie llega hasta aquí sin una maldita razón",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9pubUbDX3eKB6ZuKxbFgv4cBZrz.jpg",
+    "genre_ids": [
+      18,
+      12,
+      878
+    ],
+    "id": 286217,
+    "original_language": "en",
+    "original_title": "The Martian",
+    "overview": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+    "popularity": 11.9357,
+    "poster_path": "/3ndAx3weG6KDkJIRMCi5vXX6Dyb.jpg",
+    "release_date": "2015-09-30",
+    "title": "The Martian",
+    "video": false,
+    "vote_average": 7.689,
+    "vote_count": 20316,
+    "belongs_to_collection": null,
+    "budget": 108000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "http://misionrescate-lapelicula.com",
+    "imdb_id": "tt3659388",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 28788,
+        "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
+        "name": "Genre Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 221347,
+        "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+        "name": "Scott Free Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 631058917,
+    "runtime": 141,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Tráiganlo de vuelta",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 76341,
+    "original_language": "en",
+    "original_title": "Mad Max: Fury Road",
+    "overview": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+    "popularity": 13.2946,
+    "poster_path": "/hA2ple9q4qnwxp3hKVNhroipsir.jpg",
+    "release_date": "2015-05-13",
+    "title": "Mad Max: Fury Road",
+    "video": false,
+    "vote_average": 7.625,
+    "vote_count": 23249,
+    "belongs_to_collection": {
+      "id": 8945,
+      "name": "Mad Max - Colección",
+      "poster_path": "/pk5CE0GbxKom47ePGIa8yE2ALvv.jpg",
+      "backdrop_path": "/zI0q2ENcQOLECbe0gAEGlncVh2j.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "https://www.warnerbroslatino.com/es-mx/peliculas/mad-max-furia-en-el-camino",
+    "imdb_id": "tt1392190",
+    "origin_country": [
+      "AU",
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 28382,
+        "logo_path": "/eaQ9IuuaSNBeSdocdtGLvhXAHfg.png",
+        "name": "Kennedy Miller Mitchell",
+        "origin_country": "AU"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 378858340,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El futuro pertenece a los locos.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qzUIOTk0E3F1zjvYjcBRTKUTgf9.jpg",
+    "genre_ids": [
+      80,
+      35,
+      28,
+      12
+    ],
+    "id": 207703,
+    "original_language": "en",
+    "original_title": "Kingsman: The Secret Service",
+    "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+    "popularity": 10.3277,
+    "poster_path": "/r6q9wZK5a2K51KFj4LWVID6Ja1r.jpg",
+    "release_date": "2015-01-24",
+    "title": "Kingsman: The Secret Service",
+    "video": false,
+    "vote_average": 7.624,
+    "vote_count": 17198,
+    "belongs_to_collection": {
+      "id": 391860,
+      "name": "Kingsman - Colección",
+      "poster_path": "/avTOATIGKsce6sN0vK5eZ1HWSo6.jpg",
+      "backdrop_path": "/esDXPeq4eBLI5uIWH9QiyHkCUBB.jpg"
+    },
+    "budget": 81000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2802144",
+    "origin_country": [
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 5374,
+        "logo_path": "/pMUiImmYANjZUlZFiZMWziQDSs6.png",
+        "name": "Marv",
+        "origin_country": "GB"
+      },
+      {
+        "id": 78995,
+        "logo_path": null,
+        "name": "Cloudy Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 22213,
+        "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+        "name": "TSG Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 414351546,
+    "runtime": 129,
+    "spoken_languages": [
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Los modales hacen al hombre.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
+    "genre_ids": [
+      18,
+      878
+    ],
+    "id": 264660,
+    "original_language": "en",
+    "original_title": "Ex Machina",
+    "overview": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+    "popularity": 5.3408,
+    "poster_path": "/dmJW8IAKHKxFNiUnoDR7JfsK7Rp.jpg",
+    "release_date": "2015-01-21",
+    "title": "Ex Machina",
+    "video": false,
+    "vote_average": 7.573,
+    "vote_count": 13634,
+    "belongs_to_collection": null,
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0470752",
+    "origin_country": [
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 284,
+        "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
+        "name": "DNA Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 6705,
+        "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+        "name": "Film4 Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 93105,
+        "logo_path": "/ryjDQ04FlVYVW30Eok3t5V5Gx8T.png",
+        "name": "IAC Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 36869414,
+    "runtime": 108,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nada más humano que el deseo de sobrevivir.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sGOw65ZmfgGfistCjuNsazjs6j9.jpg",
+    "genre_ids": [
+      37,
+      18,
+      12
+    ],
+    "id": 281957,
+    "original_language": "en",
+    "original_title": "The Revenant",
+    "overview": "In the 1820s, a frontiersman, Hugh Glass, sets out on a path of vengeance against those who left him for dead after a bear mauling.",
+    "popularity": 7.7225,
+    "poster_path": "/ji3ecJphATlVgWNY0B0RVXZizdf.jpg",
+    "release_date": "2015-12-25",
+    "title": "The Revenant",
+    "video": false,
+    "vote_average": 7.535,
+    "vote_count": 18584,
+    "belongs_to_collection": null,
+    "budget": 135000000,
+    "genres": [
+      {
+        "id": 37,
+        "name": "Western"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1663202",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 77845,
+        "logo_path": null,
+        "name": "Monarchy Enterprises S.a.r.l.",
+        "origin_country": ""
+      },
+      {
+        "id": 508,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 562,
+        "logo_path": "/azANEzu3H3Kztzt63sdjvlzxhuB.png",
+        "name": "Appian Way",
+        "origin_country": "US"
+      },
+      {
+        "id": 8870,
+        "logo_path": "/f2hj6ssc0KBRSafGnycnN5A1aGF.png",
+        "name": "CatchPlay",
+        "origin_country": "TW"
+      },
+      {
+        "id": 10039,
+        "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+        "name": "Anonymous Content",
+        "origin_country": "US"
+      },
+      {
+        "id": 10104,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "New Regency Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 13796,
+        "logo_path": null,
+        "name": "Hong Kong Alpha Motion Pictures Co.",
+        "origin_country": "HK"
+      },
+      {
+        "id": 52660,
+        "logo_path": null,
+        "name": "M Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      },
+      {
+        "iso_3166_1": "TW",
+        "name": "Taiwan"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 532950503,
+    "runtime": 156,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La venganza es un viaje solitario.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/51oaRzcFOAZzxOVbQQHnSbbuSJU.jpg",
+    "genre_ids": [
+      12,
+      28,
+      16,
+      35,
+      14
+    ],
+    "id": 347201,
+    "original_language": "ja",
+    "original_title": "BORUTO -NARUTO THE MOVIE-",
+    "overview": "The spirited Boruto Uzumaki, son of Seventh Hokage Naruto, is a skilled ninja who possesses the same brashness and passion his father once had. However, the constant absence of his father, who is busy with his Hokage duties, puts a damper on Boruto's fire. He ends up meeting his father's friend Sasuke, and requests to become... his apprentice!? The curtain on the story of the new generation rises!",
+    "popularity": 5.4586,
+    "poster_path": "/1k6iwC4KaPvTBt1JuaqXy3noZRY.jpg",
+    "release_date": "2015-08-07",
+    "title": "Boruto: Naruto the Movie",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 1620,
+    "belongs_to_collection": {
+      "id": 23616,
+      "name": "Naruto - Colección",
+      "poster_path": "/3XNeBzlAYo0GsbryNHulkY52MOq.jpg",
+      "backdrop_path": "/prLI2SNNkd9wcQkFh9iWXzQtR5D.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt4618398",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 3234,
+        "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+        "name": "Pierrot",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2883,
+        "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+        "name": "Aniplex",
+        "origin_country": "JP"
+      },
+      {
+        "id": 12502,
+        "logo_path": "/tlBbCuZditAuvzDdIDjjnGLJUpc.png",
+        "name": "Bandai Namco Entertainment",
+        "origin_country": "JP"
+      },
+      {
+        "id": 155586,
+        "logo_path": "/rogLuRSNdqLI9r29ZCzD0i0kfJW.png",
+        "name": "Bandai",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1778,
+        "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+        "name": "dentsu",
+        "origin_country": "JP"
+      },
+      {
+        "id": 2918,
+        "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+        "name": "Shueisha",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3034,
+        "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+        "name": "TV Tokyo",
+        "origin_country": "JP"
+      },
+      {
+        "id": 882,
+        "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+        "name": "TOHO",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 38362448,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yOCRqvrRrxbs5FYq2pX1KtLJwmR.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878,
+      53
+    ],
+    "id": 135397,
+    "original_language": "en",
+    "original_title": "Jurassic World",
+    "overview": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+    "popularity": 23.7458,
+    "poster_path": "/rhr4y79GpxQF9IsfJItRXVaoGs4.jpg",
+    "release_date": "2015-06-06",
+    "title": "Jurassic World",
+    "video": false,
+    "vote_average": 6.699,
+    "vote_count": 20884,
+    "belongs_to_collection": {
+      "id": 328,
+      "name": "Jurassic Park - Colección",
+      "poster_path": "/cn1D5g7dFCNCcXiO070H89JuvnE.jpg",
+      "backdrop_path": "/njFixYzIxX8jsn6KMSEtAzi4avi.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0369610",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1671537444,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El parque abre sus puertas",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kIBK5SKwgqIIuRKhhWrJn3XkbPq.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 99861,
+    "original_language": "en",
+    "original_title": "Avengers: Age of Ultron",
+    "overview": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+    "popularity": 15.3831,
+    "poster_path": "/4ssDuvEDkSArWEdyBl2X5EHvYKU.jpg",
+    "release_date": "2015-04-22",
+    "title": "Avengers: Age of Ultron",
+    "video": false,
+    "vote_average": 7.271,
+    "vote_count": 23601,
+    "belongs_to_collection": {
+      "id": 86311,
+      "name": "Avengers (Vengadores)  - Colección",
+      "poster_path": "/xRgTmIWbsLjRIfFdOS6u5FTlAI2.jpg",
+      "backdrop_path": "/zuW6fOiusv4X9nnW3paHGfXcSll.jpg"
+    },
+    "budget": 365000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2395427",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1405403694,
+    "runtime": 141,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una nueva era comienza.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8BTsTfln4jlQrLXUBquXJ0ASQy9.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 140607,
+    "original_language": "en",
+    "original_title": "Star Wars: The Force Awakens",
+    "overview": "Thirty years after defeating the Galactic Empire, Han Solo and his allies face a new threat from the evil Kylo Ren and his army of Stormtroopers.",
+    "popularity": 9.6746,
+    "poster_path": "/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",
+    "release_date": "2015-12-15",
+    "title": "Star Wars: The Force Awakens",
+    "video": false,
+    "vote_average": 7.258,
+    "vote_count": 19874,
+    "belongs_to_collection": {
+      "id": 10,
+      "name": "Star Wars - Colección",
+      "poster_path": "/b8FzGmDRm8E1revfJGLbJb33BkO.jpg",
+      "backdrop_path": "/4z9ijhgEthfRHShoOvMaBlpciXS.jpg"
+    },
+    "budget": 245000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2488496",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1,
+        "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+        "name": "Lucasfilm Ltd.",
+        "origin_country": "US"
+      },
+      {
+        "id": 11461,
+        "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+        "name": "Bad Robot",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 2068223624,
+    "runtime": 136,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ha habido un despertar. ¿Lo has sentido?",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ki5RnA0xNOEd3R0RohXqJt9R6Om.jpg",
+    "genre_ids": [
+      28,
+      12
+    ],
+    "id": 177677,
+    "original_language": "en",
+    "original_title": "Mission: Impossible - Rogue Nation",
+    "overview": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
+    "popularity": 9.1259,
+    "poster_path": "/jwqL7croP7JMVfz0l9o7V4yJsJO.jpg",
+    "release_date": "2015-07-28",
+    "title": "Mission: Impossible - Rogue Nation",
+    "video": false,
+    "vote_average": 7.2,
+    "vote_count": 9209,
+    "belongs_to_collection": {
+      "id": 87359,
+      "name": "Misión: Imposible - Colección",
+      "poster_path": "/oKxF0QpITrRmEm0jM5Y1DtgnLim.jpg",
+      "backdrop_path": "/mroWh717g0Ah2c0rrPGW6f3EWMM.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2381249",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11461,
+        "logo_path": "/p9FoEt5shEKRWRKVIlvFaEmRnun.png",
+        "name": "Bad Robot",
+        "origin_country": "US"
+      },
+      {
+        "id": 69485,
+        "logo_path": null,
+        "name": "Odin",
+        "origin_country": ""
+      },
+      {
+        "id": 82819,
+        "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+        "name": "Skydance Media",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 682716636,
+    "runtime": 131,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Swedish",
+        "iso_639_1": "sv",
+        "name": "svenska"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Tiempos desesperados. Medidas desesperadas.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 102899,
+    "original_language": "en",
+    "original_title": "Ant-Man",
+    "overview": "Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+    "popularity": 7.2259,
+    "poster_path": "/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg",
+    "release_date": "2015-07-14",
+    "title": "Ant-Man",
+    "video": false,
+    "vote_average": 7.07,
+    "vote_count": 20221,
+    "belongs_to_collection": {
+      "id": 422834,
+      "name": "Ant-Man - Colección",
+      "poster_path": "/xB3aMpyK190oEkvOgFxvhVaqD7k.jpg",
+      "backdrop_path": "/2KjtWUBiksmN8LsUouaZnxocu5N.jpg"
+    },
+    "budget": 130000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0478970",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 519311965,
+    "runtime": 117,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No hay un héroe tan pequeño más grande",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/19Shb0Xn0PeLXA4CkT2TIIvxaR6.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36
+    ],
+    "id": 365222,
+    "original_language": "cn",
+    "original_title": "葉問3",
+    "overview": "When a band of brutal gangsters led by a crooked property developer make a play to take over the city, Master Ip is forced to take a stand.",
+    "popularity": 2.8152,
+    "poster_path": "/RTt4lgyTDI8JHMGbZGDDbcZmkM.jpg",
+    "release_date": "2015-12-24",
+    "title": "Ip Man 3",
+    "video": false,
+    "vote_average": 7.021,
+    "vote_count": 1811,
+    "belongs_to_collection": {
+      "id": 70068,
+      "name": "Ip Man - Colección",
+      "poster_path": "/pte0QVZ3OMOHhyDrgihe8us4FbZ.jpg",
+      "backdrop_path": "/rVdFzHgzvUcp0lJPGG3Cewy9hgs.jpg"
+    },
+    "budget": 36000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2888046",
+    "origin_country": [
+      "CN",
+      "HK"
+    ],
+    "production_companies": [
+      {
+        "id": 72821,
+        "logo_path": null,
+        "name": "Dreams Salon Entertainment Culture",
+        "origin_country": "HK"
+      },
+      {
+        "id": 6950,
+        "logo_path": "/vjcRLOtFSVqwW3p0NuBLcsgxwfk.png",
+        "name": "Pegasus Motion Pictures",
+        "origin_country": "HK"
+      },
+      {
+        "id": 72822,
+        "logo_path": null,
+        "name": "Starbright Communications",
+        "origin_country": "HK"
+      },
+      {
+        "id": 9046,
+        "logo_path": null,
+        "name": "Golden Harvest Company",
+        "origin_country": "HK"
+      },
+      {
+        "id": 74194,
+        "logo_path": null,
+        "name": "Henan Film & TV Production Group",
+        "origin_country": "CN"
+      },
+      {
+        "id": 170775,
+        "logo_path": null,
+        "name": "My Pictures Studio",
+        "origin_country": "CN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      },
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "revenue": 157000000,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El gran maestro vuelve para un ultimo combate",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9zWWAL8LciOBXvAArLn9mtGvRzQ.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 131634,
+    "original_language": "en",
+    "original_title": "The Hunger Games: Mockingjay - Part 2",
+    "overview": "With the nation of Panem in a full scale war, Katniss confronts President Snow in the final showdown. Teamed with a group of her closest friends – including Gale, Finnick, and Peeta – Katniss goes off on a mission with the unit from District 13 as they risk their lives to stage an assassination attempt on President Snow who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games.",
+    "popularity": 7.3948,
+    "poster_path": "/7uLJCuK0ufoDklUdOORC8XanOKw.jpg",
+    "release_date": "2015-11-18",
+    "title": "The Hunger Games: Mockingjay - Part 2",
+    "video": false,
+    "vote_average": 6.898,
+    "vote_count": 12857,
+    "belongs_to_collection": {
+      "id": 131635,
+      "name": "Los juegos del hambre - Colección",
+      "poster_path": "/pV0AuDuIyrNdPG3aVlKxg8EnJQb.jpg",
+      "backdrop_path": "/Ipp7cegtub4t0mu7xaKLQkYoGc.jpg"
+    },
+    "budget": 160000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1951266",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 5420,
+        "logo_path": "/dlW4Kh5dNieKNURnymsu57y6fMf.png",
+        "name": "Color Force",
+        "origin_country": "US"
+      },
+      {
+        "id": 264,
+        "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+        "name": "Studio Babelsberg",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 653428261,
+    "runtime": 136,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El fuego arderá por siempre",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cWWM1TTGnOoglZKLpVERGtQ6HJ4.jpg",
+    "genre_ids": [
+      10749,
+      35,
+      80
+    ],
+    "id": 256591,
+    "original_language": "en",
+    "original_title": "Focus",
+    "overview": "Nicky, an accomplished con artist, gets romantically involved with his disciple Jess but later ends their relationship. Years later, she returns as a femme fatale to spoil his plans.",
+    "popularity": 4.4296,
+    "poster_path": "/lOzGWjceYTd0kd5HyX7Ch46O9kh.jpg",
+    "release_date": "2015-02-25",
+    "title": "Focus",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 8012,
+    "belongs_to_collection": null,
+    "budget": 50100000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2381941",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 21914,
+        "logo_path": "/iF5QYCtPLuwkU90jWdjrul25d71.png",
+        "name": "K & S Films",
+        "origin_country": "AR"
+      },
+      {
+        "id": 41624,
+        "logo_path": "/wzKxIeQKlMP0y5CaAw25MD6EQmf.png",
+        "name": "RatPac Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 47586,
+        "logo_path": null,
+        "name": "Zaftig Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 813,
+        "logo_path": null,
+        "name": "Di Novi Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 153962963,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nunca te fíes de un ladron.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3pKIcv6KhUE35jsKnv3MylQ3OT2.jpg",
+    "genre_ids": [
+      80,
+      28,
+      878
+    ],
+    "id": 198184,
+    "original_language": "en",
+    "original_title": "Chappie",
+    "overview": "Every child comes into the world full of promise, and none more so than Chappie: he is gifted, special, a prodigy. Like any child, Chappie will come under the influence of his surroundings—some good, some bad—and he will rely on his heart and soul to find his way in the world and become his own man. But there's one thing that makes Chappie different from any one else: he is a robot.",
+    "popularity": 7.8064,
+    "poster_path": "/uuDUpzlMFomdSfNWlpEPS9nVZWV.jpg",
+    "release_date": "2015-03-04",
+    "title": "Chappie",
+    "video": false,
+    "vote_average": 6.785,
+    "vote_count": 8129,
+    "belongs_to_collection": null,
+    "budget": 49000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "https://www.sonypictures.com/movies/chappie",
+    "imdb_id": "tt1823672",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2531,
+        "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+        "name": "MRC",
+        "origin_country": "US"
+      },
+      {
+        "id": 34034,
+        "logo_path": null,
+        "name": "LStar Capital",
+        "origin_country": "US"
+      },
+      {
+        "id": 28788,
+        "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
+        "name": "Genre Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 104399548,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La última esperanza de la humanidad no es humana.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ymHTXJabZagpXvXIR0litdXC8BT.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      14
+    ],
+    "id": 159824,
+    "original_language": "en",
+    "original_title": "Hotel Transylvania 2",
+    "overview": "When the old-old-old-fashioned vampire Vlad arrives at the hotel for an impromptu family get-together, Hotel Transylvania is in for a collision of supernatural old-school and modern day cool.",
+    "popularity": 7.0609,
+    "poster_path": "/3nFnrivNgipSKZ8LZJJbRSlAcTR.jpg",
+    "release_date": "2015-09-21",
+    "title": "Hotel Transylvania 2",
+    "video": false,
+    "vote_average": 6.767,
+    "vote_count": 5901,
+    "belongs_to_collection": {
+      "id": 185103,
+      "name": "Hotel Transylvania - Colección",
+      "poster_path": "/13vJ9RjtaqsfRH0CxNjY9nXGFAi.jpg",
+      "backdrop_path": "/5MJt6g7k9gADQH4xHn5mOEMa3Vr.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2510894",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2251,
+        "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+        "name": "Sony Pictures Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 2531,
+        "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+        "name": "MRC",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 473200000,
+    "runtime": 89,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Están de vuelta para provocar un poco de terror.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9W0aXF5HhGilDHloymf7sTCne8z.jpg",
+    "genre_ids": [
+      28,
+      53,
+      18
+    ],
+    "id": 336882,
+    "original_language": "no",
+    "original_title": "Bølgen",
+    "overview": "Although theorised, no one is really ready when a mountain pass above the scenic and narrow Geiranger fjord in Norway collapses and creates a tsunami over 300 feet high. A geologist is one of those caught in the middle of it.",
+    "popularity": 3.6908,
+    "poster_path": "/nUra0UF9MLlTRZH9LCA8xYvhd6D.jpg",
+    "release_date": "2015-08-28",
+    "title": "The Wave",
+    "video": false,
+    "vote_average": 6.681,
+    "vote_count": 1326,
+    "belongs_to_collection": {
+      "id": 535748,
+      "name": "Terremoto - Colección",
+      "poster_path": "/gf6gUhJGs0Fxs6j4G9nrVCotxsn.jpg",
+      "backdrop_path": "/swZkvBks6Iy3P3c5BYe70ILcxPd.jpg"
+    },
+    "budget": 5904067,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt3616916",
+    "origin_country": [
+      "NO"
+    ],
+    "production_companies": [
+      {
+        "id": 3079,
+        "logo_path": "/12cb7xhHlYnW4uksoVR8hp48psC.png",
+        "name": "Fantefilm",
+        "origin_country": "NO"
+      },
+      {
+        "id": 2801,
+        "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+        "name": "Film i Väst",
+        "origin_country": "SE"
+      },
+      {
+        "id": 10356,
+        "logo_path": "/rzyqRbVf1hvGC56IQXC6HUSwZc8.png",
+        "name": "Tre Vänner",
+        "origin_country": "SE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NO",
+        "name": "Norway"
+      }
+    ],
+    "revenue": 12975143,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "Norwegian",
+        "iso_639_1": "no",
+        "name": "Norsk"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Sólo era cuestión de tiempo.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8lBViysvNJBPkl6zG1LVAaW3qhj.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53
+    ],
+    "id": 206647,
+    "original_language": "en",
+    "original_title": "Spectre",
+    "overview": "A cryptic message from Bond’s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
+    "popularity": 5.5572,
+    "poster_path": "/zj8ongFhtWNsVlfjOGo8pSr7PQg.jpg",
+    "release_date": "2015-10-26",
+    "title": "Spectre",
+    "video": false,
+    "vote_average": 6.559,
+    "vote_count": 10778,
+    "belongs_to_collection": {
+      "id": 645,
+      "name": "James Bond - Colección",
+      "poster_path": "/ruEIIzwvrhvKnMfuZUNVMGhzuqr.jpg",
+      "backdrop_path": "/dOSECZImeyZldoq0ObieBE0lwie.jpg"
+    },
+    "budget": 245000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "http://007spectrelapelicula.com",
+    "imdb_id": "tt2379713",
+    "origin_country": [
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7576,
+        "logo_path": "/oYcUi1byZ312Z3xiz5ojz9RQLND.png",
+        "name": "EON Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 69434,
+        "logo_path": null,
+        "name": "B24",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 880707597,
+    "runtime": 149,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Un plan del que nadie escapa...",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wKrxeY6lbu7KFBsWVcMH6M8avwr.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      35
+    ],
+    "id": 211672,
+    "original_language": "en",
+    "original_title": "Minions",
+    "overview": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+    "popularity": 4.6076,
+    "poster_path": "/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+    "release_date": "2015-06-17",
+    "title": "Minions",
+    "video": false,
+    "vote_average": 6.414,
+    "vote_count": 10774,
+    "belongs_to_collection": {
+      "id": 544669,
+      "name": "Minions  - Colección",
+      "poster_path": "/uCDOkcAa0c5q5Bw2eD60GW2LD9N.jpg",
+      "backdrop_path": "/62Qe28oi9PaK3P2ljDYUDTGAyST.jpg"
+    },
+    "budget": 74000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2293640",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1159457503,
+    "runtime": 91,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8YNNyQiPZlF9qv5EGOUK20mnXVk.jpg",
+    "genre_ids": [
+      28,
+      878,
+      53
+    ],
+    "id": 262500,
+    "original_language": "en",
+    "original_title": "Insurgent",
+    "overview": "Beatrice Prior must confront her inner demons and continue her fight against a powerful alliance which threatens to tear her society apart.",
+    "popularity": 6.5843,
+    "poster_path": "/dP5Fb6YRfzmCQtRbHOr2kO7tJW9.jpg",
+    "release_date": "2015-03-18",
+    "title": "Insurgent",
+    "video": false,
+    "vote_average": 6.363,
+    "vote_count": 10165,
+    "belongs_to_collection": {
+      "id": 283579,
+      "name": "Divergente - Colección",
+      "poster_path": "/kqEMWO8wGrXmW6HQ9GohTwV10hE.jpg",
+      "backdrop_path": "/51XPQ6WXQDRUu9YoujqSc10OQp2.jpg"
+    },
+    "budget": 110000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2908446",
+    "origin_country": [
+      "US",
+      "CA"
+    ],
+    "production_companies": [
+      {
+        "id": 491,
+        "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+        "name": "Summit Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 14440,
+        "logo_path": "/gk9zllyMFnaVBWTdZpm7VcfQrHC.png",
+        "name": "Red Wagon Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 10227,
+        "logo_path": "/3YfRy3DBl4abcqkzGx4RVNz12yl.png",
+        "name": "Mandeville Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 24097,
+        "logo_path": null,
+        "name": "NeoReel",
+        "origin_country": "CA"
+      },
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 297002527,
+    "runtime": 119,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una elección puede destruirte.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jcVHl3PNxeKRg3SGK2sZrKxh94a.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "id": 214756,
+    "original_language": "en",
+    "original_title": "Ted 2",
+    "overview": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
+    "popularity": 8.3465,
+    "poster_path": "/38C91I7Xft0gyY7BITm8i4yvuRb.jpg",
+    "release_date": "2015-06-25",
+    "title": "Ted 2",
+    "video": false,
+    "vote_average": 6.315,
+    "vote_count": 7692,
+    "belongs_to_collection": {
+      "id": 266672,
+      "name": "Ted - Colección",
+      "poster_path": "/yPE203RZX7RtbY6GNnzo2jDDjAC.jpg",
+      "backdrop_path": "/dGrNuWhapf8T0WH98xTC4LXgk1G.jpg"
+    },
+    "budget": 68000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2637276",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 44783,
+        "logo_path": null,
+        "name": "Smart Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8789,
+        "logo_path": "/1smGq637YoNgkeBZXt7TAPDYGda.png",
+        "name": "Fuzzy Door Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 13778,
+        "logo_path": null,
+        "name": "Bluegrass Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 2531,
+        "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+        "name": "MRC",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 215863606,
+    "runtime": 115,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Los relampamigos están de vuelta",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
+    "genre_ids": [
+      28,
+      18,
+      53
+    ],
+    "id": 254128,
+    "original_language": "en",
+    "original_title": "San Andreas",
+    "overview": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.",
+    "popularity": 9.2415,
+    "poster_path": "/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg",
+    "release_date": "2015-05-27",
+    "title": "San Andreas",
+    "video": false,
+    "vote_average": 6.246,
+    "vote_count": 8731,
+    "belongs_to_collection": null,
+    "budget": 110000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2126355",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 34081,
+        "logo_path": null,
+        "name": "Flynn Picture Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      }
+    ],
+    "revenue": 473990832,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Siempre supimos que este día llegaría",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/41Y3h2FVfoU4baFdTZwRrlD4MDM.jpg",
+    "genre_ids": [
+      28,
+      35,
+      878,
+      14
+    ],
+    "id": 257344,
+    "original_language": "en",
+    "original_title": "Pixels",
+    "overview": "Video game experts are recruited by the military to fight 1980s-era video game characters who've attacked New York.",
+    "popularity": 10.4785,
+    "poster_path": "/d26S5EfVXLNxRXqyFy1yyl3qRq3.jpg",
+    "release_date": "2015-07-16",
+    "title": "Pixels",
+    "video": false,
+    "vote_average": 5.756,
+    "vote_count": 7751,
+    "belongs_to_collection": null,
+    "budget": 88000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt2120120",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 878,
+        "logo_path": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+        "name": "Happy Madison Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 436,
+        "logo_path": "/A7WCkG3F0NFvjGCwUnclpGdIu9E.png",
+        "name": "1492 Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 34034,
+        "logo_path": null,
+        "name": "LStar Capital",
+        "origin_country": "US"
+      },
+      {
+        "id": 14714,
+        "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+        "name": "China Film Group Corporation",
+        "origin_country": "CN"
+      },
+      {
+        "id": 113210,
+        "logo_path": null,
+        "name": "Film Croppers Entertainment",
+        "origin_country": "FR"
+      },
+      {
+        "id": 15357,
+        "logo_path": "/uvaRT02pY9U8qLH8a9WwwAroDqr.png",
+        "name": "Prime Focus",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 244900000,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Juega por el planeta.",
+    "added_date": "2025-09-27"
+  }
+]

@@ -1,0 +1,1850 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/kVsiAx2FmNFl0jnX7sTP6jAbo4L.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 8697,
+    "imdb_id": "tt0127357",
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "我是誰",
+    "overview": "Jackie es reclutado por la CIA para formar parte de un comando de élite, que recibe la orden de asaltar un laboratorio secreto de armamento tecnológico en la jungla africana. Traicionados por su jefe, todo el equipo muere excepto Jackie, que es abandonado inconsciente en la jungla. Una tribu le recoge y le cura, aunque sufre de amnesia que le impide saber quién es y cómo llegó hasta allí. Su lucha por descubrir su verdadera identidad le hará sufrir la persecución de sus antiguos enemigos, y no podrá confiar en nadie nunca más.",
+    "popularity": 5.7165,
+    "poster_path": "/dev4QedPHqgSEtH6qPVujDoOklt.jpg",
+    "production_companies": [
+      {
+        "id": 2521,
+        "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+        "name": "Orange Sky Golden Harvest",
+        "origin_country": "HK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "1998-01-17",
+    "revenue": 0,
+    "runtime": 107,
+    "spoken_languages": [
+      {
+        "english_name": "Dutch",
+        "iso_639_1": "nl",
+        "name": "Nederlands"
+      },
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "¿Quién soy yo?",
+    "video": false,
+    "vote_average": 7.121,
+    "vote_count": 928,
+    "added_date": "2025-09-28"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/egJQ3nIon5fT8wyXcKRHzvmtZpD.jpg",
+    "belongs_to_collection": null,
+    "budget": 23000000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 544,
+    "imdb_id": "tt0129387",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "There's Something About Mary",
+    "overview": "Ted (Ben Stiller), un torpe y tímido adolescente, tiene una cita de graduación con la chica de sus sueños, Mary Jensen (Cameron Diaz). La cita es un desastre cuando Ted tiene un doloroso y humillante problema con la cremallera de su pantalón y tiene que ir al hospital. Mary se traslada a otro estado lejos de Ted, y nunca se volvieron a ver.  Trece años después, éste sigue enamorado de Mary. Por consejo de su mejor amigo Dom (Chris Elliott), decide contratar a un detective privado llamado Pat (Matt Dillon) para encontrarla; sólo que Pat también se enamora de Mary. Ted y Pat acaban mintiéndose, engañándose en su competencia por Mary y descubren que no son sólo ellos los únicos que toman medidas desesperadas para estar cerca de Mary.",
+    "popularity": 4.9307,
+    "poster_path": "/dSOfZ9Ni0Nd7dAXR2CT2JI4ljsl.jpg",
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1998-07-15",
+    "revenue": 369900000,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Loco por Mary",
+    "video": false,
+    "vote_average": 6.616,
+    "vote_count": 5084,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rSoWawQFVINi3yMyeMfq4aCny0U.jpg",
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 10153,
+    "imdb_id": "tt0120184",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Sphere",
+    "overview": "En las profundidades del Océano Pacífico se esconde uno de los secretos mejor guardados del gobierno americano y posiblemente el mayor descubrimiento de la historia de la humanidad: una nave aparentemente alienígena que se conserva intacta desde hace casi 300 años. Un equipo de científicos viaja al fondo marino con una inquietante misión: analizar la nave e investigar su origen.",
+    "popularity": 2.4921,
+    "poster_path": "/7LiXZgPW0eva5lpUqNf92J5hu7m.jpg",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2154,
+        "logo_path": null,
+        "name": "Punch Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 11407,
+        "logo_path": null,
+        "name": "Baltimore Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23370,
+        "logo_path": null,
+        "name": "Constant c Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1998-02-13",
+    "revenue": 37020277,
+    "runtime": 134,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Esfera",
+    "video": false,
+    "vote_average": 6.123,
+    "vote_count": 1700,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wBgpRRyjiXi89v0jtf2mcVT65cY.jpg",
+    "belongs_to_collection": {
+      "id": 1657,
+      "name": "Zorro - Colección",
+      "poster_path": "/okGYfwrkJ4GN8tqwv4op4dn4plR.jpg",
+      "backdrop_path": "/wZCWCe4jPJz04dvVGLQ8TtOq9Js.jpg"
+    },
+    "budget": 95000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 9342,
+    "imdb_id": "tt0120746",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Mask of Zorro",
+    "overview": "México, 1821. Un enmascarado y romántico héroe popular, conocido como El Zorro, lucha valientemente contra el dominio colonial español en la Alta California. Sin embargo, la víspera de la liberación de México, el despótico gobernador don Rafael Montero descubre que el Zorro es don Diego de la Vega. Un ataque contra la casa del rebelde, se salda con su captura, la muerte de su mujer, el secuestro de su única hija Elena y la destrucción de sus propiedades. Veinte años después, Montero regresa del exilio con Elena, que ignora la identidad de su padre, y se propone comprar California al Presidente de México, el General Santa Anna. Cuando don Diego de la Vega se entera, escapa de la prisión dispuesto a vengarse de Montero.",
+    "popularity": 5.4039,
+    "poster_path": "/fbqmGj7PCUDRAMydIiPx0knWvhn.jpg",
+    "production_companies": [
+      {
+        "id": 559,
+        "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+        "name": "TriStar Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 121750,
+        "logo_path": "/xrd38ontNVcwJ4Ene4wQKbqaria.png",
+        "name": "Zorro Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 65895,
+        "logo_path": null,
+        "name": "Global Entertainment Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "release_date": "1998-07-16",
+    "revenue": 250288523,
+    "runtime": 136,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "La Máscara del Zorro",
+    "video": false,
+    "vote_average": 6.576,
+    "vote_count": 4122,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "id": 857,
+    "original_language": "en",
+    "original_title": "Saving Private Ryan",
+    "overview": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+    "popularity": 12.0301,
+    "poster_path": "/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+    "release_date": "1998-07-24",
+    "title": "Saving Private Ryan",
+    "video": false,
+    "vote_average": 8.219,
+    "vote_count": 16426,
+    "belongs_to_collection": null,
+    "budget": 70000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120815",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 762,
+        "logo_path": "/3T7EpKcS13viHu3WzRtQGvi9sTY.png",
+        "name": "Mutual Film Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 481840909,
+    "runtime": 169,
+    "spoken_languages": [
+      {
+        "english_name": "Czech",
+        "iso_639_1": "cs",
+        "name": "Český"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La misión es un hombre.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 37165,
+    "original_language": "en",
+    "original_title": "The Truman Show",
+    "overview": "Every second of every day, from the moment he was born, for the last thirty years, Truman Burbank has been the unwitting star of the longest running, most popular documentary-soap opera in history. The picture-perfect town of Seahaven that he calls home is actually a gigantic soundstage. Truman's friends and family - everyone he meets, in fact - are actors. He lives every moment under the unblinking gaze of thousands of hidden TV cameras.",
+    "popularity": 12.5879,
+    "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+    "release_date": "1998-06-04",
+    "title": "The Truman Show",
+    "video": false,
+    "vote_average": 8.148,
+    "vote_count": 19162,
+    "belongs_to_collection": null,
+    "budget": 60000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120382",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 264100000,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "En el aire. Inconsciente.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mUYV0ZdsDEliGaQahcQH1F3grsP.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12
+    ],
+    "id": 10674,
+    "original_language": "en",
+    "original_title": "Mulan",
+    "overview": "To save her father from certain death in the army, a young woman secretly enlists in his place and becomes one of China's greatest heroines in the process.",
+    "popularity": 12.0091,
+    "poster_path": "/bj3iSjLlkwHtJrPmvHXa8P7edI9.jpg",
+    "release_date": "1998-06-18",
+    "title": "Mulan",
+    "video": false,
+    "vote_average": 7.906,
+    "vote_count": 10041,
+    "belongs_to_collection": {
+      "id": 87236,
+      "name": "Mulan - Colección",
+      "poster_path": "/vj9aNcb3AVDpsPK9KeskcKSJzKQ.jpg",
+      "backdrop_path": "/1KkIBhX5MTwVoNJzD0JMv059Ck0.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120762",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171656,
+        "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+        "name": "Walt Disney Feature Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 304320254,
+    "runtime": 88,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "En esta ocasión, la princesa salva al príncipe.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gT4XVSEmGKOJ0EgSEUTfCeqgEtc.jpg",
+    "genre_ids": [
+      878,
+      28,
+      53
+    ],
+    "id": 929,
+    "original_language": "en",
+    "original_title": "Godzilla",
+    "overview": "French nuclear tests irradiate an iguana into a giant monster that viciously attacks freighter ships in the Pacific Ocean. A team of experts, including Niko Tatopoulos, conclude that the oversized reptile is the culprit. Before long, the giant lizard is loose in Manhattan as the US military races to destroy the monster before it reproduces and it's spawn takes over the world.",
+    "popularity": 3.9771,
+    "poster_path": "/xJVl1I95StraYAwaNbBkVoWE2qA.jpg",
+    "release_date": "1998-05-20",
+    "title": "Godzilla",
+    "video": false,
+    "vote_average": 5.6,
+    "vote_count": 4014,
+    "belongs_to_collection": null,
+    "budget": 130000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120685",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 882,
+        "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+        "name": "TOHO",
+        "origin_country": "JP"
+      },
+      {
+        "id": 559,
+        "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+        "name": "TriStar Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2833,
+        "logo_path": "/a3aoOysGArJDIwPtxYCqF5LMVKs.png",
+        "name": "Independent Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11343,
+        "logo_path": null,
+        "name": "Fried Films",
+        "origin_country": ""
+      },
+      {
+        "id": 347,
+        "logo_path": "/1wpVtAaWLqvFJVVbyzTAf7U4JPX.png",
+        "name": "Centropolis Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 379014294,
+    "runtime": 130,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El tamaño importa.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
+    "genre_ids": [
+      9648,
+      878
+    ],
+    "id": 2666,
+    "original_language": "en",
+    "original_title": "Dark City",
+    "overview": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+    "popularity": 3.758,
+    "poster_path": "/tNPEGju4DpTdbhBphNmZoEi9Bd3.jpg",
+    "release_date": "1998-02-27",
+    "title": "Dark City",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 2967,
+    "belongs_to_collection": null,
+    "budget": 27000000,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "https://www.warnerbros.com/movies/dark-city",
+    "imdb_id": "tt0118929",
+    "origin_country": [
+      "AU"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 908,
+        "logo_path": null,
+        "name": "Mystery Clock Cinema",
+        "origin_country": "AU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 27200000,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Un mundo donde la noche nunca termina.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sPGgJ0w1oCVPBOW41dN0hpMouhI.jpg",
+    "genre_ids": [
+      35,
+      18
+    ],
+    "id": 10312,
+    "original_language": "en",
+    "original_title": "Patch Adams",
+    "overview": "The true story of Dr. Hunter \"Patch\" Adams, who in the 1970s found that humor is the best medicine, and was willing to do just anything to make his patients laugh—even if it meant risking his own career.",
+    "popularity": 2.9531,
+    "poster_path": "/xN1aKur5ddWQSXTqvzDPJD2TCxe.jpg",
+    "release_date": "1998-12-25",
+    "title": "Patch Adams",
+    "video": false,
+    "vote_average": 7.316,
+    "vote_count": 3298,
+    "belongs_to_collection": null,
+    "budget": 50000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0129290",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 369,
+        "logo_path": null,
+        "name": "Bungalow 78 Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 10230,
+        "logo_path": null,
+        "name": "Blue Wolf",
+        "origin_country": ""
+      },
+      {
+        "id": 10231,
+        "logo_path": null,
+        "name": "Farrell/Minoff",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 202292902,
+    "runtime": 115,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kchiiKCtsOg0VoFUpLnu1H98AX.jpg",
+    "genre_ids": [
+      12,
+      16,
+      18,
+      10751
+    ],
+    "id": 9837,
+    "original_language": "en",
+    "original_title": "The Prince of Egypt",
+    "overview": "The strong bond between two brothers is challenged when their chosen responsibilities set them at odds, with extraordinary consequences.",
+    "popularity": 6.6426,
+    "poster_path": "/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg",
+    "release_date": "1998-12-16",
+    "title": "The Prince of Egypt",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 4101,
+    "belongs_to_collection": {
+      "id": 1064555,
+      "name": "DreamWorks Bible Stories Collection",
+      "poster_path": "/hJTcqEauOwU3MDkoH50VVWeeWT3.jpg",
+      "backdrop_path": "/tFo4gyEfNWznOF2dpegLYEWcx9m.jpg"
+    },
+    "budget": 70000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120794",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 218613188,
+    "runtime": 99,
+    "spoken_languages": [
+      {
+        "english_name": "Hebrew",
+        "iso_639_1": "he",
+        "name": "עִבְרִית"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El poder es real. La historia es para siempre. El momento es ahora.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/y3zUOMWRoI2vC4ck2GBJyFWhzyA.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      10749
+    ],
+    "id": 9820,
+    "original_language": "en",
+    "original_title": "The Parent Trap",
+    "overview": "Hallie Parker and Annie James are identical twins who were separated at a young age due to their parents' divorce. Unbeknownst to their parents, the girls are sent to the same summer camp, where they meet, discover the truth about their relationship, and come up with a plan to switch places in an effort to reunite their mother and father.",
+    "popularity": 9.831,
+    "poster_path": "/3FSL7O7HRt6HoGrTBZAVdLK1nZg.jpg",
+    "release_date": "1998-07-28",
+    "title": "The Parent Trap",
+    "video": false,
+    "vote_average": 7.214,
+    "vote_count": 4314,
+    "belongs_to_collection": {
+      "id": 216395,
+      "name": "The Parent Trap Collection",
+      "poster_path": "/oPiLeN8tFaShyQLDSq9oiAe5gu8.jpg",
+      "backdrop_path": "/ncAizE1ngQ0NHddPojwxSkYQycf.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120783",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8795,
+        "logo_path": null,
+        "name": "The Meyers/Shyer Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 92108518,
+    "runtime": 129,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/9YRKhVQx174hQn35f8k1MWKLAFQ.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "id": 2109,
+    "original_language": "en",
+    "original_title": "Rush Hour",
+    "overview": "When Hong Kong Inspector Lee is summoned to Los Angeles to investigate a kidnapping, the FBI doesn't want any outside help and assigns cocky LAPD Detective James Carter to distract Lee from the case. Not content to watch the action from the sidelines, Lee and Carter form an unlikely partnership and investigate the case themselves.",
+    "popularity": 9.8537,
+    "poster_path": "/we7wOLVFgxhzLzUt0qNe50xdIQZ.jpg",
+    "release_date": "1998-09-18",
+    "title": "Rush Hour",
+    "video": false,
+    "vote_average": 7.051,
+    "vote_count": 5259,
+    "belongs_to_collection": {
+      "id": 90863,
+      "name": "Una Pareja Explosiva - Colección",
+      "poster_path": "/iT7xJmPwUHoowHokx0hPUtoML5b.jpg",
+      "backdrop_path": "/Atik4QqBg8IrTPiCzaj9AcI9p1i.jpg"
+    },
+    "budget": 33000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120812",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 139921,
+        "logo_path": null,
+        "name": "Arthur Sarkissian Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 961,
+        "logo_path": null,
+        "name": "Roger Birnbaum Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 244721064,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Unidos en la acción, imparables en la comedia.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pWd09ohdwOSNF4IWG8a25qORc2O.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      35
+    ],
+    "id": 9487,
+    "original_language": "en",
+    "original_title": "A Bug's Life",
+    "overview": "On behalf of \"oppressed bugs everywhere,\" an inventive ant named Flik hires a troupe of warrior bugs to defend his bustling colony from a horde of freeloading grasshoppers led by the evil-minded Hopper.",
+    "popularity": 7.9395,
+    "poster_path": "/Ah3J9OJVc2CNCuH2zMydXy9fmIC.jpg",
+    "release_date": "1998-11-25",
+    "title": "A Bug's Life",
+    "video": false,
+    "vote_average": 6.972,
+    "vote_count": 9408,
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120623",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 363258859,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una presentación épica de proporciones en miniatura.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eA0qc5ihjSKG05tdJO4QPgYPAwY.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      14,
+      28
+    ],
+    "id": 10228,
+    "original_language": "ja",
+    "original_title": "劇場版ポケットモンスター ミュウツーの逆襲",
+    "overview": "Determined to prove its superiority, a bio-engineered Pokémon called Mewtwo lures Ash, Pikachu and others into a Pokemon match like none before.",
+    "popularity": 4.8018,
+    "poster_path": "/xPW3AeK3iQi1Zd9dCbdNLijE48o.jpg",
+    "release_date": "1998-07-18",
+    "title": "Pokémon: The First Movie",
+    "video": false,
+    "vote_average": 6.934,
+    "vote_count": 1496,
+    "belongs_to_collection": {
+      "id": 34055,
+      "name": "Pokémon - Colección",
+      "poster_path": "/9h52kFaxgNobfotNhM72odDpUEk.jpg",
+      "backdrop_path": "/iGoYKA0TFfgSoZpG2u5viTJMGfK.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0190641",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 5372,
+        "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+        "name": "OLM",
+        "origin_country": "JP"
+      },
+      {
+        "id": 5261,
+        "logo_path": null,
+        "name": "Shogakukan Production",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3034,
+        "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+        "name": "TV Tokyo",
+        "origin_country": "JP"
+      },
+      {
+        "id": 76468,
+        "logo_path": null,
+        "name": "Pikachu Project '98",
+        "origin_country": "JP"
+      },
+      {
+        "id": 7967,
+        "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+        "name": "Media Factory",
+        "origin_country": "JP"
+      },
+      {
+        "id": 12307,
+        "logo_path": null,
+        "name": "Creatures",
+        "origin_country": "JP"
+      },
+      {
+        "id": 12288,
+        "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+        "name": "Nintendo",
+        "origin_country": "JP"
+      },
+      {
+        "id": 5399,
+        "logo_path": null,
+        "name": "GAME FREAK",
+        "origin_country": "JP"
+      },
+      {
+        "id": 8157,
+        "logo_path": "/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png",
+        "name": "jeki",
+        "origin_country": "JP"
+      },
+      {
+        "id": 9149,
+        "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+        "name": "Shogakukan",
+        "origin_country": "JP"
+      },
+      {
+        "id": 11644,
+        "logo_path": "/1fhfHRzI3GrXRjfuGTLaERshdzu.png",
+        "name": "Tomy",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 163644940,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1cO6OQJxz7YhTZ4V1OlkYfebeJa.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878,
+      12
+    ],
+    "id": 95,
+    "original_language": "en",
+    "original_title": "Armageddon",
+    "overview": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.",
+    "popularity": 7.155,
+    "poster_path": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+    "release_date": "1998-07-01",
+    "title": "Armageddon",
+    "video": false,
+    "vote_average": 6.837,
+    "vote_count": 8208,
+    "belongs_to_collection": null,
+    "budget": 140000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120591",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 9195,
+        "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+        "name": "Touchstone Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 130,
+        "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+        "name": "Jerry Bruckheimer Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 11533,
+        "logo_path": "/tWM9pmzVYxok4GbQIttxdcml1yT.png",
+        "name": "Valhalla Motion Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 553799566,
+    "runtime": 150,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Por amor. Por honor. Por la humanidad.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hZnnUq0mrUQ3e54SJVca4mf2oAQ.jpg",
+    "genre_ids": [
+      27,
+      28
+    ],
+    "id": 36647,
+    "original_language": "en",
+    "original_title": "Blade",
+    "overview": "The Daywalker known as \"Blade\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.",
+    "popularity": 7.0735,
+    "poster_path": "/hx0sdduAsr4rq03RZKZzglR25z7.jpg",
+    "release_date": "1998-08-21",
+    "title": "Blade",
+    "video": false,
+    "vote_average": 6.812,
+    "vote_count": 6310,
+    "belongs_to_collection": {
+      "id": 735,
+      "name": "Blade - Colección",
+      "poster_path": "/8UBmQQsaGxHYWyrGP80Amlr3lDO.jpg",
+      "backdrop_path": "/d7h60yRgP6US9VYenEPzFGW9saY.jpg"
+    },
+    "budget": 45000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120611",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 421,
+        "logo_path": null,
+        "name": "Amen Ra Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 11321,
+        "logo_path": null,
+        "name": "Imaginary Forces",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 131183530,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3TimUBrXMVblpnTsyg4HssGVbBv.jpg",
+    "genre_ids": [
+      53,
+      878,
+      9648
+    ],
+    "id": 431,
+    "original_language": "en",
+    "original_title": "Cube",
+    "overview": "A group of strangers find themselves trapped in a maze-like prison. It soon becomes clear that each of them possesses the peculiar skills necessary to escape, if they don't wind up dead first.",
+    "popularity": 4.417,
+    "poster_path": "/iNwm6fpDqQ4WjwhYI8EW6LPklod.jpg",
+    "release_date": "1998-07-11",
+    "title": "Cube",
+    "video": false,
+    "vote_average": 6.807,
+    "vote_count": 4933,
+    "belongs_to_collection": {
+      "id": 432,
+      "name": "El Cubo - Colección",
+      "poster_path": "/5t48XdWL87ZDzgb2SniPbZwknH3.jpg",
+      "backdrop_path": "/4SdZhO4M5vJ48dqp7r8PieZ37RJ.jpg"
+    },
+    "budget": 257899,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0123755",
+    "origin_country": [
+      "CA"
+    ],
+    "production_companies": [
+      {
+        "id": 22207,
+        "logo_path": null,
+        "name": "Cube Libre",
+        "origin_country": ""
+      },
+      {
+        "id": 21953,
+        "logo_path": null,
+        "name": "The Feature Film Project",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "revenue": 8969065,
+    "runtime": 90,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No busques una razón... busca una salida.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cC9oBBqGcOdBheKre24YfthsptI.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16
+    ],
+    "id": 14444,
+    "original_language": "en",
+    "original_title": "The Rugrats Movie",
+    "overview": "Based on the popular Nickelodeon TV series Rugrats, this is the first full-length feature animated movie to star the little tots. It's the story of diaper-clad kids, told from a baby's point- of-view, and they were one of the hottest-selling toy franchises of the late '90s.",
+    "popularity": 2.1293,
+    "poster_path": "/uZejGKCSd6nwfMx8U0Td37U2fTc.jpg",
+    "release_date": "1998-11-20",
+    "title": "The Rugrats Movie",
+    "video": false,
+    "vote_average": 6.225,
+    "vote_count": 606,
+    "belongs_to_collection": {
+      "id": 57129,
+      "name": "Rugrats - Colección",
+      "poster_path": "/5mV0f75UYBGlu0lzsGVXHpukAAA.jpg",
+      "backdrop_path": "/pFgV70FI1URDLFY3bllhPl6sC33.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0134067",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 59150,
+        "logo_path": "/owpGkEh53XCB9dNoLpuaxvcLCOy.png",
+        "name": "Klasky-Csupo",
+        "origin_country": "US"
+      },
+      {
+        "id": 2348,
+        "logo_path": "/m31fQvZJuUvAgxoqTiCGYFBfZYe.png",
+        "name": "Nickelodeon Movies",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 100491683,
+    "runtime": 79,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/i4NvcHeYeAdLEFiLxEVvUA3BT0.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      35
+    ],
+    "id": 8916,
+    "original_language": "en",
+    "original_title": "Antz",
+    "overview": "A neurotic worker ant in love with a rebellious princess rises to unlikely stardom when he switches places with a soldier. Signing up to march in a parade, he ends up under the command of a bloodthirsty general. But he's actually been enlisted to fight against a termite army.",
+    "popularity": 4.7517,
+    "poster_path": "/pvpJfkzcqENTSlBKCSImi05WlXK.jpg",
+    "release_date": "1998-10-02",
+    "title": "Antz",
+    "video": false,
+    "vote_average": 6.168,
+    "vote_count": 4561,
+    "belongs_to_collection": null,
+    "budget": 60000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120587",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 520,
+        "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+        "name": "Pacific Data Images",
+        "origin_country": "US"
+      },
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 171757863,
+    "runtime": 84,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/x0XakykB5NRwOv9QZT9oBJbXg29.jpg",
+    "genre_ids": [
+      878,
+      28,
+      27
+    ],
+    "id": 10216,
+    "original_language": "en",
+    "original_title": "Species II",
+    "overview": "Having just returned from a mission to Mars, Commander Ross isn't exactly himself. He's slowly becoming a terrifying alien entity with one goal -- to procreate with human women! When countless women suffer gruesome deaths after bearing half-alien offspring, scientist Laura Baker and hired assassin Press Lennox use Eve, a more tempered alien clone, to find Ross and his brood. Before long Eve escapes to mate with Ross.",
+    "popularity": 2.8479,
+    "poster_path": "/8LSBi0bHACZtIiVErUBQ2UXNYLA.jpg",
+    "release_date": "1998-04-10",
+    "title": "Species II",
+    "video": false,
+    "vote_average": 5.156,
+    "vote_count": 745,
+    "belongs_to_collection": {
+      "id": 9887,
+      "name": "Especies - Colección",
+      "poster_path": "/hz6Ge3CvOj9WRYPAe9qSSpvRacs.jpg",
+      "backdrop_path": "/azNgAdFCaKH5q15MjscigO57QQ7.jpg"
+    },
+    "budget": 35000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120841",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      },
+      {
+        "id": 2347,
+        "logo_path": null,
+        "name": "FGM Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 19200000,
+    "runtime": 93,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

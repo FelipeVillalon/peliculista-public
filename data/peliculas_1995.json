@@ -1,0 +1,1353 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/1IWaKG7AWiYMhADxhGtnElDJAGI.jpg",
+    "belongs_to_collection": null,
+    "budget": 29000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 63,
+    "imdb_id": "tt0114746",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Twelve Monkeys",
+    "overview": "En el año 2035, el convicto James Cole voluntarios a regañadientes para ser enviado de regreso en el tiempo para descubrir el origen de un virus mortal que aniquiló a casi toda la población de la tierra y obligó a los sobrevivientes a las comunidades subterráneas. Pero cuando Cole es enviado por error a 1990 en lugar de a 1996, es arrestado y encerrado en un hospital psiquiátrico. Allí conoce a la psiquiatra Dra. Kathryn Railly, y al paciente Jeffrey Goines, hijo de un famoso experto en virus, que puede tener la llave del misterioso grupo rebelde, el Ejército de los 12 Monos, que se cree será el responsable de desencadenar la enfermedad mortal.",
+    "popularity": 5.5164,
+    "poster_path": "/bXLwKCCMS2NCNlxAhSwn9HCymRl.jpg",
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 507,
+        "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+        "name": "Atlas Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 17031,
+        "logo_path": null,
+        "name": "Classico",
+        "origin_country": ""
+      },
+      {
+        "id": 207976,
+        "logo_path": null,
+        "name": "Twelve Monkeys Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1995-12-29",
+    "revenue": 168841459,
+    "runtime": 130,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El futuro ya es historia",
+    "title": "12 monos",
+    "video": false,
+    "vote_average": 7.601,
+    "vote_count": 8648,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/62BnXyJtVEq4WKNSpnPG7QPYYDI.jpg",
+    "belongs_to_collection": null,
+    "budget": 62000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 9087,
+    "imdb_id": "tt0112346",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The American President",
+    "overview": "Andrew Shepherd (Michael Douglas), el Presidente de los Estados Unidos, acaba de enviudar. Sin embargo, inicia un inesperado romance con Sydney Wade (Annette Benning), miembro de una importante organización ecologista. En plena campaña electoral, su rival, el republicano Bob Rumson (Richard Dreyfuss), aprovechará esa relación para desacreditarlo.",
+    "popularity": 1.5935,
+    "poster_path": "/viZoh0mP01XsHeb2PZs4LvcLB1f.jpg",
+    "production_companies": [
+      {
+        "id": 97,
+        "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+        "name": "Castle Rock Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 316,
+        "logo_path": "/AjLnvitW6m0n1wp3ElezITDDb4x.png",
+        "name": "Wildwood Enterprises",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1995-11-17",
+    "revenue": 107879496,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¿Por qué el hombre más poderoso del mundo no puede tener lo que más desea?",
+    "title": "Mi querido presidente",
+    "video": false,
+    "vote_average": 6.533,
+    "vote_count": 741,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
+    "genre_ids": [
+      80,
+      9648,
+      53
+    ],
+    "id": 807,
+    "original_language": "en",
+    "original_title": "Se7en",
+    "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+    "popularity": 18.7723,
+    "poster_path": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+    "release_date": "1995-09-22",
+    "title": "Se7en",
+    "video": false,
+    "vote_average": 8.377,
+    "vote_count": 21914,
+    "belongs_to_collection": null,
+    "budget": 33000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0114369",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 4286,
+        "logo_path": null,
+        "name": "Juno Pix",
+        "origin_country": "US"
+      },
+      {
+        "id": 16775,
+        "logo_path": null,
+        "name": "Arnold Kopelson Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 327311859,
+    "runtime": 127,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      35
+    ],
+    "id": 862,
+    "original_language": "en",
+    "original_title": "Toy Story",
+    "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "popularity": 20.973,
+    "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+    "release_date": "1995-11-22",
+    "title": "Toy Story",
+    "video": false,
+    "vote_average": 7.97,
+    "vote_count": 19006,
+    "belongs_to_collection": {
+      "id": 10194,
+      "name": "Toy Story - Colección",
+      "poster_path": "/ss7QQlifXEiDVE4krmCsNHuIovh.jpg",
+      "backdrop_path": "/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0114709",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 394436586,
+    "runtime": 81,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Bienvenido a un mundo asombroso donde los juguetes juegan mientras sus dueños no están.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rphor0XQcYO4CQoQ6auaQm3UPap.jpg",
+    "genre_ids": [
+      16,
+      18,
+      10751
+    ],
+    "id": 37797,
+    "original_language": "ja",
+    "original_title": "耳をすませば",
+    "overview": "Shizuku lives a simple life, dominated by her love for stories and writing. One day she notices that all the library books she has have been previously checked out by the same person: 'Seiji Amasawa'.",
+    "popularity": 5.1387,
+    "poster_path": "/5FROLD8zpWFs9ja7aYho1uOMJHg.jpg",
+    "release_date": "1995-07-15",
+    "title": "Whisper of the Heart",
+    "video": false,
+    "vote_average": 7.953,
+    "vote_count": 2118,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0113824",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 10342,
+        "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+        "name": "Studio Ghibli",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6755,
+        "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+        "name": "Nippon Television Network Corporation",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1779,
+        "logo_path": "/41nGzTdCnORYZIZzaGZtfsBwQCl.png",
+        "name": "Tokuma Shoten",
+        "origin_country": "JP"
+      },
+      {
+        "id": 13411,
+        "logo_path": "/yjF0FwJX69h0yGB6WvQwzUOzBln.png",
+        "name": "Hakuhodo",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 111,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8lBcqakI3F19NWkXdqE0M8W76b9.jpg",
+    "genre_ids": [
+      28,
+      18,
+      36,
+      10752
+    ],
+    "id": 197,
+    "original_language": "en",
+    "original_title": "Braveheart",
+    "overview": "Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.",
+    "popularity": 9.6063,
+    "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+    "release_date": "1995-05-24",
+    "title": "Braveheart",
+    "video": false,
+    "vote_average": 7.943,
+    "vote_count": 10519,
+    "belongs_to_collection": {
+      "id": 1432360,
+      "name": "Braveheart Collection",
+      "poster_path": "/yXhsgMCBnjw3wOS23Sqxa8kvfaK.jpg",
+      "backdrop_path": "/zxF28aSn6fLLF3LpeSdXcy0Z1SI.jpg"
+    },
+    "budget": 72000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0112573",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7965,
+        "logo_path": "/eZ6DeFO1mhHtzxB1aACcEzKqQ7L.png",
+        "name": "The Ladd Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 152,
+        "logo_path": "/rC2pFo4IBQVSVZvucDLwMRvZHfi.png",
+        "name": "Icon Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 213216216,
+    "runtime": 177,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "Gaelic",
+        "iso_639_1": "gd",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "Todos los hombres mueren. No todos los hombres realmente viven.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+    "genre_ids": [
+      28,
+      16,
+      878
+    ],
+    "id": 9323,
+    "original_language": "ja",
+    "original_title": "GHOST IN THE SHELL",
+    "overview": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+    "popularity": 6.7513,
+    "poster_path": "/9gC88zYUBARRSThcG93MvW14sqx.jpg",
+    "release_date": "1995-11-18",
+    "title": "Ghost in the Shell",
+    "video": false,
+    "vote_average": 7.926,
+    "vote_count": 3598,
+    "belongs_to_collection": {
+      "id": 23026,
+      "name": "Ghost in the Shell - Colección",
+      "poster_path": "/5tGSkNV03Q1Zr779oin11fhnaLD.jpg",
+      "backdrop_path": "/2QMQ9RLB18mICobLaFaYjrfAACr.jpg"
+    },
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0113568",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 528,
+        "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+        "name": "Bandai Visual",
+        "origin_country": "JP"
+      },
+      {
+        "id": 529,
+        "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+        "name": "Production I.G",
+        "origin_country": "JP"
+      },
+      {
+        "id": 59118,
+        "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+        "name": "Kodansha",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "revenue": 10000000,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Encontró una voz... ahora necesita un cuerpo.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xKsnZDERG1dk95wuZ5q9iks3OL3.jpg",
+    "genre_ids": [
+      80,
+      18,
+      28
+    ],
+    "id": 949,
+    "original_language": "en",
+    "original_title": "Heat",
+    "overview": "Obsessive master thief Neil McCauley leads a top-notch crew on various daring heists throughout Los Angeles while determined detective Vincent Hanna pursues him without rest. Each man recognizes and respects the ability and the dedication of the other even though they are aware their cat-and-mouse game may end in violence.",
+    "popularity": 8.934,
+    "poster_path": "/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+    "release_date": "1995-12-15",
+    "title": "Heat",
+    "video": false,
+    "vote_average": 7.921,
+    "vote_count": 7721,
+    "belongs_to_collection": {
+      "id": 1048282,
+      "name": "Heat Collection",
+      "poster_path": "/e7H6NLnhioMqOizYAqHmZyYxNID.jpg",
+      "backdrop_path": "/2rX05YZJJVoO1cgEnuvFsyU56YS.jpg"
+    },
+    "budget": 60000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0113277",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 508,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 675,
+        "logo_path": "/fy7laY9J4tbYz7yNxGEKmoMrXRt.png",
+        "name": "Forward Pass",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 187400000,
+    "runtime": 170,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una saga de crimen de Los Ángeles",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5seSw3hQTFSYzdh6kHOSAmExUA.jpg",
+    "genre_ids": [
+      16,
+      28,
+      878
+    ],
+    "id": 39107,
+    "original_language": "ja",
+    "original_title": "ドラゴンボールZ 復活のフュージョン!! 悟空とベジータ",
+    "overview": "Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.",
+    "popularity": 4.7495,
+    "poster_path": "/7AHvaEAeQfkfJ4OqcBePxa2ao09.jpg",
+    "release_date": "1995-03-04",
+    "title": "Dragon Ball Z: Fusion Reborn",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 881,
+    "belongs_to_collection": {
+      "id": 425164,
+      "name": "Dragon Ball Z  - Colección",
+      "poster_path": "/2VMZ1zRFPnUQtQp5K4WRXvDYBjh.jpg",
+      "backdrop_path": "/7PcbijxTfwi9vjWEfXdS0ReAw8q.jpg"
+    },
+    "budget": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0142236",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 5822,
+        "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+        "name": "Toei Company",
+        "origin_country": "JP"
+      },
+      {
+        "id": 24051,
+        "logo_path": null,
+        "name": "Bird Studios",
+        "origin_country": "JP"
+      },
+      {
+        "id": 5542,
+        "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+        "name": "Toei Animation",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 23500000,
+    "runtime": 55,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/x8fJnoFw3JMM2JtP8EH8WMeUHoC.jpg",
+    "genre_ids": [
+      14,
+      16,
+      878
+    ],
+    "id": 42994,
+    "original_language": "ja",
+    "original_title": "MEMORIES",
+    "overview": "In this anime anthology, a salvage ship crew happens upon a haunted vessel in \"Magnetic Rose\"; a cold tablet turns a lab worker into a biological weapon in \"Stink Bomb\"; and an urban populace carries on an endless war with an unseen foe in \"Cannon Fodder.\"",
+    "popularity": 2.2849,
+    "poster_path": "/e0HIBRiKS5dWmXkxWvEh6JQZcc2.jpg",
+    "release_date": "1995-12-23",
+    "title": "Memories",
+    "video": false,
+    "vote_average": 7.445,
+    "vote_count": 494,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0113799",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 528,
+        "logo_path": "/fO3Aof3lXQclYpBByYC8aneTXwA.png",
+        "name": "Bandai Visual",
+        "origin_country": "JP"
+      },
+      {
+        "id": 192,
+        "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+        "name": "Shochiku",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3464,
+        "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+        "name": "Madhouse",
+        "origin_country": "JP"
+      },
+      {
+        "id": 59118,
+        "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+        "name": "Kodansha",
+        "origin_country": "JP"
+      },
+      {
+        "id": 10868,
+        "logo_path": "/9779IFPDaVxYmmWOHHfRyH17qnx.png",
+        "name": "STUDIO4℃",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Recuerdos peligrosos",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fBvSfLetWlAMevQVHa0nBDV1Fon.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1572,
+    "original_language": "en",
+    "original_title": "Die Hard: With a Vengeance",
+    "overview": "New York detective John McClane is back and kicking bad-guy butt in the third installment of this action-packed series, which finds him teaming with civilian Zeus Carver to prevent the loss of innocent lives. McClane thought he'd seen it all, until a genius named Simon engages McClane, his new \"partner\" -- and his beloved city -- in a deadly game that demands their concentration.",
+    "popularity": 5.4883,
+    "poster_path": "/buqmCdFQEWwEpL3agGgg2GVjN2d.jpg",
+    "release_date": "1995-05-19",
+    "title": "Die Hard: With a Vengeance",
+    "video": false,
+    "vote_average": 7.27,
+    "vote_count": 6323,
+    "belongs_to_collection": {
+      "id": 1570,
+      "name": "Duro de Matar - Colección",
+      "poster_path": "/As8l0i21dtha874Tr0GYWsSGShW.jpg",
+      "backdrop_path": "/nKShbIW0wJnSbl3t8uPje0QhTb7.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0112864",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 1504,
+        "logo_path": "/yVAJJ4TgnV1FsDmLh6h5ZNJd0vf.png",
+        "name": "Cinergi Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 248797,
+        "logo_path": null,
+        "name": "Andrew G. Vajna Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 366101666,
+    "runtime": 128,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Romanian",
+        "iso_639_1": "ro",
+        "name": "Română"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Piensa rápido. Mira vivo. Muere duro.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qSxeCfWUUyht9hZgaaYmtPtTkw2.jpg",
+    "genre_ids": [
+      12,
+      14,
+      10751
+    ],
+    "id": 8844,
+    "original_language": "en",
+    "original_title": "Jumanji",
+    "overview": "When siblings Judy and Peter discover an enchanted board game that opens the door to a magical world, they unwittingly invite Alan -- an adult who's been trapped inside the game for 26 years -- into their living room. Alan's only hope for freedom is to finish the game, which proves risky as all three find themselves running from giant rhinoceroses, evil monkeys and other terrifying creatures.",
+    "popularity": 2.6081,
+    "poster_path": "/p67m5dzwyxWd46a6of2c9IVfQz7.jpg",
+    "release_date": "1995-12-15",
+    "title": "Jumanji",
+    "video": false,
+    "vote_average": 7.24,
+    "vote_count": 10848,
+    "belongs_to_collection": {
+      "id": 495527,
+      "name": "Jumanji - Colección",
+      "poster_path": "/tFxNyzeDRXd3k0NIJA82n0uodx0.jpg",
+      "backdrop_path": "/2XDgq7CVVc6IVRPbphu58ts4gIV.jpg"
+    },
+    "budget": 65000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0113497",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 559,
+        "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+        "name": "TriStar Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10201,
+        "logo_path": "/cgmwywVZ9NvAidd6Pn7p0CBYQkW.png",
+        "name": "Interscope Communications",
+        "origin_country": "US"
+      },
+      {
+        "id": 2550,
+        "logo_path": null,
+        "name": "Teitler Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 1382,
+        "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+        "name": "PolyGram Filmed Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 262821940,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Cuando oigas los tambores... algo malo ocurre.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg",
+    "genre_ids": [
+      12,
+      16,
+      10751,
+      10749
+    ],
+    "id": 10530,
+    "original_language": "en",
+    "original_title": "Pocahontas",
+    "overview": "Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.",
+    "popularity": 5.6575,
+    "poster_path": "/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
+    "release_date": "1995-06-14",
+    "title": "Pocahontas",
+    "video": false,
+    "vote_average": 6.916,
+    "vote_count": 5844,
+    "belongs_to_collection": {
+      "id": 136214,
+      "name": "Pocahontas - Colección",
+      "poster_path": "/5MnC3c0lqapuOt6kmSoJ3To4W3m.jpg",
+      "backdrop_path": "/or6DYoMtttpgs0g7cTBE5DgeUUf.jpg"
+    },
+    "budget": 55000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0114148",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171656,
+        "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+        "name": "Walt Disney Feature Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 346079773,
+    "runtime": 81,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Dos mundos diferentes. Un amor verdadero.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4lNbhZcnrjG079TUkG1mIi2wen0.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751
+    ],
+    "id": 11008,
+    "original_language": "en",
+    "original_title": "Major Payne",
+    "overview": "Major Benson Winifred Payne is being discharged from the Marines. Payne is a killin' machine, but the wars of the world are no longer fought on the battlefield. A career Marine, he has no idea what to do as a civilian, so his commander finds him a job - commanding officer of a local school's JROTC program, a bunch of ragtag losers with no hope.",
+    "popularity": 2.7083,
+    "poster_path": "/kWHx5eq7PELkF3If7LrrhuBskRG.jpg",
+    "release_date": "1995-03-24",
+    "title": "Major Payne",
+    "video": false,
+    "vote_average": 6.441,
+    "vote_count": 835,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0110443",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 139288,
+        "logo_path": null,
+        "name": "Wife 'n' Kids",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 30112050,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tEHmWaIzM0nuFi1CKQL8mJdJZsT.jpg",
+    "genre_ids": [
+      878,
+      27,
+      28
+    ],
+    "id": 9348,
+    "original_language": "en",
+    "original_title": "Species",
+    "overview": "In 1993, the Search for Extra Terrestrial Intelligence Project receives a transmission detailing an alien DNA structure, along with instructions on how to splice it with human DNA. The result is Sil, a sensual but deadly creature who can change from a beautiful woman to an armour-plated killing machine in the blink of an eye.",
+    "popularity": 5.6589,
+    "poster_path": "/cT5wdyo8kT7dycqjrolJ2sHWkFx.jpg",
+    "release_date": "1995-07-07",
+    "title": "Species",
+    "video": false,
+    "vote_average": 6.0,
+    "vote_count": 1711,
+    "belongs_to_collection": {
+      "id": 9887,
+      "name": "Especies - Colección",
+      "poster_path": "/hz6Ge3CvOj9WRYPAe9qSSpvRacs.jpg",
+      "backdrop_path": "/azNgAdFCaKH5q15MjscigO57QQ7.jpg"
+    },
+    "budget": 35000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0114508",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      },
+      {
+        "id": 216761,
+        "logo_path": null,
+        "name": "Frank Mancuso Jr. Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 113400000,
+    "runtime": 111,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
+    "genre_ids": [
+      28,
+      14
+    ],
+    "id": 9312,
+    "original_language": "en",
+    "original_title": "Mortal Kombat",
+    "overview": "For nine generations an evil sorcerer has been victorious in hand-to-hand battle against his mortal enemies. If he wins a tenth Mortal Kombat tournament, desolation and evil will reign over the multiverse forever. To save Earth, three warriors must overcome seemingly insurmountable odds, their own inner demons, and superhuman foes in this action/adventure movie based on one of the most popular video games of all time.",
+    "popularity": 4.7492,
+    "poster_path": "/fcK7tzSSXMYiMN8E9KlZJL1BYyp.jpg",
+    "release_date": "1995-08-18",
+    "title": "Mortal Kombat",
+    "video": false,
+    "vote_average": 5.866,
+    "vote_count": 2367,
+    "belongs_to_collection": {
+      "id": 9818,
+      "name": "Mortal Kombat - Colección",
+      "poster_path": "/1vxEVMAP6p9bXmqQILwSdr1DTjg.jpg",
+      "backdrop_path": "/bCgW3MoAyabfEaq70v9a43P9CCF.jpg"
+    },
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0113855",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 4174,
+        "logo_path": null,
+        "name": "Threshold Entertainment",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 122195920,
+    "runtime": 101,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nada en este mundo te ha preparado para esto.",
+    "added_date": "2025-09-27"
+  }
+]

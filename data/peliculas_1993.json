@@ -1,0 +1,563 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/ncr6KR7bBF8cps6yZKiTAwClpn1.jpg",
+    "belongs_to_collection": {
+      "id": 751156,
+      "name": "Abracadabra - Colección",
+      "poster_path": "/pjtBow7dK8lzpexCYdO2AGqsAh4.jpg",
+      "backdrop_path": "/ep3u73OsN6PSxed9TFJnWqjwrdO.jpg"
+    },
+    "budget": 28000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 10439,
+    "imdb_id": "tt0107120",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Hocus Pocus",
+    "overview": "El 31 de octubre de 1693, durante los juicios por brujería de Salem, Thackery Binx ve a su hermana Emily adentrarse en el bosque dirigiéndose a la cabaña de tres brujas. Allí, las hermanas Sanderson, Winifred, Mary y Sarah, hacen un hechizo en Emily para absorber su juventud y recuperar la suya, matándola en el proceso. Binx confronta a las brujas, quienes lo transforman en un gato negro inmortal, con el fin de que viva con la culpa de no haber podido salvar a Emily.",
+    "popularity": 4.3238,
+    "poster_path": "/hnRo1RB791GbpERgV7cnM2sek2V.jpg",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8830,
+        "logo_path": null,
+        "name": "Touchwood Pacific Partners 1",
+        "origin_country": "US"
+      },
+      {
+        "id": 11050,
+        "logo_path": null,
+        "name": "David Kirschner Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1993-07-16",
+    "revenue": 51663767,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Es solo un montón de Hocus Pocus.",
+    "title": "Abracadabra",
+    "video": false,
+    "vote_average": 7.041,
+    "vote_count": 3117,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zERY2aaCrLExpR6NQ1ceIs0WG8S.jpg",
+    "belongs_to_collection": {
+      "id": 9649,
+      "name": "El mariachi - Colección",
+      "poster_path": "/t0Hlojkn1r8HC3pupZ73kr1zF2u.jpg",
+      "backdrop_path": "/6p1OzuIKWnTDfDea7IpB9xra5J.jpg"
+    },
+    "budget": 7225,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 9367,
+    "imdb_id": "tt0104815",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "es",
+    "original_title": "El Mariachi",
+    "overview": "Ganadora del Premio del Público en el Festival de Cine de Sundance de 1993, El Mariachi cuenta la historia de un joven mariachi (Carlos Gallardo), o músico ambulante, que llega a un pueblo mexicano fronterizo buscando trabajo. Viste de negro y lleva consigo un estuche de guitarra. Un asesino llega al mismo pueblo el mismo día, vestido exactamente igual, solo que el idéntico estuche de guitarra del pistolero está lleno de armas. Al producirse un caso de confusión de identidades, el tranquilo mariachi se ve envuelto en la disputa familiar de otro, y la gente comienza a dispararle. Cuando la sensual dueña del bar (Consuelo Gomez), quien le ofrece su amistad, resulta ser el objeto del deseo no correspondido del líder militar local, el mariachi se enfrenta a muchos problemas, que requerirán coraje, suerte y balas para ser resueltos.",
+    "popularity": 1.4968,
+    "poster_path": "/aKmDrnJRs1ikWVD0tvyZ8FOFiNg.jpg",
+    "production_companies": [
+      {
+        "id": 11705,
+        "logo_path": null,
+        "name": "Los Hooligans Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1993-02-22",
+    "revenue": 2040920,
+    "runtime": 82,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "El Mariachi",
+    "video": false,
+    "vote_average": 6.752,
+    "vote_count": 1193,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752
+    ],
+    "id": 424,
+    "original_language": "en",
+    "original_title": "Schindler's List",
+    "overview": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "popularity": 17.0177,
+    "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+    "release_date": "1993-12-15",
+    "title": "Schindler's List",
+    "video": false,
+    "vote_average": 8.566,
+    "vote_count": 16593,
+    "belongs_to_collection": null,
+    "budget": 22000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0108052",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 321365567,
+    "runtime": 195,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Polish",
+        "iso_639_1": "pl",
+        "name": "Polski"
+      },
+      {
+        "english_name": "Hebrew",
+        "iso_639_1": "he",
+        "name": "עִבְרִית"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Quien salva una vida, está salvando al mundo.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jzt9HuhIAdH9qp0K2MA1m5V8sgq.jpg",
+    "genre_ids": [
+      12,
+      878
+    ],
+    "id": 329,
+    "original_language": "en",
+    "original_title": "Jurassic Park",
+    "overview": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "popularity": 14.7562,
+    "poster_path": "/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+    "release_date": "1993-06-11",
+    "title": "Jurassic Park",
+    "video": false,
+    "vote_average": 7.96,
+    "vote_count": 16975,
+    "belongs_to_collection": {
+      "id": 328,
+      "name": "Jurassic Park - Colección",
+      "poster_path": "/cn1D5g7dFCNCcXiO070H89JuvnE.jpg",
+      "backdrop_path": "/njFixYzIxX8jsn6KMSEtAzi4avi.jpg"
+    },
+    "budget": 63000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0107290",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 920100000,
+    "runtime": 127,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La vida encuentra un camino.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aPVeKhD61K3nDiXw5u40sIrD4yS.jpg",
+    "genre_ids": [
+      14,
+      12,
+      16,
+      28
+    ],
+    "id": 14282,
+    "original_language": "ja",
+    "original_title": "獣兵衛忍風帖",
+    "overview": "Jubei is a masterless ninja who travels the land alone, lending his services to those with gold—or a worthy cause. His fearsome abilities have served him well, but a plot to overthrow the government threatens to end his wandering ways—and possibly his life.",
+    "popularity": 2.5962,
+    "poster_path": "/qzZEnaXwv4wss2QalEo4Uf9BAwh.jpg",
+    "release_date": "1993-06-05",
+    "title": "Ninja Scroll",
+    "video": false,
+    "vote_average": 7.751,
+    "vote_count": 680,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0107692",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 3464,
+        "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+        "name": "Madhouse",
+        "origin_country": "JP"
+      },
+      {
+        "id": 13064,
+        "logo_path": null,
+        "name": "Animate Film",
+        "origin_country": "JP"
+      },
+      {
+        "id": 182,
+        "logo_path": "/1BPbXmwi1DZS1Qp0koK7AuponY6.png",
+        "name": "JVC",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3466,
+        "logo_path": "/lmCg0zarmM52wrmsZRUY0QlPKLh.png",
+        "name": "movic",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ttBydD0SynC0TMkW3AcnmsySkLp.jpg",
+    "genre_ids": [
+      10749,
+      14,
+      18,
+      35
+    ],
+    "id": 137,
+    "original_language": "en",
+    "original_title": "Groundhog Day",
+    "overview": "A narcissistic TV weatherman, along with his attractive-but-distant producer, and his mawkish cameraman, is sent to report on Groundhog Day in the small town of Punxsutawney, where he finds himself repeating the same day over and over.",
+    "popularity": 5.6474,
+    "poster_path": "/gCgt1WARPZaXnq523ySQEUKinCs.jpg",
+    "release_date": "1993-02-11",
+    "title": "Groundhog Day",
+    "video": false,
+    "vote_average": 7.617,
+    "vote_count": 8362,
+    "belongs_to_collection": null,
+    "budget": 14600000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0107048",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 71108778,
+    "runtime": 101,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Está teniendo el peor día de su vida ... una y otra vez ...",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sTgavNm82pTaZR9U2NQZ1J2FrJz.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10751
+    ],
+    "id": 788,
+    "original_language": "en",
+    "original_title": "Mrs. Doubtfire",
+    "overview": "Loving but irresponsible dad Daniel Hillard, estranged from his exasperated spouse, is crushed by a court order allowing only weekly visits with his kids. When Daniel learns his ex needs a housekeeper, he gets the job -- disguised as a British nanny. Soon he becomes not only his children's best pal but the kind of parent he should have been from the start.",
+    "popularity": 5.7656,
+    "poster_path": "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg",
+    "release_date": "1993-11-24",
+    "title": "Mrs. Doubtfire",
+    "video": false,
+    "vote_average": 7.195,
+    "vote_count": 6309,
+    "belongs_to_collection": null,
+    "budget": 25000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0107614",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 492,
+        "logo_path": null,
+        "name": "Blue Wolf Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 441286195,
+    "runtime": 125,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ella prepara la cena. Ella cierra las ventanas. Ella lee cuentos antes de dormir. Ella es una bendición ... disfrazada.",
+    "added_date": "2025-09-27"
+  }
+]

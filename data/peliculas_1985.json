@@ -1,0 +1,349 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/eYDAnSidN4rIEuneS5gEJkTyk3l.jpg",
+    "belongs_to_collection": {
+      "id": 269098,
+      "name": "Historia Policíaca - Colección",
+      "poster_path": "/jPE94wJTfz5LlQpmzGkyFHT2SLA.jpg",
+      "backdrop_path": "/5atzWKFCCwn4TMVkO1kLVI7rDkX.jpg"
+    },
+    "budget": 500000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 9056,
+    "imdb_id": "tt0089374",
+    "origin_country": [
+      "HK"
+    ],
+    "original_language": "cn",
+    "original_title": "警察故事",
+    "overview": "Kevin es un policía de Hong Kong que se enfrenta a una difícil misión: debe atrapar al capo de la droga del país. Pero para condenar al criminal solo hay una testigo que puede incriminarle y Kevin es el único que puede protegerla. Evidentemente todos los criminales a las órdenes del capo intentarán matar a la testigo y a su guardaespaldas.",
+    "popularity": 5.3236,
+    "poster_path": "/cowPjNTci3mXasaXp0j9o54VqAW.jpg",
+    "production_companies": [
+      {
+        "id": 3054,
+        "logo_path": null,
+        "name": "Golden Way Films Ltd.",
+        "origin_country": "HK"
+      },
+      {
+        "id": 2734,
+        "logo_path": null,
+        "name": "Paragon Films",
+        "origin_country": "HK"
+      },
+      {
+        "id": 2521,
+        "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+        "name": "Orange Sky Golden Harvest",
+        "origin_country": "HK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "release_date": "1985-12-14",
+    "revenue": 18724000,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Historia Policiaca",
+    "video": false,
+    "vote_average": 7.546,
+    "vote_count": 955,
+    "added_date": "2025-09-28"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+    "genre_ids": [
+      12,
+      35,
+      878
+    ],
+    "id": 105,
+    "original_language": "en",
+    "original_title": "Back to the Future",
+    "overview": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "popularity": 15.7735,
+    "poster_path": "/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+    "release_date": "1985-07-03",
+    "title": "Back to the Future",
+    "video": false,
+    "vote_average": 8.3,
+    "vote_count": 20738,
+    "belongs_to_collection": {
+      "id": 264,
+      "name": "Volver al Futuro - Colección",
+      "poster_path": "/rX5M1zsxtmysqPzXBmWTJRi4DNI.jpg",
+      "backdrop_path": "/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg"
+    },
+    "budget": 19000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0088763",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 381109762,
+    "runtime": 117,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Es el único niño que se ha metido en problemas antes de nacer.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/r0p9IeVzVP4OULWWw0UsDSCWtKb.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751
+    ],
+    "id": 9340,
+    "original_language": "en",
+    "original_title": "The Goonies",
+    "overview": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition.",
+    "popularity": 5.9772,
+    "poster_path": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg",
+    "release_date": "1985-06-07",
+    "title": "The Goonies",
+    "video": false,
+    "vote_average": 7.513,
+    "vote_count": 5900,
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0089218",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 69649283,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Presta juramento. Únete a la Aventura.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gRWOLFbgkmujsPUNgQshkSkCTdf.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53,
+      10752
+    ],
+    "id": 1369,
+    "original_language": "en",
+    "original_title": "Rambo: First Blood Part II",
+    "overview": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.",
+    "popularity": 6.3614,
+    "poster_path": "/pzPdwOitmTleVE3YPMfIQgLh84p.jpg",
+    "release_date": "1985-05-21",
+    "title": "Rambo: First Blood Part II",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 4079,
+    "belongs_to_collection": {
+      "id": 5039,
+      "name": "Rambo - Colección",
+      "poster_path": "/bAB4f27dtioQokZesx28x1sqmXA.jpg",
+      "backdrop_path": "/ecvVwlK75evrAlsEE96V14KN6MN.jpg"
+    },
+    "budget": 44000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0089880",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 275,
+        "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+        "name": "Carolco Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 5153,
+        "logo_path": "/d4BySWBlcGBBY58FG78DWMi9nrs.png",
+        "name": "Estudios Churubusco Azteca",
+        "origin_country": "MX"
+      },
+      {
+        "id": 52941,
+        "logo_path": null,
+        "name": "Anabasis",
+        "origin_country": "AN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "MX",
+        "name": "Mexico"
+      },
+      {
+        "iso_3166_1": "AN",
+        "name": "Netherlands Antilles"
+      }
+    ],
+    "revenue": 300400432,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Vietnamese",
+        "iso_639_1": "vi",
+        "name": "Tiếng Việt"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+    "genre_ids": [
+      878,
+      9648,
+      12
+    ],
+    "id": 62,
+    "original_language": "en",
+    "original_title": "2001: A Space Odyssey",
+    "overview": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+    "popularity": 10.3054,
+    "poster_path": "/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+    "release_date": "1968-04-02",
+    "title": "2001: A Space Odyssey",
+    "video": false,
+    "vote_average": 8.065,
+    "vote_count": 11956,
+    "belongs_to_collection": {
+      "id": 4438,
+      "name": "Odisea en el espacio - Colección",
+      "poster_path": "/3WDYzj45TjZdJ3B1PQHCg8T0e2g.jpg",
+      "backdrop_path": "/mGeBxBuhU7yx2Ga4U2ST4reEDeb.jpg"
+    },
+    "budget": 12000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0062622",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 385,
+        "logo_path": null,
+        "name": "Stanley Kubrick Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 71923560,
+    "runtime": 149,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+    "genre_ids": [
+      878,
+      12,
+      18,
+      28
+    ],
+    "id": 871,
+    "original_language": "en",
+    "original_title": "Planet of the Apes",
+    "overview": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+    "popularity": 5.4732,
+    "poster_path": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg",
+    "release_date": "1968-02-07",
+    "title": "Planet of the Apes",
+    "video": false,
+    "vote_average": 7.646,
+    "vote_count": 3718,
+    "belongs_to_collection": {
+      "id": 1709,
+      "name": "El planeta de los simios (Original) - Colección",
+      "poster_path": "/umKb8njr1lZljV2UvPmiCqk7vtn.jpg",
+      "backdrop_path": "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg"
+    },
+    "budget": 5800000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0063442",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12943,
+        "logo_path": null,
+        "name": "APJAC Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 32589624,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

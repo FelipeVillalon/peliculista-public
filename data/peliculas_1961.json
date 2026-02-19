@@ -1,0 +1,211 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/8PevhwNGs33NhWdTgw49cG343jN.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 41050,
+    "imdb_id": "tt0054130",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "La notte",
+    "overview": "Retrato de la vida cotidiana de un matrimonio burgués que atraviesa una crisis de pareja. En Milán, tras visitar a un amigo enfermo terminal en un hospital, el escritor Giovanni Pontano (Marcello Mastroianni) acude a una fiesta por la publicación de su último libro. Mientras, su mujer Lidia (Jeane Moreau) visita el lugar donde vivió muchos años atrás. Luego, durante la noche, ambos acuden a una fiesta en la mansión del Sr. Gherardini, donde ambos comienzan a flirtear; Giovanni con la hija del anfitrión, y Lidia con un playboy.",
+    "popularity": 1.0161,
+    "poster_path": "/tisVoVpKpe9EynTgFLamBStGd9Z.jpg",
+    "production_companies": [
+      {
+        "id": 17871,
+        "logo_path": null,
+        "name": "Nepi Film",
+        "origin_country": "IT"
+      },
+      {
+        "id": 142,
+        "logo_path": null,
+        "name": "Silver Films",
+        "origin_country": "FR"
+      },
+      {
+        "id": 17872,
+        "logo_path": null,
+        "name": "Sofitedip",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "release_date": "1961-01-24",
+    "revenue": 0,
+    "runtime": 122,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Un nuevo género de películas ... para hacerte pensar y sentir.",
+    "title": "La Noche",
+    "video": false,
+    "vote_average": 7.966,
+    "vote_count": 703,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n9Pl2VNrHsXMkQ9EYaZNNqBjRwz.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 44444,
+    "imdb_id": "tt0055106",
+    "origin_country": [
+      "IT"
+    ],
+    "original_language": "it",
+    "original_title": "Lycanthropus",
+    "overview": "",
+    "popularity": 0.7111,
+    "poster_path": "/bGCqG6fTfqUt3FpUYSRiKzXkTmg.jpg",
+    "production_companies": [
+      {
+        "id": 998,
+        "logo_path": null,
+        "name": "Royal Film",
+        "origin_country": "IT"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IT",
+        "name": "Italy"
+      }
+    ],
+    "release_date": "1961-11-09",
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Lycanthropus",
+    "video": false,
+    "vote_average": 4.9,
+    "vote_count": 48,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cZgUATpU4NDlsfGj7sRriKJEiLB.jpg",
+    "genre_ids": [
+      12,
+      16,
+      35,
+      10751
+    ],
+    "id": 12230,
+    "original_language": "en",
+    "original_title": "One Hundred and One Dalmatians",
+    "overview": "When a litter of dalmatian puppies are abducted by the minions of Cruella De Vil, the parents must find them before she uses them for a diabolical fashion statement.",
+    "popularity": 5.4676,
+    "poster_path": "/v62BSVTUmFoVLW3v0ffXo7kzhL9.jpg",
+    "release_date": "1961-01-25",
+    "title": "One Hundred and One Dalmatians",
+    "video": false,
+    "vote_average": 7.174,
+    "vote_count": 6433,
+    "belongs_to_collection": {
+      "id": 100693,
+      "name": "101 dálmatas - Colección",
+      "poster_path": "/990gKqXVt19tUqm7CNGUZzrOg50.jpg",
+      "backdrop_path": "/b7EHS608P5Z98d6ldv4g5J83JQq.jpg"
+    },
+    "budget": 3600000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0055254",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3166,
+        "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+        "name": "Walt Disney Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 303000000,
+    "runtime": 79,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡La aventura perruna del siglo!",
+    "added_date": "2025-09-27"
+  }
+]

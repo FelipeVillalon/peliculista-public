@@ -1,0 +1,2165 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/zZZ1FDl5FPClZ9OnMrlaPA4Iuxv.jpg",
+    "belongs_to_collection": null,
+    "budget": 126000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "id": 1635,
+    "imdb_id": "tt0399201",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Island",
+    "overview": "Lincoln Seis-Eco y Jordan Dos-Delta viven en un supuesto paraíso después de un catastrófico evento global. Sin embargo, descubren que su mundo es una fachada y emprenden una desesperada huida para descubrir la verdad sobre su existencia y salvar sus vidas.",
+    "popularity": 14.812,
+    "poster_path": "/mNmc7H8L2ABfcY2V7BQMpFU0F4r.jpg",
+    "production_companies": [
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 135159,
+        "logo_path": null,
+        "name": "Parkes-MacDonald Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 7296,
+        "logo_path": null,
+        "name": "K/O Paper Products",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2005-07-21",
+    "revenue": 162949164,
+    "runtime": 127,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Tu tiempo ha llegado.",
+    "title": "La Isla",
+    "video": false,
+    "vote_average": 6.681,
+    "vote_count": 5576,
+    "added_date": "2025-09-27",
+    "trailer": "_ZyNJ3cKfEg"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bSvUW4JQ6g4QiKvwejcfcPRd4Ke.jpg",
+    "belongs_to_collection": null,
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 118,
+    "imdb_id": "tt0367594",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Charlie and the Chocolate Factory",
+    "overview": "Charlie Bucket un niño muy bueno de una familia muy pobre, gana un concurso, junto a otros cuatro niños de diferentes partes del mundo, para disfrutar de una visita durante todo un día a la gigantesca fábrica de chocolate dirigida por el excéntrico Willy Wonka (Johnny Depp) y su equipo de Oompa-Loompas. La fábrica se parece a un mundo fantástico y mágico lleno de diferentes sabores, todos muy dulces.",
+    "popularity": 12.6,
+    "poster_path": "/voJEk0WNtrcawz2hN9AwdNbvhrp.jpg",
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 80,
+        "logo_path": "/i6B0AIrUESLt5Fm6MOPXmuPhsvA.png",
+        "name": "The Zanuck Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 81,
+        "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+        "name": "Plan B Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 55512,
+        "logo_path": null,
+        "name": "Theobald Film Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2005-07-13",
+    "revenue": 475000000,
+    "runtime": 115,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Charlie y la Fábrica de Chocolate.",
+    "title": "Charlie y La Fábrica de Chocolate",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 15562,
+    "added_date": "2025-09-27",
+    "trailer": "OFVGCUIXJls"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 674,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Goblet of Fire",
+    "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools—the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
+    "popularity": 23.9315,
+    "poster_path": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+    "release_date": "2005-11-16",
+    "title": "Harry Potter and the Goblet of Fire",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 21327,
+    "belongs_to_collection": {
+      "id": 1241,
+      "name": "Harry Potter - Colección",
+      "poster_path": "/5m8RGRYDhnR6TQANkePx9lrv8fG.jpg",
+      "backdrop_path": "/kmEsQL2vOTA0jnM28fXS45Ky8kX.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0330373",
+    "origin_country": [
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 462,
+        "logo_path": null,
+        "name": "Patalex IV Productions Limited",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 895921036,
+    "runtime": 157,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nos esperan tiempos oscuros y difíciles.",
+    "added_date": "2025-09-27",
+    "trailer": "3EGojp4Hh6I"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zYDjcLWhQWm0l3Cjdsc5jbepzHR.jpg",
+    "genre_ids": [
+      18,
+      80,
+      28
+    ],
+    "id": 272,
+    "original_language": "en",
+    "original_title": "Batman Begins",
+    "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+    "popularity": 16.5261,
+    "poster_path": "/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+    "release_date": "2005-06-10",
+    "title": "Batman Begins",
+    "video": false,
+    "vote_average": 7.715,
+    "vote_count": 21651,
+    "belongs_to_collection": {
+      "id": 263,
+      "name": "Batman: El caballero de la noche - Colección",
+      "poster_path": "/pO70id4LcjEJrokvrhxlF3A9Vhl.jpg",
+      "backdrop_path": "/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg"
+    },
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0372784",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 429,
+        "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+        "name": "DC",
+        "origin_country": "US"
+      },
+      {
+        "id": 9996,
+        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+        "name": "Syncopy",
+        "origin_country": "GB"
+      },
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 19231,
+        "logo_path": null,
+        "name": "Patalex III Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 374218673,
+    "runtime": 140,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Urdu",
+        "iso_639_1": "ur",
+        "name": "اردو"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El mal teme al caballero.",
+    "added_date": "2025-09-27",
+    "trailer": "neY2xVmOfUM"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zJDnqXtGNHUmexiaWNa52Vslve5.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      36
+    ],
+    "id": 1904,
+    "original_language": "en",
+    "original_title": "Memoirs of a Geisha",
+    "overview": "In the years before World War II, a penniless Japanese child is torn from her family to work as a maid in a geisha house.",
+    "popularity": 3.124,
+    "poster_path": "/9twKlPKD5Qd2EXX8lohW4zL8zQ8.jpg",
+    "release_date": "2005-12-06",
+    "title": "Memoirs of a Geisha",
+    "video": false,
+    "vote_average": 7.659,
+    "vote_count": 3179,
+    "belongs_to_collection": null,
+    "budget": 85000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0397535",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 158,
+        "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+        "name": "Spyglass Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 14440,
+        "logo_path": "/gk9zllyMFnaVBWTdZpm7VcfQrHC.png",
+        "name": "Red Wagon Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 162242962,
+    "runtime": 145,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Mi mundo es tan prohibido como frágil; sin sus misterios, no puede sobrevivir",
+    "added_date": "2025-09-27",
+    "trailer": "4L-xlmakQvc"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/v23fWgJUEt8EMmvn19btIacxP8E.jpg",
+    "genre_ids": [
+      10749,
+      14,
+      16
+    ],
+    "id": 3933,
+    "original_language": "en",
+    "original_title": "Corpse Bride",
+    "overview": "In a 19th-century European village, a young man about to be married is whisked away to the underworld and wed to a mysterious corpse bride, while his real bride waits bereft in the land of the living.",
+    "popularity": 14.8695,
+    "poster_path": "/isb2Qow76GpqYmsSyfdMfsYAjts.jpg",
+    "release_date": "2005-09-12",
+    "title": "Corpse Bride",
+    "video": false,
+    "vote_average": 7.581,
+    "vote_count": 9624,
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0121164",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 8601,
+        "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+        "name": "Tim Burton Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 11537,
+        "logo_path": "/AgCkAk8EpUG9fTmK6mWcaJA2Zwh.png",
+        "name": "LAIKA",
+        "origin_country": "US"
+      },
+      {
+        "id": 57751,
+        "logo_path": null,
+        "name": "Patalex Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1515,
+        "logo_path": "/bU7G4LZfEk9SxlnlU7uUdRgOmja.png",
+        "name": "Will Vinton Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 118133252,
+    "runtime": 77,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27",
+    "trailer": "AGACeWVdFqo"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AuV99eQivVWuk2AOSM6hYh9QRPQ.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      14
+    ],
+    "id": 411,
+    "original_language": "en",
+    "original_title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+    "popularity": 22.1812,
+    "poster_path": "/iREd0rNCjYdf5Ar0vfaW32yrkm.jpg",
+    "release_date": "2005-12-07",
+    "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "video": false,
+    "vote_average": 7.133,
+    "vote_count": 11007,
+    "belongs_to_collection": {
+      "id": 420,
+      "name": "Las crónicas de Narnia - Colección",
+      "poster_path": "/fJ3b943uYNcxPNhiZqrCmygejUs.jpg",
+      "backdrop_path": "/ojjzZUQlqKTsN1T7s5OAVZSjYMH.jpg"
+    },
+    "budget": 180000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0363771",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10221,
+        "logo_path": "/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+        "name": "Walden Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 79503,
+        "logo_path": null,
+        "name": "C.S. Lewis Company",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 745013115,
+    "runtime": 150,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La aclamada obra maestra cobra vida.",
+    "added_date": "2025-09-27",
+    "trailer": "usEkWtuNn-w"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/26OvB15pqk3eiKJG8LrXDVzO7Mw.jpg",
+    "genre_ids": [
+      14,
+      28,
+      27
+    ],
+    "id": 561,
+    "original_language": "en",
+    "original_title": "Constantine",
+    "overview": "John Constantine has literally been to Hell and back. When he teams up with a policewoman to solve the mysterious suicide of her twin sister, their investigation takes them through the world of demons and angels that exists beneath the landscape of contemporary Los Angeles.",
+    "popularity": 11.3966,
+    "poster_path": "/vPYgvd2MwHlxTamAOjwVQp4qs1W.jpg",
+    "release_date": "2005-02-08",
+    "title": "Constantine",
+    "video": false,
+    "vote_average": 7.11,
+    "vote_count": 7544,
+    "belongs_to_collection": {
+      "id": 1025281,
+      "name": "Constantine Collection",
+      "poster_path": "/uzkkCL80WHYCz4ciVATG0EzyurT.jpg",
+      "backdrop_path": "/44TlYuWbWBpRY3i0Ch7MJtLv4Yd.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0360486",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 430,
+        "logo_path": null,
+        "name": "Lonely Film Productions GmbH & Co. KG.",
+        "origin_country": "DE"
+      },
+      {
+        "id": 431,
+        "logo_path": "/6dcR1MbRqYgt3jUVYxkHe68GFnZ.png",
+        "name": "The Donners' Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 432,
+        "logo_path": null,
+        "name": "Batfilm Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 433,
+        "logo_path": "/iafkKMpcRfEXq9a4sQf0h6tg2E2.png",
+        "name": "Weed Road Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 787,
+        "logo_path": "/cCefBs1t7jxtiz3eCxBp9yxrxGx.png",
+        "name": "3 Arts Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 165407,
+        "logo_path": "/5fnvtywvYSkskSJr99VcR3x9RTE.png",
+        "name": "DC Vertigo",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 230900000,
+    "runtime": 121,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Tagalog",
+        "iso_639_1": "tl",
+        "name": ""
+      }
+    ],
+    "status": "Released",
+    "tagline": "El infierno lo quiere, el cielo no lo aceptará, la Tierra lo necesita.",
+    "added_date": "2025-09-27",
+    "trailer": "DEa508Xmmio"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tPaurpIUskVji5vwV0dhy9pq4Vs.jpg",
+    "genre_ids": [
+      10751,
+      16,
+      12,
+      35
+    ],
+    "id": 953,
+    "original_language": "en",
+    "original_title": "Madagascar",
+    "overview": "Four animal friends get a taste of the wild life when they break out of captivity at the Central Park Zoo and wash ashore on the island of Madagascar.",
+    "popularity": 11.765,
+    "poster_path": "/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
+    "release_date": "2005-05-25",
+    "title": "Madagascar",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 11211,
+    "belongs_to_collection": {
+      "id": 14740,
+      "name": "Madagascar - Colección",
+      "poster_path": "/ymjnyrSAfdS2n4lcCW28E0WR3fy.jpg",
+      "backdrop_path": "/lzTIAbvMeGWB7PUrmBZXulGA28M.jpg"
+    },
+    "budget": 75000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0351283",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 520,
+        "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+        "name": "Pacific Data Images",
+        "origin_country": "US"
+      },
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 542064525,
+    "runtime": 85,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Portuguese",
+        "iso_639_1": "pt",
+        "name": "Português"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Madagascar",
+    "added_date": "2025-09-27",
+    "trailer": "fq5zU9T_Hl4"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+    "genre_ids": [
+      12,
+      18,
+      28
+    ],
+    "id": 254,
+    "original_language": "en",
+    "original_title": "King Kong",
+    "overview": "In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with the leading lady.",
+    "popularity": 9.1184,
+    "poster_path": "/6a2HY6UmD7XiDD3NokgaBAXEsD2.jpg",
+    "release_date": "2005-12-12",
+    "title": "King Kong",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 8110,
+    "belongs_to_collection": null,
+    "budget": 207000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0360717",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 68,
+        "logo_path": null,
+        "name": "Big Primate Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 69,
+        "logo_path": null,
+        "name": "MFPV Film",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "revenue": 562363449,
+    "runtime": 201,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27",
+    "trailer": "AYaTCPbYGdk"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/2YJOXPl4QtCskixYA58ToyCXEW0.jpg",
+    "genre_ids": [
+      28,
+      35,
+      18,
+      53
+    ],
+    "id": 787,
+    "original_language": "en",
+    "original_title": "Mr. & Mrs. Smith",
+    "overview": "A husband and wife struggle to keep their marriage alive until they realize they are both secretly working as assassins. Now, their respective assignments require them to kill each other.",
+    "popularity": 9.2587,
+    "poster_path": "/kjD700RtyhveN3ZbOnSvUSne0Qj.jpg",
+    "release_date": "2005-06-07",
+    "title": "Mr. & Mrs. Smith",
+    "video": false,
+    "vote_average": 6.69,
+    "vote_count": 10723,
+    "belongs_to_collection": null,
+    "budget": 110000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0356910",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 508,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 10104,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "New Regency Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 491,
+        "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+        "name": "Summit Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 433,
+        "logo_path": "/iafkKMpcRfEXq9a4sQf0h6tg2E2.png",
+        "name": "Weed Road Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1171,
+        "logo_path": "/wp7NwsxxHT8sqPaek6SlxnXlkP4.png",
+        "name": "Epsilon Motion Pictures",
+        "origin_country": "CH"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CH",
+        "name": "Switzerland"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 487287646,
+    "runtime": 120,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27",
+    "trailer": "CZ0B22z22pI"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/63V4wbVah1gnjckPJnSU0ZmOGAW.jpg",
+    "genre_ids": [
+      18,
+      35,
+      80
+    ],
+    "id": 9291,
+    "original_language": "en",
+    "original_title": "The Longest Yard",
+    "overview": "Disgraced pro football quarterback Paul Crewe lands in a Texas federal penitentiary, where manipulative Warden Hazen recruits him to advise the institution's football team of prison guards. Crewe suggests a tune-up game which lands him quarterbacking a crew of inmates in a game against the guards. Aided by incarcerated ex-NFL coach and player Nate Scarborough, Crewe and his team must overcome not only the bloodthirstiness of the opposition, but also the corrupt warden trying to fix the game against them.",
+    "popularity": 7.9289,
+    "poster_path": "/nbKcVBcxF96ARW2oKHqDYAcLdu.jpg",
+    "release_date": "2005-05-27",
+    "title": "The Longest Yard",
+    "video": false,
+    "vote_average": 6.664,
+    "vote_count": 3508,
+    "belongs_to_collection": null,
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0398165",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 60378,
+        "logo_path": null,
+        "name": "Callahan Filmworks",
+        "origin_country": "US"
+      },
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 746,
+        "logo_path": "/kc7bdIVTBkJYy9aDK1QDDTAL463.png",
+        "name": "MTV Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 878,
+        "logo_path": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+        "name": "Happy Madison Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 191466556,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Prisioneros contra guardias.",
+    "added_date": "2025-09-27",
+    "trailer": "l1BF53bXP8I"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1lWeIA03iGXTlDv0yzsN0wUdT9T.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 215,
+    "original_language": "en",
+    "original_title": "Saw II",
+    "overview": "The chilling and relentless Jigsaw killer returns to terrorize the city once again. When a gruesome murder victim emerges with unmistakable traces of Jigsaw's sinister methods, Detective Eric Matthews is thrust into a high-stakes investigation. To his surprise, apprehending Jigsaw seems almost too easy, but what he doesn't realize is that being caught is merely another piece of Jigsaw's intricate puzzle.",
+    "popularity": 4.9906,
+    "poster_path": "/gTnaTysN8HsvVQqTRUh8m35mmUA.jpg",
+    "release_date": "2005-10-28",
+    "title": "Saw II",
+    "video": false,
+    "vote_average": 6.6,
+    "vote_count": 5581,
+    "belongs_to_collection": {
+      "id": 656,
+      "name": "El Juego del Miedo - Colección",
+      "poster_path": "/gfw1wl8KW0j71XcR9r3xKCJ0wKs.jpg",
+      "backdrop_path": "/q6XF2qbrxdv3OwZPnXgecDRft1O.jpg"
+    },
+    "budget": 4000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0432348",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1053,
+        "logo_path": null,
+        "name": "Got Films",
+        "origin_country": ""
+      },
+      {
+        "id": 2061,
+        "logo_path": "/o9LbN33hRaj4qcebUv1bikyXeoB.png",
+        "name": "Twisted Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23019,
+        "logo_path": null,
+        "name": "Evolution Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 64651,
+        "logo_path": null,
+        "name": "Saw 2 Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 152925093,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Decide rápido... o muere despacio.",
+    "added_date": "2025-09-27",
+    "trailer": "Lq2AzZB6DUE"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fmDYTtZZQHLBAvvqgdXItqMXBNG.jpg",
+    "genre_ids": [
+      35,
+      18,
+      10749
+    ],
+    "id": 8488,
+    "original_language": "en",
+    "original_title": "Hitch",
+    "overview": "Dating coach Alex 'Hitch' Hitchens mentors a bumbling client, Albert, who hopes to win the heart of the glamorous Allegra Cole. While Albert makes progress, Hitch faces his own romantic setbacks when proven techniques fail to work on Sara Melas, a tabloid reporter digging for dirt on Allegra Cole's love life. When Sara discovers Hitch's connection to Albert – now Allegra's boyfriend – it threatens to destroy both relationships.",
+    "popularity": 5.6992,
+    "poster_path": "/x3W9H3nhGQbWSlyI8Amp2F6Z6cz.jpg",
+    "release_date": "2005-02-11",
+    "title": "Hitch",
+    "video": false,
+    "vote_average": 6.57,
+    "vote_count": 5951,
+    "belongs_to_collection": null,
+    "budget": 70000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0386588",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 907,
+        "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+        "name": "Overbrook Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 371600000,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La cura para el hombre común.",
+    "added_date": "2025-09-27",
+    "trailer": "dMaq_pfxs-0"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bInicBgSHfQiWLbnRT5jxw9Grvm.jpg",
+    "genre_ids": [
+      12,
+      53,
+      878
+    ],
+    "id": 74,
+    "original_language": "en",
+    "original_title": "War of the Worlds",
+    "overview": "Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.",
+    "popularity": 13.6724,
+    "poster_path": "/6Biy7R9LfumYshur3YKhpj56MpB.jpg",
+    "release_date": "2005-06-28",
+    "title": "War of the Worlds",
+    "video": false,
+    "vote_average": 6.521,
+    "vote_count": 8676,
+    "belongs_to_collection": null,
+    "budget": 132000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0407304",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 44,
+        "logo_path": "/6Hs6K20Hz1W9W1Tiam5QN2Kpx8V.png",
+        "name": "Cruise/Wagner Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 603873119,
+    "runtime": 117,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ellos ya estan aqui",
+    "added_date": "2025-09-27",
+    "trailer": "SM6aEEjc5hA"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uTBNMyN3RjMGR1cmtE9RPTDlkZY.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 9522,
+    "original_language": "en",
+    "original_title": "Wedding Crashers",
+    "overview": "John and his buddy, Jeremy are emotional criminals who know how to use a woman's hopes and dreams for their own carnal gain. Their modus operandi: crashing weddings. Normally, they meet guests who want to toast the romantic day with a random hook-up. But when John meets Claire, he discovers what true love – and heartache – feels like.",
+    "popularity": 3.9164,
+    "poster_path": "/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg",
+    "release_date": "2005-07-13",
+    "title": "Wedding Crashers",
+    "video": false,
+    "vote_average": 6.495,
+    "vote_count": 4488,
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0396269",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1565,
+        "logo_path": null,
+        "name": "Avery Pix",
+        "origin_country": "US"
+      },
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 870,
+        "logo_path": null,
+        "name": "Tapestry Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 288500000,
+    "runtime": 128,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27",
+    "trailer": "GnD48PD84-8"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oTblELKRgpIKHrTD3okNPZ1q6fO.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751,
+      878
+    ],
+    "id": 9928,
+    "original_language": "en",
+    "original_title": "Robots",
+    "overview": "Rodney Copperbottom is a young robot inventor who dreams of making the world a better place, until the evil Ratchet takes over Bigweld Industries. Now, Rodney's dreams – and those of his friends – are in danger of becoming obsolete.",
+    "popularity": 6.5176,
+    "poster_path": "/fnKCh67l2DDG9NxxIlk9IpsXQ99.jpg",
+    "release_date": "2005-03-10",
+    "title": "Robots",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 4720,
+    "belongs_to_collection": null,
+    "budget": 75000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0358082",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 9383,
+        "logo_path": "/ppeMh4iZJQUMm1nAjRALeNhWDfU.png",
+        "name": "Blue Sky Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 11749,
+        "logo_path": "/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png",
+        "name": "20th Century Fox Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 262511490,
+    "runtime": 92,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27",
+    "trailer": "zyLI71Z0RF4"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3Wej7JW8Ikrzbm6h0lmSdeOYMmu.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 6957,
+    "original_language": "en",
+    "original_title": "The 40 Year Old Virgin",
+    "overview": "Andy Stitzer has a pleasant life with a nice apartment and a job stamping invoices at an electronics store. But at age 40, there's one thing Andy hasn't done, and it's really bothering his sex-obsessed male co-workers: Andy is still a virgin. Determined to help Andy get laid, the guys make it their mission to de-virginize him. But it all seems hopeless until Andy meets small business owner Trish, a single mom.",
+    "popularity": 7.1976,
+    "poster_path": "/jBoRAWYOv7tBtfXbNJMAojGj0Xf.jpg",
+    "release_date": "2005-08-11",
+    "title": "The 40 Year Old Virgin",
+    "video": false,
+    "vote_average": 6.41,
+    "vote_count": 6899,
+    "belongs_to_collection": null,
+    "budget": 26000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0405422",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10105,
+        "logo_path": "/bN4tiAS8oNlHhIqq66KBPQ1Ekqh.png",
+        "name": "Apatow Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 177400000,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27",
+    "trailer": "YnDeJn-BX5Q"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ghgogVFRi60o0sVsRWgpG2r4Sy9.jpg",
+    "genre_ids": [
+      28,
+      53,
+      80
+    ],
+    "id": 9335,
+    "original_language": "en",
+    "original_title": "Transporter 2",
+    "overview": "Professional driver, and former Special Forces officer, Frank Martin is living in Miami, where he is temporarily filling in for a friend as the chauffeur for a government narcotics control policy director and his family. The young boy in the family is targeted for kidnapping, and Frank immediately becomes involved in protecting the child and exposing the kidnappers.",
+    "popularity": 4.8135,
+    "poster_path": "/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg",
+    "release_date": "2005-08-03",
+    "title": "Transporter 2",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 3733,
+    "belongs_to_collection": {
+      "id": 9518,
+      "name": "El Transportador - Colección",
+      "poster_path": "/rhYitEV2F7ob2HYQbqNZOtHPZXX.jpg",
+      "backdrop_path": "/zCblZYRAIwNcXx3WxtO0iOyTl8o.jpg"
+    },
+    "budget": 32000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0388482",
+    "origin_country": [
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 6896,
+        "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+        "name": "EuropaCorp",
+        "origin_country": "FR"
+      },
+      {
+        "id": 356,
+        "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+        "name": "TF1 Films Production",
+        "origin_country": "FR"
+      },
+      {
+        "id": 972,
+        "logo_path": null,
+        "name": "Current Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 104,
+        "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+        "name": "Canal+",
+        "origin_country": "FR"
+      },
+      {
+        "id": 6586,
+        "logo_path": null,
+        "name": "TPS Star",
+        "origin_country": "FR"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 89100000,
+    "runtime": 87,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27",
+    "trailer": "_KFOYFBh2QM"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/neaUbI8fDtfnitw81ovBN0av8xE.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "id": 9982,
+    "original_language": "en",
+    "original_title": "Chicken Little",
+    "overview": "When the sky really is falling and sanity has flown the coop, who will rise to save the day? Together with his hysterical band of misfit friends, Chicken Little must hatch a plan to save the planet from alien invasion and prove that the world's biggest hero is a little chicken.",
+    "popularity": 5.626,
+    "poster_path": "/vkhMtzwmAEglnilVNsL3IE6kU0B.jpg",
+    "release_date": "2005-11-04",
+    "title": "Chicken Little",
+    "video": false,
+    "vote_average": 5.898,
+    "vote_count": 3997,
+    "belongs_to_collection": null,
+    "budget": 150000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0371606",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171656,
+        "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+        "name": "Walt Disney Feature Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 314400000,
+    "runtime": 81,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Cuando se trata de salvar el mundo, ayuda ser un pequeño pollo...",
+    "added_date": "2025-09-27",
+    "trailer": "VUBFCaWiQ28"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/97Sl8wiR9ULc53YMfiAUf9wWbdM.jpg",
+    "genre_ids": [
+      28,
+      14,
+      878
+    ],
+    "id": 9738,
+    "original_language": "en",
+    "original_title": "Fantastic Four",
+    "overview": "During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong … thing. Together, these \"Fantastic Four\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.",
+    "popularity": 40.0362,
+    "poster_path": "/4YMcYEFS8sFuW3soP1HVmgR3cSm.jpg",
+    "release_date": "2005-06-29",
+    "title": "Fantastic Four",
+    "video": false,
+    "vote_average": 5.795,
+    "vote_count": 9587,
+    "belongs_to_collection": {
+      "id": 9744,
+      "name": "Los 4 Fantásticos - Colección",
+      "poster_path": "/upUu24JdUHhz8DvLNaYi86pct0T.jpg",
+      "backdrop_path": "/u3gPzjUY0iJr8ecZGVwChdSRFZt.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120667",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 26149,
+        "logo_path": null,
+        "name": "Kumar Mobiliengesellschaft mbH & Co. Projekt Nr. 3 KG",
+        "origin_country": ""
+      },
+      {
+        "id": 436,
+        "logo_path": "/A7WCkG3F0NFvjGCwUnclpGdIu9E.png",
+        "name": "1492 Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 19551,
+        "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
+        "name": "Marvel Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 10881,
+        "logo_path": null,
+        "name": "Bernd Eichinger Productions",
+        "origin_country": "DE"
+      },
+      {
+        "id": 47,
+        "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+        "name": "Constantin Film",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 333535934,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27",
+    "trailer": "cLFDV72pa-s"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mFOtfHwRuqW8NBigdERcPR6AG6S.jpg",
+    "genre_ids": [
+      878,
+      28,
+      53
+    ],
+    "id": 8202,
+    "original_language": "en",
+    "original_title": "Æon Flux",
+    "overview": "400 years into the future, disease has wiped out the majority of the world's population, except one walled city, Bregna, ruled by a congress of scientists. When Æon Flux, the top operative in the underground 'Monican' rebellion, is sent on a mission to kill a government leader, she uncovers a world of secrets.",
+    "popularity": 3.3843,
+    "poster_path": "/5958Nt4QX6aRSUdQnvNw8wqjTJQ.jpg",
+    "release_date": "2005-11-30",
+    "title": "Æon Flux",
+    "video": false,
+    "vote_average": 5.634,
+    "vote_count": 2313,
+    "belongs_to_collection": null,
+    "budget": 62000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0402022",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 126,
+        "logo_path": "/kADPanRDkKTxncPXXVahvHPUvCj.png",
+        "name": "Lakeshore Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 11533,
+        "logo_path": "/tWM9pmzVYxok4GbQIttxdcml1yT.png",
+        "name": "Valhalla Motion Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 746,
+        "logo_path": "/kc7bdIVTBkJYy9aDK1QDDTAL463.png",
+        "name": "MTV Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 6041,
+        "logo_path": null,
+        "name": "(Colossal) Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "revenue": 53321673,
+    "runtime": 92,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Sólo ella puede cambiar el futuro.",
+    "added_date": "2025-09-27",
+    "trailer": "f0XQB6j5gpg"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nrq0GiSfgCoGPq79YYDulk9Pr8L.jpg",
+    "genre_ids": [
+      27,
+      9648
+    ],
+    "id": 791,
+    "original_language": "en",
+    "original_title": "The Fog",
+    "overview": "Trapped within an eerie mist, the residents of Antonio Bay have become the unwitting victims of a horrifying vengeance. One hundred years earlier, a ship carrying lepers was purposely lured onto the rocky coastline and sank, drowning all aboard. Now they're back – long-dead mariners who've waited a century for their revenge.",
+    "popularity": 1.7723,
+    "poster_path": "/v9vt49PUDJGkrMVjhb3yiYo7H4Y.jpg",
+    "release_date": "2005-10-14",
+    "title": "The Fog",
+    "video": false,
+    "vote_average": 4.525,
+    "vote_count": 773,
+    "belongs_to_collection": null,
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0432291",
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 497,
+        "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
+        "name": "Revolution Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 498,
+        "logo_path": null,
+        "name": "Debra Hill Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 694,
+        "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+        "name": "StudioCanal",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 46201432,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27",
+    "trailer": "ovNTb39_viI"
+  }
+]

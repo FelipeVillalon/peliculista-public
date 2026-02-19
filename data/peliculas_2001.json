@@ -1,0 +1,2327 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/syJIWYB1L14wdIiiH9Q7pft4ga5.jpg",
+    "belongs_to_collection": {
+      "id": 449462,
+      "name": "Super policías - Colección",
+      "poster_path": "/4AZESG5xRjB8SG7CVovQJsdgi6l.jpg",
+      "backdrop_path": "/6BGdTvwgcknQZxw9CMAJUdYNyEP.jpg"
+    },
+    "budget": 3000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "id": 39939,
+    "imdb_id": "tt0247745",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Super Troopers",
+    "overview": "Cinco policiás del estado norteamericano de Vermont, nada reconocidos por sus superiores, crean situaciones de angustia entre los conductores de la autopista. Película escrita y protagonizada por un grupo de cómicos que se autodenomina como \"Broken Lizard\".",
+    "popularity": 1.4956,
+    "poster_path": "/kDGkofYyMGDTEc8zNV87Z8QGcJq.jpg",
+    "production_companies": [
+      {
+        "id": 43,
+        "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+        "name": "Fox Searchlight Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2773,
+        "logo_path": "/ubyU2v6XcREGwyeieqdcxvZzvKc.png",
+        "name": "Broken Lizard Industries",
+        "origin_country": "US"
+      },
+      {
+        "id": 37497,
+        "logo_path": null,
+        "name": "Jersey Shore",
+        "origin_country": ""
+      },
+      {
+        "id": 52948,
+        "logo_path": null,
+        "name": "Cataland Films",
+        "origin_country": ""
+      },
+      {
+        "id": 106323,
+        "logo_path": null,
+        "name": "Árpád Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2001-02-15",
+    "revenue": 23182223,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Super policías",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 1149,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/tJLV3BAlHOgscVOrA99Wnb2gAef.jpg",
+    "belongs_to_collection": null,
+    "budget": 48000000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 11232,
+    "imdb_id": "tt0035423",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Kate & Leopold",
+    "overview": "Un moderna ejecutiva y un duque del siglo XIX se encuentran, por cosas del destino, en el Nueva York de nuestros días, cuando el ex-novio y vecino de ella consigue viajar a 1876 a través de un portal en el tiempo, pero a su vuelta se trae consigo al apuesto y romántico noble.",
+    "popularity": 1.9916,
+    "poster_path": "/mUvikzKJJSg9khrVdxK8kg3TMHA.jpg",
+    "production_companies": [
+      {
+        "id": 85,
+        "logo_path": null,
+        "name": "Konrad Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2001-12-25",
+    "revenue": 76019048,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Es una película romantica",
+    "title": "Kate y Leopold",
+    "video": false,
+    "vote_average": 6.337,
+    "vote_count": 1405,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6oaL4DP75yABrd5EbC4H2zq5ghc.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "id": 129,
+    "original_language": "ja",
+    "original_title": "千と千尋の神隠し",
+    "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+    "popularity": 18.9601,
+    "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+    "release_date": "2001-07-20",
+    "title": "Spirited Away",
+    "video": false,
+    "vote_average": 8.536,
+    "vote_count": 17330,
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0245429",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 10342,
+        "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+        "name": "Studio Ghibli",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 274925095,
+    "runtime": 125,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "id": 120,
+    "original_language": "en",
+    "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "popularity": 23.8825,
+    "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+    "release_date": "2001-12-18",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "video": false,
+    "vote_average": 8.424,
+    "vote_count": 26209,
+    "belongs_to_collection": {
+      "id": 119,
+      "name": "El Señor de los Anillos - Colección",
+      "poster_path": "/yAonjcMRitkztnvRjrLqwpKgbXS.jpg",
+      "backdrop_path": "/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg"
+    },
+    "budget": 93000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "https://www.warnerbroslatino.com/es-mx/peliculas/el-senor-de-los-anillos-la-comunidad-del-anillo",
+    "imdb_id": "tt0120737",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 11,
+        "logo_path": "/6FAuASQHybRkZUk08p9PzSs9ezM.png",
+        "name": "WingNut Films",
+        "origin_country": "NZ"
+      },
+      {
+        "id": 5237,
+        "logo_path": "/mlnr7vsBHvLye8oEb5A76C0t8x9.png",
+        "name": "The Saul Zaentz Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NZ",
+        "name": "New Zealand"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 871368364,
+    "runtime": 179,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Un anillo para gobernarlos a todos.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 194,
+    "original_language": "fr",
+    "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+    "overview": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+    "popularity": 8.5042,
+    "poster_path": "/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg",
+    "release_date": "2001-04-25",
+    "title": "Amélie",
+    "video": false,
+    "vote_average": 7.913,
+    "vote_count": 11872,
+    "belongs_to_collection": null,
+    "budget": 10000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0211915",
+    "origin_country": [
+      "FR"
+    ],
+    "production_companies": [
+      {
+        "id": 25020,
+        "logo_path": null,
+        "name": "Victoires Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 12000,
+        "logo_path": null,
+        "name": "Tapioca Films",
+        "origin_country": ""
+      },
+      {
+        "id": 591,
+        "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+        "name": "France 3 Cinéma",
+        "origin_country": "FR"
+      },
+      {
+        "id": 4411,
+        "logo_path": null,
+        "name": "MMC Independent",
+        "origin_country": ""
+      },
+      {
+        "id": 581,
+        "logo_path": "/pzJLNyKypqwAgLR4OjmaxA5WEjm.png",
+        "name": "UGC",
+        "origin_country": "FR"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "revenue": 173921954,
+    "runtime": 121,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una persona puede cambiar tu vida para siempre.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 671,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+    "popularity": 36.4397,
+    "poster_path": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "release_date": "2001-11-16",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "video": false,
+    "vote_average": 7.902,
+    "vote_count": 28444,
+    "belongs_to_collection": {
+      "id": 1241,
+      "name": "Harry Potter - Colección",
+      "poster_path": "/5m8RGRYDhnR6TQANkePx9lrv8fG.jpg",
+      "backdrop_path": "/kmEsQL2vOTA0jnM28fXS45Ky8kX.jpg"
+    },
+    "budget": 125000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0241527",
+    "origin_country": [
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 436,
+        "logo_path": "/A7WCkG3F0NFvjGCwUnclpGdIu9E.png",
+        "name": "1492 Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 976475550,
+    "runtime": 152,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Deja que la magia comience.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hCJFWTPghXCwwSpvPpAoIB8318Q.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 453,
+    "original_language": "en",
+    "original_title": "A Beautiful Mind",
+    "overview": "From the heights of notoriety to the depths of depravity, John Forbes Nash Jr. experiences it all. As a brilliant but socially awkward mathematician, he made a groundbreaking discovery early in his career and stands on the brink of international acclaim. But as the handsome and arrogant Nash accepts secret work in cryptography, he becomes entangled in a mysterious conspiracy. His life takes a nightmarish turn and he soon finds himself on a painful and harrowing journey of self-discovery.",
+    "popularity": 7.6707,
+    "poster_path": "/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg",
+    "release_date": "2001-12-14",
+    "title": "A Beautiful Mind",
+    "video": false,
+    "vote_average": 7.855,
+    "vote_count": 10560,
+    "belongs_to_collection": null,
+    "budget": 58000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0268978",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23,
+        "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+        "name": "Imagine Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 316791257,
+    "runtime": 135,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Su extraordinario don empujaría su mente más allá de sus limites.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/c7VbRPlev1bRfKvTxr98erw5T7B.jpg",
+    "genre_ids": [
+      16,
+      35,
+      10751
+    ],
+    "id": 585,
+    "original_language": "en",
+    "original_title": "Monsters, Inc.",
+    "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+    "popularity": 16.3037,
+    "poster_path": "/wFSpyMsp7H0ttERbxY7Trlv8xry.jpg",
+    "release_date": "2001-11-01",
+    "title": "Monsters, Inc.",
+    "video": false,
+    "vote_average": 7.845,
+    "vote_count": 19002,
+    "belongs_to_collection": {
+      "id": 137696,
+      "name": "Monsters, Inc. - Colección",
+      "poster_path": "/szLXxjxpO5OqmdXCTbzyDmPtqnl.jpg",
+      "backdrop_path": "/x4Mq7gDRhbqDjw4SkemLvd1yzF3.jpg"
+    },
+    "budget": 115000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0198781",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 579700000,
+    "runtime": 92,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Sustos que dan gusto.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+    "genre_ids": [
+      14,
+      18,
+      9648
+    ],
+    "id": 141,
+    "original_language": "en",
+    "original_title": "Donnie Darko",
+    "overview": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+    "popularity": 7.6012,
+    "poster_path": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+    "release_date": "2001-01-19",
+    "title": "Donnie Darko",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 12833,
+    "belongs_to_collection": {
+      "id": 178106,
+      "name": "Darko - Colección",
+      "poster_path": "/k2jpE1GbSFmFwU29mqz7qwuX1rw.jpg",
+      "backdrop_path": "/hja7IzXp6how8eD1WHriI386TGY.jpg"
+    },
+    "budget": 4500000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0246578",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 19813,
+        "logo_path": null,
+        "name": "Flower Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 185,
+        "logo_path": null,
+        "name": "Pandora Cinema",
+        "origin_country": ""
+      },
+      {
+        "id": 28,
+        "logo_path": "/7tRG0ZsmtptmzPMKupd1FZkjtnn.png",
+        "name": "Newmarket Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 7500000,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nunca puedes ir demasiado lejos.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+    "genre_ids": [
+      16,
+      35,
+      14,
+      12,
+      10751
+    ],
+    "id": 808,
+    "original_language": "en",
+    "original_title": "Shrek",
+    "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+    "popularity": 19.2434,
+    "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "release_date": "2001-05-18",
+    "title": "Shrek",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 17853,
+    "belongs_to_collection": {
+      "id": 2150,
+      "name": "Shrek - Colección",
+      "poster_path": "/kbZ0L9Jx44ObEltogQ6gkLo7dFL.jpg",
+      "backdrop_path": "/lhsd1zCsq5UquvcNalmhuddV3tI.jpg"
+    },
+    "budget": 60000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0126029",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 520,
+        "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+        "name": "Pacific Data Images",
+        "origin_country": "US"
+      },
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 488628188,
+    "runtime": 90,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El más grande cuento de hadas jamás contado.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/y5hbHJbERDFurustaqcVamN84Y0.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      53
+    ],
+    "id": 1933,
+    "original_language": "en",
+    "original_title": "The Others",
+    "overview": "Grace is a religious woman who lives in an old house kept dark because her two children, Anne and Nicholas, have a rare sensitivity to light. When the family begins to suspect the house is haunted, Grace fights to protect her children at any cost in the face of strange events and disturbing visions.",
+    "popularity": 5.0326,
+    "poster_path": "/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+    "release_date": "2001-08-02",
+    "title": "The Others",
+    "video": false,
+    "vote_average": 7.615,
+    "vote_count": 6777,
+    "belongs_to_collection": null,
+    "budget": 17000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0230600",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 44,
+        "logo_path": "/6Hs6K20Hz1W9W1Tiam5QN2Kpx8V.png",
+        "name": "Cruise/Wagner Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 692,
+        "logo_path": "/mKVxLKcaUmevZUfxsuKzfIoeSw.png",
+        "name": "Sogecine",
+        "origin_country": "ES"
+      },
+      {
+        "id": 778,
+        "logo_path": null,
+        "name": "Las Producciones del Escorpion",
+        "origin_country": "ES"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      }
+    ],
+    "revenue": 210002906,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Tarde o temprano te encontrarán.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 11770,
+    "original_language": "cn",
+    "original_title": "少林足球",
+    "overview": "A young Shaolin follower reunites with his discouraged brothers to form a soccer team using their martial art skills to their advantage.",
+    "popularity": 7.3802,
+    "poster_path": "/mu5oyde0MK3Xgl6CCy6xyTNuiHv.jpg",
+    "release_date": "2001-07-05",
+    "title": "Shaolin Soccer",
+    "video": false,
+    "vote_average": 7.148,
+    "vote_count": 2368,
+    "belongs_to_collection": null,
+    "budget": 10000005,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0286112",
+    "origin_country": [
+      "HK"
+    ],
+    "production_companies": [
+      {
+        "id": 3477,
+        "logo_path": null,
+        "name": "Star Overseas",
+        "origin_country": "HK"
+      },
+      {
+        "id": 20543,
+        "logo_path": null,
+        "name": "Universe Entertainment",
+        "origin_country": "HK"
+      },
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "revenue": 42776760,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡Prepárate para patear el pasto!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+    "genre_ids": [
+      18,
+      878,
+      12
+    ],
+    "id": 644,
+    "original_language": "en",
+    "original_title": "A.I. Artificial Intelligence",
+    "overview": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+    "popularity": 5.0213,
+    "poster_path": "/8MZSGX5JORoO72EfuAEcejH5yHn.jpg",
+    "release_date": "2001-06-29",
+    "title": "A.I. Artificial Intelligence",
+    "video": false,
+    "vote_average": 7.047,
+    "vote_count": 6344,
+    "belongs_to_collection": null,
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0212720",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 385,
+        "logo_path": null,
+        "name": "Stanley Kubrick Productions",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 235926552,
+    "runtime": 146,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "David tiene 11 años. Pesa 60 libras. Él mide 4 pies, 6 pulgadas de alto. Él tiene cabello café. Su amor es real. Pero no lo es.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fYr0fqT9NImOuaN1QgnDHgGh4Ci.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12,
+      878
+    ],
+    "id": 10865,
+    "original_language": "en",
+    "original_title": "Atlantis: The Lost Empire",
+    "overview": "A young linguist named Milo Thatch joins an intrepid group of explorers to find the mysterious lost continent of Atlantis.",
+    "popularity": 4.5271,
+    "poster_path": "/8fUEFPUTF7kBMuKPiSQHxPvd8EZ.jpg",
+    "release_date": "2001-06-02",
+    "title": "Atlantis: The Lost Empire",
+    "video": false,
+    "vote_average": 7.023,
+    "vote_count": 4911,
+    "belongs_to_collection": {
+      "id": 100965,
+      "name": "Atlantis - Colección",
+      "poster_path": "/qFpDUCG40mLN2kzFmiDHvJzRlNV.jpg",
+      "backdrop_path": "/rN2E6dcbp4FvjWnNo5uVHeYHMQI.jpg"
+    },
+    "budget": 120000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0230011",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171656,
+        "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+        "name": "Walt Disney Feature Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 186053725,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Atlantis está esperando...",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/viU23X3BIycUFf6TOlm9c7TxLgM.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 8835,
+    "original_language": "en",
+    "original_title": "Legally Blonde",
+    "overview": "Fashionable sorority queen Elle Woods has it all, but, she wants nothing more than to be Mrs. Warner Huntington III. But he dumps her before heading to Harvard Law School. Elle rallies all of her resources and gets into Harvard, determined to win him back. While there, she figures out that there is more to herself than just good looks.",
+    "popularity": 8.1674,
+    "poster_path": "/9ohlMrJHQqKhfUKh7Zr3JQqHNLZ.jpg",
+    "release_date": "2001-07-13",
+    "title": "Legally Blonde",
+    "video": false,
+    "vote_average": 6.804,
+    "vote_count": 4230,
+    "belongs_to_collection": {
+      "id": 86024,
+      "name": "Legalmente Rubia - Colección",
+      "poster_path": "/qwXB6uePgDzG2Vrq8fRwadsi9nN.jpg",
+      "backdrop_path": "/aabPyPAA6E8hJ7tUipwunr3Itzb.jpg"
+    },
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0250494",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      },
+      {
+        "id": 2527,
+        "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+        "name": "Marc Platt Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 141778365,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡Este año es de las rubias!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/1eMvglbY3wpl4nl09eYLtfstV2I.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 9740,
+    "original_language": "en",
+    "original_title": "Hannibal",
+    "overview": "After having successfully eluded the authorities for years, Hannibal peacefully lives in Italy in disguise as an art scholar. Trouble strikes again when he's discovered leaving a deserving few dead in the process. He returns to America to make contact with now disgraced Agent Clarice Starling, who is suffering the wrath of a malicious FBI rival as well as the media.",
+    "popularity": 1.5349,
+    "poster_path": "/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+    "release_date": "2001-02-08",
+    "title": "Hannibal",
+    "video": false,
+    "vote_average": 6.767,
+    "vote_count": 4904,
+    "belongs_to_collection": {
+      "id": 9743,
+      "name": "Hannibal Lecter - La Antología",
+      "poster_path": "/dhXQvL1rkShIP5dpoevZliIONsA.jpg",
+      "backdrop_path": "/yiwhEr1BV3K9fCsZuFxUHtZezHZ.jpg"
+    },
+    "budget": 87000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0212985",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 10308,
+        "logo_path": "/5AEHeflZe2YavcjL0s99gJA8csi.png",
+        "name": "The De Laurentiis Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1645,
+        "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+        "name": "Scott Free Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 351692268,
+    "runtime": 131,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ocCAwBuaRqMuYDstTQihkqg6zsz.jpg",
+    "genre_ids": [
+      28,
+      35,
+      80
+    ],
+    "id": 5175,
+    "original_language": "en",
+    "original_title": "Rush Hour 2",
+    "overview": "It's vacation time for Carter as he finds himself alongside Lee in Hong Kong wishing for more excitement. While Carter wants to party and meet the ladies, Lee is out to track down a Triad gang lord who may be responsible for killing two men at the American Embassy. Things get complicated as the pair stumble onto a counterfeiting plot. The boys are soon up to their necks in fist fights and life-threatening situations. A trip back to the U.S. may provide the answers about the bombing, the counterfeiting, and the true allegiance of sexy customs agent Isabella.",
+    "popularity": 7.7206,
+    "poster_path": "/aBQf2vMiCINeVC9v6BGVYKXurTh.jpg",
+    "release_date": "2001-08-03",
+    "title": "Rush Hour 2",
+    "video": false,
+    "vote_average": 6.752,
+    "vote_count": 4309,
+    "belongs_to_collection": {
+      "id": 90863,
+      "name": "Una Pareja Explosiva - Colección",
+      "poster_path": "/iT7xJmPwUHoowHokx0hPUtoML5b.jpg",
+      "backdrop_path": "/Atik4QqBg8IrTPiCzaj9AcI9p1i.jpg"
+    },
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0266915",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 139921,
+        "logo_path": null,
+        "name": "Arthur Sarkissian Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 961,
+        "logo_path": null,
+        "name": "Roger Birnbaum Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 347325802,
+    "runtime": 91,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡Prepárate para un segundo asalto!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ifR5HhZ8nlMnVBs7H0RNX97vI2O.jpg",
+    "genre_ids": [
+      12,
+      28,
+      14
+    ],
+    "id": 1734,
+    "original_language": "en",
+    "original_title": "The Mummy Returns",
+    "overview": "Rick and Evelyn O’Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King’s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn’t above kidnapping its new bearer, Alex, to gain control of Anubis’s otherworldly army.",
+    "popularity": 8.5776,
+    "poster_path": "/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
+    "release_date": "2001-05-04",
+    "title": "The Mummy Returns",
+    "video": false,
+    "vote_average": 6.381,
+    "vote_count": 7279,
+    "belongs_to_collection": {
+      "id": 1733,
+      "name": "La Momia - Colección",
+      "poster_path": "/k4LMa9UBVJwJyOLBkuc1BJJblJ8.jpg",
+      "backdrop_path": "/1BeKi6IytbfQlQocJSvP2k6sO1a.jpg"
+    },
+    "budget": 98000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0209163",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11462,
+        "logo_path": "/7ZymELJwuWR4k5p0oeZ3d3WAhO3.png",
+        "name": "Alphaville Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 443280904,
+    "runtime": 125,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La leyenda ha vuelto.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mUffUjlJ007XAzdogdZqhaqSp4O.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 9378,
+    "original_language": "en",
+    "original_title": "Thir13en Ghosts",
+    "overview": "Arthur and his two children inherit his uncle's estate: a glass house that serves as a prison to twelve ghosts. When the family, accompanied by a nanny and an attorney, enter the house they find themselves trapped inside an evil machine 'designed by the Devil and powered by the dead' to open the Eye of Hell. Aided by a ghost hunter and his rival, a ghost rights activist out to set the ghosts free, the group must do what they can to get out of the house alive.",
+    "popularity": 4.1155,
+    "poster_path": "/6yrrddjIjx0ElCRZp5pTZeqrj3k.jpg",
+    "release_date": "2001-10-26",
+    "title": "Thir13en Ghosts",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 2219,
+    "belongs_to_collection": null,
+    "budget": 42000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0245674",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1786,
+        "logo_path": "/dVSnNBwhb0WW5zGis3HjI6Q66Gp.png",
+        "name": "Dark Castle Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 68467960,
+    "runtime": 92,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Hay fantasmas que nos rodean todo el tiempo. La mayoría de ellos no quieren hacernos daño. Sin embargo, hay excepciones ...",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uCocR9YfjvNICXWVnepSFKMXqNG.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 2770,
+    "original_language": "en",
+    "original_title": "American Pie 2",
+    "overview": "After a year apart - attending different schools, meeting different people - the guys rent a beach house and vow to make this the best summer ever. As it turns out, whether that will happen or not has a lot to do with the girls. Between the wild parties, outrageous revelations and yes, a trip to band camp, they discover that times change and people change, but in the end, it's all about sticking together.",
+    "popularity": 6.2849,
+    "poster_path": "/854ZZxXdeabAs90mrV72NqShJqR.jpg",
+    "release_date": "2001-08-10",
+    "title": "American Pie 2",
+    "video": false,
+    "vote_average": 6.245,
+    "vote_count": 5056,
+    "belongs_to_collection": {
+      "id": 2806,
+      "name": "American Pie - Colección",
+      "poster_path": "/rjaeTGRm3Hk81zyDuciqJjGJUY9.jpg",
+      "backdrop_path": "/beYtptCFllZuHYEY8LnuolcQl22.jpg"
+    },
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0252866",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2200,
+        "logo_path": null,
+        "name": "Liveplanet",
+        "origin_country": ""
+      },
+      {
+        "id": 3169,
+        "logo_path": null,
+        "name": "Zide-Perry Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 287553595,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Tu segunda vez es mejor",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/n7EH9nyYzQfAD4j6599fFWuQxDG.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 9398,
+    "original_language": "en",
+    "original_title": "Zoolander",
+    "overview": "Clear the runway for Derek Zoolander, VH1's three-time male model of the year. His face falls when hippie-chic Hansel scooters in to steal this year's award. The evil fashion guru Mugatu seizes the opportunity to turn Derek into a killing machine. It's a well-designed conspiracy and only with the help of Hansel and a few well-chosen accessories like Matilda can Derek make the world safe for male models everywhere.",
+    "popularity": 4.376,
+    "poster_path": "/1IOLMlNKSoo3FToVGYV1PjE3ehn.jpg",
+    "release_date": "2001-09-28",
+    "title": "Zoolander",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 4640,
+    "belongs_to_collection": {
+      "id": 352789,
+      "name": "Zoolander - Colección",
+      "poster_path": "/87GRd4SsTueSQZUqmp0iOinNB0O.jpg",
+      "backdrop_path": "/xNTvMy84w8wnrEEzWBiTWL08fVo.jpg"
+    },
+    "budget": 28000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0196229",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 268652,
+        "logo_path": "/ro3rNut9hQecdJrABW2yJqNljqF.png",
+        "name": "VH1 Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 172,
+        "logo_path": null,
+        "name": "NPV Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 2932,
+        "logo_path": "/4uLKLjGivVg2YnAIhAn8k7ZuVFj.png",
+        "name": "Red Hour",
+        "origin_country": "US"
+      },
+      {
+        "id": 904,
+        "logo_path": null,
+        "name": "MFP Munich Film Partners",
+        "origin_country": ""
+      },
+      {
+        "id": 902,
+        "logo_path": null,
+        "name": "AZL Productions KG",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "revenue": 60780981,
+    "runtime": 88,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8v8x4vVbRgrsdU3M4drnD7HQbfe.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53,
+      878
+    ],
+    "id": 331,
+    "original_language": "en",
+    "original_title": "Jurassic Park III",
+    "overview": "In need of funds for research, Dr. Alan Grant accepts a large sum of money to accompany Paul and Amanda Kirby on an aerial tour of the infamous Isla Sorna. It isn't long before all hell breaks loose and the stranded wayfarers must fight for survival as a host of new -- and even more deadly -- dinosaurs try to make snacks of them.",
+    "popularity": 0.7371,
+    "poster_path": "/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg",
+    "release_date": "2001-07-18",
+    "title": "Jurassic Park III",
+    "video": false,
+    "vote_average": 6.165,
+    "vote_count": 7455,
+    "belongs_to_collection": {
+      "id": 328,
+      "name": "Jurassic Park - Colección",
+      "poster_path": "/cn1D5g7dFCNCcXiO070H89JuvnE.jpg",
+      "backdrop_path": "/njFixYzIxX8jsn6KMSEtAzi4avi.jpg"
+    },
+    "budget": 93000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0163025",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 368780809,
+    "runtime": 92,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡Esta vez no es sólo un paseo por el parque!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j6RiwMRlE6gxbp7mbgpFk7kdcPg.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 9889,
+    "original_language": "en",
+    "original_title": "Shallow Hal",
+    "overview": "After taking his dying father's advice, Hal dates only the embodiments of female physical perfection. But that all changes after Hal has an unexpected run-in with self-help guru Tony Robbins. Intrigued by Hal's shallowness, Robbins hypnotizes him into seeing the beauty that exists even in the least physically appealing women. Hal soon falls for Rosemary, but he doesn't realize that his gorgeous girlfriend is actually a 300-pound-not-so-hottie.",
+    "popularity": 5.402,
+    "poster_path": "/gtcsIu8yBlfONaOENj78UFJLbjQ.jpg",
+    "release_date": "2001-11-01",
+    "title": "Shallow Hal",
+    "video": false,
+    "vote_average": 6.164,
+    "vote_count": 2978,
+    "belongs_to_collection": null,
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0256380",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 1156,
+        "logo_path": null,
+        "name": "Conundrum Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 141069860,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La historia de un seductor enamorado.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6a3tiuwoM0vyytHkQHNmMppijCe.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28,
+      53
+    ],
+    "id": 1995,
+    "original_language": "en",
+    "original_title": "Lara Croft: Tomb Raider",
+    "overview": "Orphaned heiress, English aristocrat and intrepid archaeologist, Lara Croft, embarks on a dangerous quest to retrieve the two halves of an ancient artifact which controls time before it falls into the wrong hands. As an extremely rare planetary alignment is about to occur for the first time in 5,000 years, the fearless tomb raider will have to team up with rival adventurers and sworn enemies to collect the pieces, while time is running out. But, in the end, who can harness the archaic talisman's unlimited power?",
+    "popularity": 6.8289,
+    "poster_path": "/7WyMvoqPYJe5g1ENsbLTv40pUrX.jpg",
+    "release_date": "2001-06-11",
+    "title": "Lara Croft: Tomb Raider",
+    "video": false,
+    "vote_average": 5.9,
+    "vote_count": 6239,
+    "belongs_to_collection": {
+      "id": 2467,
+      "name": "Tomb Raider - Colección",
+      "poster_path": "/psaUpusAidBptNoZSCFn7BCgZHV.jpg",
+      "backdrop_path": "/dY55rtfQMOMGHJXGDNfSEyuHPGG.jpg"
+    },
+    "budget": 115000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0146316",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 762,
+        "logo_path": "/3T7EpKcS13viHu3WzRtQGvi9sTY.png",
+        "name": "Mutual Film Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 840,
+        "logo_path": null,
+        "name": "Lawrence Gordon Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 4650,
+        "logo_path": "/wWivtVg7gG3uNALIE5Oav3Bsiuz.png",
+        "name": "Marubeni",
+        "origin_country": "JP"
+      },
+      {
+        "id": 19105,
+        "logo_path": "/7RdbaZqDLb4q2PdtMZx0SIrAyDt.png",
+        "name": "Eidos Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 288,
+        "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+        "name": "BBC Film",
+        "origin_country": "GB"
+      },
+      {
+        "id": 186604,
+        "logo_path": null,
+        "name": "KFP Produktions",
+        "origin_country": ""
+      },
+      {
+        "id": 657,
+        "logo_path": "/mDBPrBO6hl21KhQOzCVYUBo33zt.png",
+        "name": "TOHO-TOWA",
+        "origin_country": "JP"
+      },
+      {
+        "id": 128586,
+        "logo_path": "/yWQ4zz1kSEPmChJDN3rloRGYJQy.png",
+        "name": "H2L Media Group",
+        "origin_country": "US"
+      },
+      {
+        "id": 1469,
+        "logo_path": "/AwbErjR0AMpVnN9PbdHiBB3g3q0.png",
+        "name": "Tele München",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 274703340,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nacida en la riqueza. Preparada por la élite. Entrenada para el combate.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wfStsmeSW7MtvYhD9Ac6ETXdbmx.jpg",
+    "genre_ids": [
+      10751,
+      28,
+      35,
+      12,
+      878
+    ],
+    "id": 10054,
+    "original_language": "en",
+    "original_title": "Spy Kids",
+    "overview": "Carmen and Juni think their parents are boring. Little do they know that in their day, Gregorio and Ingrid Cortez were the top secret agents from their respective countries. They gave up that life to raise their children. Now, the disappearances of several of their old colleagues forces the Cortez' return from retirement. What they didn't count on was Carmen and Juni joining the \"family business.\"",
+    "popularity": 3.9526,
+    "poster_path": "/j3rUkHIAAoKr6jU30q3Db4fcIF9.jpg",
+    "release_date": "2001-03-18",
+    "title": "Spy Kids",
+    "video": false,
+    "vote_average": 5.81,
+    "vote_count": 3539,
+    "belongs_to_collection": {
+      "id": 86486,
+      "name": "Mini espías - Colección",
+      "poster_path": "/v3zjL4nOh8RWbi7hf84xCL7oCo8.jpg",
+      "backdrop_path": "/oxjNAfQJ1OrySttZSeLayky6T9k.jpg"
+    },
+    "budget": 35000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0227538",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 10807,
+        "logo_path": "/5MhGwwNnXXcTKjIXJ9oALnUas4t.png",
+        "name": "Troublemaker Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 7405,
+        "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+        "name": "Dimension Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 147934180,
+    "runtime": 88,
+    "spoken_languages": [
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cjSB3ZjaMpaa9oHFyeYha3KG0mp.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 4248,
+    "original_language": "en",
+    "original_title": "Scary Movie 2",
+    "overview": "While the original parodied slasher flicks like Scream, Keenen Ivory Wayans's sequel to Scary Movie takes comedic aim at haunted house movies. A group of students visit a mansion called \"Hell House,\" and murderous high jinks ensue.",
+    "popularity": 6.5377,
+    "poster_path": "/7Eb1JWK0Cb0rbfsYjwfc9g0PbQH.jpg",
+    "release_date": "2001-07-04",
+    "title": "Scary Movie 2",
+    "video": false,
+    "vote_average": 5.805,
+    "vote_count": 4823,
+    "belongs_to_collection": {
+      "id": 4246,
+      "name": "Scary Movie - Colección",
+      "poster_path": "/kxHEd7OGYx9OizI6QNVGNsvstQf.jpg",
+      "backdrop_path": "/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg"
+    },
+    "budget": 45000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0257106",
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 10958,
+        "logo_path": null,
+        "name": "Brad Grey Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 1607,
+        "logo_path": null,
+        "name": "Gold/Miller Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 1608,
+        "logo_path": null,
+        "name": "Wayans Bros. Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7405,
+        "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+        "name": "Dimension Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 141220678,
+    "runtime": 82,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "...y continúa la secuela más mortalmente divertida.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nLWvnjWgm8CoVPaoaY2pNnVCwoz.jpg",
+    "genre_ids": [
+      35,
+      878
+    ],
+    "id": 11090,
+    "original_language": "en",
+    "original_title": "The Animal",
+    "overview": "When loser Marvin Mange is involved in a horrible car accident, he's brought back to life by a deranged scientist as half man and half animal. His newfound powers are awesome -- but their adverse side effects could take over his life. Now, Marvin must fight to control his crazy primal urges around his new squeeze, Rianna, and his rival, Sgt. Sisk, who both think he's one cool cat.",
+    "popularity": 3.6891,
+    "poster_path": "/oNxEXmKTZtECHs0bQbI6dQoXYMV.jpg",
+    "release_date": "2001-06-01",
+    "title": "The Animal",
+    "video": false,
+    "vote_average": 5.126,
+    "vote_count": 1293,
+    "belongs_to_collection": null,
+    "budget": 22000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0255798",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 497,
+        "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
+        "name": "Revolution Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 878,
+        "logo_path": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+        "name": "Happy Madison Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 84772742,
+    "runtime": 83,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No era un hombre ... ¡Ahora no es un animal!",
+    "added_date": "2025-09-27"
+  }
+]

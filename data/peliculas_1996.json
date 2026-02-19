@@ -1,0 +1,957 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/dfkE2LppPbJ1qUzi3tdND5iuMFp.jpg",
+    "belongs_to_collection": null,
+    "budget": 3800000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "id": 10607,
+    "imdb_id": "tt0116126",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+    "overview": "Ashtray es un joven negro que se va a Los Angeles a vivir con su padre y con su peculiar abuela. Allí se encuentra con su primo Loc Dog, que se pasa el día con su pandilla de amigos por el barrio",
+    "popularity": 6.9866,
+    "poster_path": "/eCgKRs1qMRCc2wx0VG7ONEOj2MJ.jpg",
+    "production_companies": [
+      {
+        "id": 5441,
+        "logo_path": null,
+        "name": "Ivory Way Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 3492,
+        "logo_path": "/r8hXWahj8kPvEJO9nmN09ScILgk.png",
+        "name": "Island Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1996-01-12",
+    "revenue": 20100000,
+    "runtime": 84,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Los Colegas del Barrio",
+    "video": false,
+    "vote_average": 7.029,
+    "vote_count": 1393,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/geU7XW9G2n7EqhXsF1v8CvzAbGa.jpg",
+    "belongs_to_collection": {
+      "id": 97456,
+      "name": "El jorobado de Notre Dame - Colección",
+      "poster_path": "/5YHfUhNjxBGhGrWRg8oKNpKrsGA.jpg",
+      "backdrop_path": "/rlKlVPPsQ5RpiEpm0tZsrQPgyLc.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 10545,
+    "imdb_id": "tt0116583",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Hunchback of Notre Dame",
+    "overview": "Oculto a las miradas de todos los ciudadanos de París, en lo alto del campanario de la catedral de Notre Dame, vive Quasimodo. Su tutor, el Juez Frollo, no le permite bajar nunca del campanario. En compañía de tres simpáticas gárgolas de piedra, Victor, Hugo y Laverne, Quasimodo pasa las horas observando el bullicioso ir y venir de la gente. Hasta que un día decide bajar a escondidas y conoce a la bella Esmeralda, con la que vivirá su mayor aventura.",
+    "popularity": 6.9877,
+    "poster_path": "/pvnmJckCNgzEbuE5sHXX3tDRQox.jpg",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171656,
+        "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+        "name": "Walt Disney Feature Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1996-06-21",
+    "revenue": 325300000,
+    "runtime": 91,
+    "spoken_languages": [
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El jorobado de Notre Dame",
+    "title": "El jorobado de Notre Dame",
+    "video": false,
+    "vote_average": 7.117,
+    "vote_count": 5157,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wUc83y8kXNdRK66o0HU5X8eBri4.jpg",
+    "genre_ids": [
+      18,
+      80
+    ],
+    "id": 627,
+    "original_language": "en",
+    "original_title": "Trainspotting",
+    "overview": "Hilarious but harrowing, the film charts the disintegration of the friendship between Renton, Spud, Sick Boy, Tommy and Begbie as they proceed seemingly towards a psychotic, drug-fuelled self-destruction.",
+    "popularity": 6.7724,
+    "poster_path": "/1jUC02qsqS2NxBMFarbIhcQtazV.jpg",
+    "release_date": "1996-02-23",
+    "title": "Trainspotting",
+    "video": false,
+    "vote_average": 7.961,
+    "vote_count": 9952,
+    "belongs_to_collection": {
+      "id": 424202,
+      "name": "La vida en el abismo - Colección",
+      "poster_path": "/1zhG0Rm7awIxenyPNYzI23kVrXH.jpg",
+      "backdrop_path": "/Ap1WbMPScADhMrtBRVp4taK6Ncw.jpg"
+    },
+    "budget": 4000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "https://www.miramax.com/movie/trainspotting/",
+    "imdb_id": "tt0117951",
+    "origin_country": [
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 359,
+        "logo_path": null,
+        "name": "Figment Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 9110,
+        "logo_path": null,
+        "name": "The Noel Gay Motion Picture Company",
+        "origin_country": "GB"
+      },
+      {
+        "id": 181,
+        "logo_path": "/A8SjepJ332C0YMamdFEMco0nstt.png",
+        "name": "Channel Four Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 284,
+        "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
+        "name": "DNA Films",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      }
+    ],
+    "revenue": 71981823,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nunca dejes que tus amigos te aten a las vías",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+    "genre_ids": [
+      80,
+      27,
+      9648
+    ],
+    "id": 4232,
+    "original_language": "en",
+    "original_title": "Scream",
+    "overview": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+    "popularity": 9.9193,
+    "poster_path": "/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg",
+    "release_date": "1996-12-20",
+    "title": "Scream",
+    "video": false,
+    "vote_average": 7.416,
+    "vote_count": 7392,
+    "belongs_to_collection": {
+      "id": 2602,
+      "name": "Scream - Colección",
+      "poster_path": "/xxUDBsbmeSEgFasGkmcMZRTk83N.jpg",
+      "backdrop_path": "/fG6GzZAwtsW3v2mhB4EyQLMRjUV.jpg"
+    },
+    "budget": 14000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0117571",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7405,
+        "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+        "name": "Dimension Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 163562,
+        "logo_path": null,
+        "name": "Woods Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 173046663,
+    "runtime": 112,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Alguien ha llevado su pasión por las películas de terror demasiado lejos.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg",
+    "genre_ids": [
+      35,
+      10751,
+      14
+    ],
+    "id": 10830,
+    "original_language": "en",
+    "original_title": "Matilda",
+    "overview": "Matilda Wormwood is an exquisite and intelligent little girl. Unfortunately, her parents, Harry and Zinnia misunderstand her because they think she is so different. As time passes, she finally starts school and has a kind teacher, loyal friends, and a sadistic headmistress. As she gets fed up with the constant cruelty, she begins to realize that she has a gift of telekinetic powers. After some days of practice, she suddenly turns the tables to stand up to Harry and Zinnia and outwit the headmistress.",
+    "popularity": 8.9051,
+    "poster_path": "/wYoDpWInsBEVSmWStnRH06ddoyk.jpg",
+    "release_date": "1996-08-02",
+    "title": "Matilda",
+    "video": false,
+    "vote_average": 7.165,
+    "vote_count": 4585,
+    "belongs_to_collection": null,
+    "budget": 36000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0117008",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 216,
+        "logo_path": "/iKPzC6YxqNAk6fMoTtFhIF5p6yw.png",
+        "name": "Jersey Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 559,
+        "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+        "name": "TriStar Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 33500000,
+    "runtime": 99,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sra8XnL96OyLHENcglmZJg6HA8z.jpg",
+    "genre_ids": [
+      12,
+      28,
+      53
+    ],
+    "id": 954,
+    "original_language": "en",
+    "original_title": "Mission: Impossible",
+    "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+    "popularity": 13.7457,
+    "poster_path": "/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg",
+    "release_date": "1996-05-22",
+    "title": "Mission: Impossible",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 9433,
+    "belongs_to_collection": {
+      "id": 87359,
+      "name": "Misión: Imposible - Colección",
+      "poster_path": "/oKxF0QpITrRmEm0jM5Y1DtgnLim.jpg",
+      "backdrop_path": "/mroWh717g0Ah2c0rrPGW6f3EWMM.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0117060",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 44,
+        "logo_path": "/6Hs6K20Hz1W9W1Tiam5QN2Kpx8V.png",
+        "name": "Cruise/Wagner Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 457696391,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Czech",
+        "iso_639_1": "cs",
+        "name": "Český"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Espera lo imposible.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 602,
+    "original_language": "en",
+    "original_title": "Independence Day",
+    "overview": "Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.",
+    "popularity": 8.758,
+    "poster_path": "/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg",
+    "release_date": "1996-06-25",
+    "title": "Independence Day",
+    "video": false,
+    "vote_average": 6.894,
+    "vote_count": 9897,
+    "belongs_to_collection": {
+      "id": 304378,
+      "name": "Día de la Independencia - Colección",
+      "poster_path": "/1doONb75E7H04yGsrQ21bN2Qiqi.jpg",
+      "backdrop_path": "/p7oqa94XgNGVMazXwR49QfyGgtx.jpg"
+    },
+    "budget": 75000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0116629",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 347,
+        "logo_path": "/1wpVtAaWLqvFJVVbyzTAf7U4JPX.png",
+        "name": "Centropolis Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 817400891,
+    "runtime": 145,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La pregunta de si estamos o no solos en el universo ha sido contestada.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lWybXICZZpxnSvWSOW53XxTERUg.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      12,
+      16,
+      878
+    ],
+    "id": 2300,
+    "original_language": "en",
+    "original_title": "Space Jam",
+    "overview": "With their freedom on the line, the Looney Tunes seek the help of NBA superstar Michael Jordan to win a basketball game against a team of moronic aliens.",
+    "popularity": 3.8684,
+    "poster_path": "/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg",
+    "release_date": "1996-11-15",
+    "title": "Space Jam",
+    "video": false,
+    "vote_average": 6.812,
+    "vote_count": 6162,
+    "belongs_to_collection": {
+      "id": 722961,
+      "name": "Space Jam Collection",
+      "poster_path": "/2eOB99jzmF1VYJsmDKR6LWqkOKo.jpg",
+      "backdrop_path": "/kKIej57OVpFwsOUdn0KooJdJuDg.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0117705",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3592,
+        "logo_path": "/7rsVrGzIj5bJ3xbAgGnNObxGpFt.png",
+        "name": "Warner Bros. Family Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 6443,
+        "logo_path": null,
+        "name": "Ivan Reitman Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 250200000,
+    "runtime": 87,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Prepárate para improvisar.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18
+    ],
+    "id": 664,
+    "original_language": "en",
+    "original_title": "Twister",
+    "overview": "An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.",
+    "popularity": 5.6164,
+    "poster_path": "/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+    "release_date": "1996-05-10",
+    "title": "Twister",
+    "video": false,
+    "vote_average": 6.544,
+    "vote_count": 3608,
+    "belongs_to_collection": {
+      "id": 1062948,
+      "name": "Tornado Colección",
+      "poster_path": "/s6jL8oqIQGkQ51tnTl7OKMofTIY.jpg",
+      "backdrop_path": "/bnb3pWSDihCCeZ0wGlFBbTScyZv.jpg"
+    },
+    "budget": 92000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0117998",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 494471524,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/15JUzyooElSbMXXYl2gnHX62A7X.jpg",
+    "genre_ids": [
+      18,
+      10749,
+      878,
+      14
+    ],
+    "id": 9294,
+    "original_language": "en",
+    "original_title": "Phenomenon",
+    "overview": "An ordinary man sees a bright light descend from the sky, and discovers he now has super-intelligence and telekinesis.",
+    "popularity": 2.7438,
+    "poster_path": "/roUYK9EXmgyDO48Qje7rZI4Qgav.jpg",
+    "release_date": "1996-07-05",
+    "title": "Phenomenon",
+    "video": false,
+    "vote_average": 6.471,
+    "vote_count": 1227,
+    "belongs_to_collection": null,
+    "budget": 32000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0117333",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 9195,
+        "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+        "name": "Touchstone Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 152000000,
+    "runtime": 123,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/nj0rIFyjZ0GUOQYnGM8YyGR3CmS.jpg",
+    "genre_ids": [
+      35,
+      18,
+      53
+    ],
+    "id": 9894,
+    "original_language": "en",
+    "original_title": "The Cable Guy",
+    "overview": "When recently single Steven moves into his new apartment, cable guy Chip comes to hook him up—and doesn't let go. Initially, Chip is just overzealous in his desire to be Steven's pal, but when Steven tries to end the 'friendship', Chip shows his dark side. He begins stalking Steven, who's left to fend for himself because no one else can believe Chip's capable of such behaviour.",
+    "popularity": 2.4557,
+    "poster_path": "/YJt9l3RdrRohI95btQKPXwpdii.jpg",
+    "release_date": "1996-06-10",
+    "title": "The Cable Guy",
+    "video": false,
+    "vote_average": 5.993,
+    "vote_count": 2521,
+    "belongs_to_collection": null,
+    "budget": 47000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0115798",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1606,
+        "logo_path": null,
+        "name": "Brillstein-Grey Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 6092,
+        "logo_path": null,
+        "name": "Licht/Mueller Film Corporation",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 102825796,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No existe tal cosa como el cable gratuito.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yqh3mb9jd3GTTs09ZlnW4mxS95z.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "id": 11674,
+    "original_language": "en",
+    "original_title": "101 Dalmatians",
+    "overview": "An evil, high-fashion designer plots to steal Dalmatian puppies in order to make an extravagant fur coat, but instead creates an extravagant mess.",
+    "popularity": 5.6087,
+    "poster_path": "/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg",
+    "release_date": "1996-11-27",
+    "title": "101 Dalmatians",
+    "video": false,
+    "vote_average": 5.934,
+    "vote_count": 3478,
+    "belongs_to_collection": {
+      "id": 124916,
+      "name": "101 Dálmatas (Live-Action) - Colección",
+      "poster_path": "/9bww4aYHN709kq7uYShLb7CSKD8.jpg",
+      "backdrop_path": "/eTaNHqpi7VldgcrDetfTzk4FeDi.jpg"
+    },
+    "budget": 54000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0115433",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2173,
+        "logo_path": "/tvcLdY0u2hJjacYkoItfEuUNt4k.png",
+        "name": "Great Oaks Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 176668,
+        "logo_path": null,
+        "name": "Wizzer Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 320689294,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

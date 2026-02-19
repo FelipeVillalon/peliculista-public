@@ -1,0 +1,361 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/lekXv2HA6pbhNicUGgGn74yhKFK.jpg",
+    "belongs_to_collection": null,
+    "budget": 22000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "id": 10780,
+    "imdb_id": "tt0093693",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Overboard",
+    "overview": "Joanna Stayton, una rica y presuntuosa heredera, contrata al carpintero Dean Proffitt porque necesita en su yate un armario para guardar su lujoso vestuario. Cuando Dean fracasa en su encargo, ella lo despide sin pagarle. Poco después, al caerse por la borda, Joanna recibe un golpe que le provoca amnesia. Enterado del hecho por la tele, Dean se inventa una historia para hacerse pasar por su marido.",
+    "popularity": 3.6573,
+    "poster_path": "/yEfTuYAwYwX6ajLNBW6ok3YZnDt.jpg",
+    "production_companies": [
+      {
+        "id": 67823,
+        "logo_path": null,
+        "name": "Star Partners",
+        "origin_country": ""
+      },
+      {
+        "id": 16368,
+        "logo_path": null,
+        "name": "Hawn / Sylbert Movie Company",
+        "origin_country": ""
+      },
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1987-12-16",
+    "revenue": 26700000,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Hombre nuevo, vida nueva",
+    "video": false,
+    "vote_average": 6.825,
+    "vote_count": 903,
+    "added_date": "2025-09-28"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12,
+      53
+    ],
+    "id": 106,
+    "original_language": "en",
+    "original_title": "Predator",
+    "overview": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+    "popularity": 11.2064,
+    "poster_path": "/vQhYhYsOBECkQzvSC3jInKv9CLf.jpg",
+    "release_date": "1987-06-12",
+    "title": "Predator",
+    "video": false,
+    "vote_average": 7.536,
+    "vote_count": 8472,
+    "belongs_to_collection": {
+      "id": 399,
+      "name": "Depredador - Colección",
+      "poster_path": "/fpR6OGXFadXAd2vgQ0Q0Bdnwvfn.jpg",
+      "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0093773",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 840,
+        "logo_path": null,
+        "name": "Lawrence Gordon Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1885,
+        "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+        "name": "Silver Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1302,
+        "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+        "name": "Davis Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 5263,
+        "logo_path": null,
+        "name": "Amercent Films",
+        "origin_country": ""
+      },
+      {
+        "id": 5264,
+        "logo_path": null,
+        "name": "American Entertainment Partners L.P.",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 98267558,
+    "runtime": 107,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Nunca ha habido nada igual en nuestro planeta. Llegó por la emoción de la caza... pero escogió la víctima equivocada.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "id": 5548,
+    "original_language": "en",
+    "original_title": "RoboCop",
+    "overview": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+    "popularity": 5.5819,
+    "poster_path": "/iPPelvG1AVXY3zOJ875oSVaN24W.jpg",
+    "release_date": "1987-07-17",
+    "title": "RoboCop",
+    "video": false,
+    "vote_average": 7.345,
+    "vote_count": 5388,
+    "belongs_to_collection": {
+      "id": 5547,
+      "name": "RoboCop - Colección",
+      "poster_path": "/8n1z2sdjQyphvEANQl0sizGtCA1.jpg",
+      "backdrop_path": "/w3bJ67cDfdRqQPenb84eHUBbeys.jpg"
+    },
+    "budget": 13000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0093870",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 41,
+        "logo_path": "/em0rOXVRu3qprWZCx58uDDV2fze.png",
+        "name": "Orion Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 216219,
+        "logo_path": null,
+        "name": "Jon Davison Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 53424681,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/j4irvwRLITgGr6vcP8NIKCUA67y.jpg",
+    "genre_ids": [
+      27,
+      53,
+      14
+    ],
+    "id": 9003,
+    "original_language": "en",
+    "original_title": "Hellraiser",
+    "overview": "Hedonist Frank Cotton finds a mysterious puzzle box that summons the Cenobites, who open the doors to a dominion where pain and pleasure are indivisible.",
+    "popularity": 3.379,
+    "poster_path": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+    "release_date": "1987-09-11",
+    "title": "Hellraiser",
+    "video": false,
+    "vote_average": 6.9,
+    "vote_count": 2678,
+    "belongs_to_collection": {
+      "id": 8917,
+      "name": "Hellraiser - Colección",
+      "poster_path": "/wAIhVfsgOxk3emQBrxxyuI9K6KB.jpg",
+      "backdrop_path": "/g0XtsgbwFcFHNZGarpk6qAOPX7T.jpg"
+    },
+    "budget": 1000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0093177",
+    "origin_country": [
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 1950,
+        "logo_path": "/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png",
+        "name": "New World Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 15338,
+        "logo_path": null,
+        "name": "Cinemarque Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 15339,
+        "logo_path": null,
+        "name": "Film Futures",
+        "origin_country": ""
+      },
+      {
+        "id": 15340,
+        "logo_path": null,
+        "name": "Rivdel Films",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 14575193,
+    "runtime": 90,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

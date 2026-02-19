@@ -1,0 +1,4100 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/w7TUrUUo9pKcgY7PCdm2LK6XbZB.jpg",
+    "belongs_to_collection": null,
+    "budget": 28000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "id": 23172,
+    "imdb_id": "tt1273678",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Spy Next Door",
+    "overview": "Mientras cuida de los hijos de su novia, un superespía secreto debe embarcarse en una aventura cuando uno de los niños descarga por error un archivo clasificado.",
+    "popularity": 3.0063,
+    "poster_path": "/zNWvZMPg7DcRDfn53nwFEevMhI1.jpg",
+    "production_companies": [
+      {
+        "id": 46062,
+        "logo_path": null,
+        "name": "Spy Next Door",
+        "origin_country": ""
+      },
+      {
+        "id": 7295,
+        "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+        "name": "Relativity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 3929,
+        "logo_path": null,
+        "name": "Robert Simonds Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 181992,
+        "logo_path": null,
+        "name": "Mandate International",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-01-15",
+    "revenue": 66166000,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Espiar es fácil, cuidar niños es difícil.",
+    "title": "Mi vecino es un espía",
+    "video": false,
+    "vote_average": 5.876,
+    "vote_count": 1346,
+    "added_date": "2025-09-28"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7HqiTdDb0pTXuIDiGFmqdtBCu4o.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 35100,
+    "imdb_id": "tt1191130",
+    "origin_country": [
+      "IN"
+    ],
+    "original_language": "hi",
+    "original_title": "राइट या रॉंग",
+    "overview": "",
+    "popularity": 0.3242,
+    "poster_path": "/jPqW3UwEGyCtYoHBMojjTdLwTZl.jpg",
+    "production_companies": [
+      {
+        "id": 110932,
+        "logo_path": null,
+        "name": "Ikkon Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 3725,
+        "logo_path": null,
+        "name": "Mukta Arts Ltd",
+        "origin_country": "IN"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "release_date": "2010-03-12",
+    "revenue": 0,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "Hindi",
+        "iso_639_1": "hi",
+        "name": "हिन्दी"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "राइट या रॉंग",
+    "video": false,
+    "vote_average": 4.5,
+    "vote_count": 4,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/q5QEC1yPWufdevJFZwDb4XKisfl.jpg",
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 56036,
+    "imdb_id": "tt1503116",
+    "origin_country": [
+      "DK"
+    ],
+    "original_language": "da",
+    "original_title": "Smukke mennesker",
+    "overview": "",
+    "popularity": 0.1807,
+    "poster_path": "/6gzzzBVzGu2YcJvUidadrIn71E3.jpg",
+    "production_companies": [
+      {
+        "id": 76,
+        "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+        "name": "Zentropa Entertainments",
+        "origin_country": "DK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DK",
+        "name": "Denmark"
+      }
+    ],
+    "release_date": "2010-09-23",
+    "revenue": 0,
+    "runtime": 90,
+    "spoken_languages": [
+      {
+        "english_name": "Danish",
+        "iso_639_1": "da",
+        "name": "Dansk"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Smukke mennesker",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 13,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/drUgiqUfxmCCNZ9i0eeTEPqeDF.jpg",
+    "belongs_to_collection": null,
+    "budget": 5000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "id": 46838,
+    "imdb_id": "tt1465522",
+    "origin_country": [
+      "CA",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Tucker and Dale vs. Evil",
+    "overview": "Dos amigos que viven en una zona montañosa de Estados Unidos deciden pasar las vacaciones en Virginia. Se alojan en una cabaña y conocen a un grupo de adolescentes que los consideran unos idiotas y no quieren saber nada de ellos. Un día, mientras están pescando, al intentar hablar con una chica del grupo, ocurre un accidente. Los dos amigos serán entonces perseguidos por los estrafalarios adolescentes.",
+    "popularity": 4.2271,
+    "poster_path": "/A4dQLfIzLjzxRjOOnVUkxFlZHot.jpg",
+    "production_companies": [
+      {
+        "id": 2273,
+        "logo_path": null,
+        "name": "Eden Rock Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 31741,
+        "logo_path": null,
+        "name": "Gynormous Pictures",
+        "origin_country": "CA"
+      },
+      {
+        "id": 6626,
+        "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+        "name": "Voltage Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-01-22",
+    "revenue": 5224938,
+    "runtime": 89,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Tucker y Dale En contra del mal",
+    "video": false,
+    "vote_average": 7.386,
+    "vote_count": 2909,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/yVSgw4UyXWg0Edl7KMehdhhgIwL.jpg",
+    "belongs_to_collection": {
+      "id": 399,
+      "name": "Depredador - Colección",
+      "poster_path": "/fpR6OGXFadXAd2vgQ0Q0Bdnwvfn.jpg",
+      "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
+    },
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 34851,
+    "imdb_id": "tt1424381",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Predators",
+    "overview": "Royce es un mercenario que, a regañadientes, encabeza a un grupo de guerreros de élite que acaban dándose cuenta de que los han llevado juntos a otro planeta… para servir de presa. Con la excepción de un médico desprestigiado, todos ellos son unos desalmados asesinos -mercenarios, yakuzas, presidiarios, miembros de escuadrones de la muerte-, “depredadores” humanos que ahora están siendo cazados y eliminados sistemáticamente por una nueva raza de Depredadores extraterrestres.",
+    "popularity": 7.4373,
+    "poster_path": "/mYH9FtLUtaIgiGKrVqo82TklFIY.jpg",
+    "production_companies": [
+      {
+        "id": 1302,
+        "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+        "name": "Davis Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 444,
+        "logo_path": null,
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 10807,
+        "logo_path": "/5MhGwwNnXXcTKjIXJ9oALnUas4t.png",
+        "name": "Troublemaker Studios",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-07-07",
+    "revenue": 127200000,
+    "runtime": 107,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Son los asesinos más peligrosos de nuestro planeta. Pero no están en nuestro planeta...",
+    "title": "Depredadores",
+    "video": false,
+    "vote_average": 6.279,
+    "vote_count": 4323,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cq9N64ucEtfIc3eMxNr1VzY9LH9.jpg",
+    "belongs_to_collection": {
+      "id": 1504252,
+      "name": "The Social Network Collection",
+      "poster_path": null,
+      "backdrop_path": null
+    },
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "id": 37799,
+    "imdb_id": "tt1285016",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Social Network",
+    "overview": "Durante una noche de otoño de 2003, el genio de la programación de computación de la Universidad de Harvard, Mark Zuckerberg, se sienta en su computadora y comienza a trabajar en una nueva idea: una red social global. A sólo seis años y 500 millones de amigos más tarde, Mark es el multimillonario más joven de la historia... pero también su éxito conduce a complicaciones tanto personales como legales.",
+    "popularity": 9.094,
+    "poster_path": "/2GtDmIdxkJ5NZG97yhJQtM8Wn1H.jpg",
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7295,
+        "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+        "name": "Relativity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 258,
+        "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+        "name": "Scott Rudin Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 11370,
+        "logo_path": null,
+        "name": "Michael De Luca Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 7626,
+        "logo_path": "/4839MGss4pPAalhqqYH1AD1CnEj.png",
+        "name": "Trigger Street Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2010-10-01",
+    "revenue": 224920315,
+    "runtime": 121,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Red Social",
+    "video": false,
+    "vote_average": 7.371,
+    "vote_count": 12551,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gqby0RhyehP3uRrzmdyUZ0CgPPe.jpg",
+    "genre_ids": [
+      28,
+      878,
+      12
+    ],
+    "id": 27205,
+    "original_language": "en",
+    "original_title": "Inception",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "popularity": 27.1669,
+    "poster_path": "/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+    "release_date": "2010-07-15",
+    "title": "Inception",
+    "video": false,
+    "vote_average": 8.369,
+    "vote_count": 37742,
+    "belongs_to_collection": null,
+    "budget": 160000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1375666",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 923,
+        "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+        "name": "Legendary Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9996,
+        "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+        "name": "Syncopy",
+        "origin_country": "GB"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 839030630,
+    "runtime": 148,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Swahili",
+        "iso_639_1": "sw",
+        "name": "Kiswahili"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La realidad es solo un sueño.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rbZvGN1A1QyZuoKzhCw8QPmf2q0.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "id": 11324,
+    "original_language": "en",
+    "original_title": "Shutter Island",
+    "overview": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+    "popularity": 14.1661,
+    "poster_path": "/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+    "release_date": "2010-02-14",
+    "title": "Shutter Island",
+    "video": false,
+    "vote_average": 8.201,
+    "vote_count": 24715,
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1130884",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11317,
+        "logo_path": "/hMboqqmeILXFeOJjuCsn3FvCIT3.png",
+        "name": "Phoenix Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23243,
+        "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
+        "name": "Sikelia Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 562,
+        "logo_path": "/azANEzu3H3Kztzt63sdjvlzxhuB.png",
+        "name": "Appian Way",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 294804195,
+    "runtime": 138,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El miedo es contagioso",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/59vDC1BuEQvti24OMr0ZvtAK6R1.jpg",
+    "genre_ids": [
+      14,
+      12,
+      16,
+      10751
+    ],
+    "id": 10191,
+    "original_language": "en",
+    "original_title": "How to Train Your Dragon",
+    "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.",
+    "popularity": 27.4722,
+    "poster_path": "/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+    "release_date": "2010-03-18",
+    "title": "How to Train Your Dragon",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 13659,
+    "belongs_to_collection": {
+      "id": 89137,
+      "name": "Cómo entrenar a tu dragón - Colección",
+      "poster_path": "/4tivUzSDcUDm3fbomwPxiEiztIM.jpg",
+      "backdrop_path": "/vBSuGU5OyJ5lGamkqXo2kVAe01F.jpg"
+    },
+    "budget": 165000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0892769",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 495141736,
+    "runtime": 98,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una aventura que cambiará el mundo...",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wE5JGzujfvDPMIfFjJyrhXFjZLc.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      35
+    ],
+    "id": 10193,
+    "original_language": "en",
+    "original_title": "Toy Story 3",
+    "overview": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+    "popularity": 16.8602,
+    "poster_path": "/j0iPLV1DZb03SwubhRSI5ztP3lZ.jpg",
+    "release_date": "2010-06-16",
+    "title": "Toy Story 3",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 15087,
+    "belongs_to_collection": {
+      "id": 10194,
+      "name": "Toy Story - Colección",
+      "poster_path": "/ss7QQlifXEiDVE4krmCsNHuIovh.jpg",
+      "backdrop_path": "/hApclyB9NEZEQujAVajzi5iWE4a.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0435761",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3,
+        "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+        "name": "Pixar",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1067316101,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Woody, Buzz Lightyear y el resto de los juguetes regresan para una nueva aventura.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AqLcLsGGTzAjm3pCCq0CZCQrp6m.jpg",
+    "genre_ids": [
+      12,
+      14
+    ],
+    "id": 12444,
+    "original_language": "en",
+    "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+    "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+    "popularity": 20.0517,
+    "poster_path": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+    "release_date": "2010-11-17",
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "video": false,
+    "vote_average": 7.741,
+    "vote_count": 19628,
+    "belongs_to_collection": {
+      "id": 1241,
+      "name": "Harry Potter - Colección",
+      "poster_path": "/5m8RGRYDhnR6TQANkePx9lrv8fG.jpg",
+      "backdrop_path": "/kmEsQL2vOTA0jnM28fXS45Ky8kX.jpg"
+    },
+    "budget": 250000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0926084",
+    "origin_country": [
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 437,
+        "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+        "name": "Heyday Films",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 954305868,
+    "runtime": 146,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Inicia la cacería.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12
+    ],
+    "id": 38757,
+    "original_language": "en",
+    "original_title": "Tangled",
+    "overview": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
+    "popularity": 14.5531,
+    "poster_path": "/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+    "release_date": "2010-11-24",
+    "title": "Tangled",
+    "video": false,
+    "vote_average": 7.61,
+    "vote_count": 11846,
+    "belongs_to_collection": {
+      "id": 1268789,
+      "name": "Enredados Colección",
+      "poster_path": "/iY2E3YqT0Wq0Zt0TFR5x7gCNK3H.jpg",
+      "backdrop_path": "/hi7m7cJw9VxOeBgrVhCLtxveGM9.jpg"
+    },
+    "budget": 260000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0398286",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 6125,
+        "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+        "name": "Walt Disney Animation Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 592461732,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Enredados",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xVEBLD278GuFZoPFskpD3dvdJlV.jpg",
+    "genre_ids": [
+      10751,
+      35,
+      16
+    ],
+    "id": 20352,
+    "original_language": "en",
+    "original_title": "Despicable Me",
+    "overview": "Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.",
+    "popularity": 11.4173,
+    "poster_path": "/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg",
+    "release_date": "2010-07-08",
+    "title": "Despicable Me",
+    "video": false,
+    "vote_average": 7.25,
+    "vote_count": 15499,
+    "belongs_to_collection": {
+      "id": 86066,
+      "name": "Mi villano favorito - Colección",
+      "poster_path": "/xiA6S0XNwMCMERS18ekGQPohIYr.jpg",
+      "backdrop_path": "/37xamYKRUGCRux532lKcZdVGYuR.jpg"
+    },
+    "budget": 69000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1323594",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 6704,
+        "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+        "name": "Illumination",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 543284256,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Super malo...",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/P4bGyJQF0shAcRku3I2perNUQR.jpg",
+    "genre_ids": [
+      28,
+      80
+    ],
+    "id": 23483,
+    "original_language": "en",
+    "original_title": "Kick-Ass",
+    "overview": "Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.",
+    "popularity": 6.8164,
+    "poster_path": "/iHMbrTHJwocsNvo5murCBw0CwTo.jpg",
+    "release_date": "2010-03-26",
+    "title": "Kick-Ass",
+    "video": false,
+    "vote_average": 7.123,
+    "vote_count": 11922,
+    "belongs_to_collection": {
+      "id": 179892,
+      "name": "Kick-Ass - Colección",
+      "poster_path": "/77MnvUqDFIlMsRHOUFiyQ3GwVtI.jpg",
+      "backdrop_path": "/fYMsCXEMguNlSORJIHydfBgOnty.jpg"
+    },
+    "budget": 28000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1250777",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5374,
+        "logo_path": "/pMUiImmYANjZUlZFiZMWziQDSs6.png",
+        "name": "Marv",
+        "origin_country": "GB"
+      },
+      {
+        "id": 81,
+        "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+        "name": "Plan B Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 771,
+        "logo_path": "/fQpEeXgCVsXQkVVFMMjrrkOFja3.png",
+        "name": "Mandate Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 96188903,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bSYnRf7nzKLtJ3RIKAVCl9ttuls.jpg",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "id": 23169,
+    "original_language": "en",
+    "original_title": "Remember Me",
+    "overview": "Still reeling from a heartbreaking family event and his parents' subsequent divorce, Tyler Hawkins discovers a fresh lease on life when he meets Ally Craig, a gregarious beauty who witnessed her mother's death. But as the couple draws closer, the fallout from their separate tragedies jeopardizes their love.",
+    "popularity": 2.0202,
+    "poster_path": "/j7umuMiLCHvWT7wYhFKJOTFSokF.jpg",
+    "release_date": "2010-03-11",
+    "title": "Remember Me",
+    "video": false,
+    "vote_average": 7.114,
+    "vote_count": 3589,
+    "belongs_to_collection": null,
+    "budget": 16000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1403981",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 491,
+        "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+        "name": "Summit Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 56000000,
+    "runtime": 128,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Vive el momento.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/viBWzktrBmhzRw4ehmUIrrN4C0z.jpg",
+    "genre_ids": [
+      12,
+      18,
+      53
+    ],
+    "id": 44115,
+    "original_language": "en",
+    "original_title": "127 Hours",
+    "overview": "The true story of mountain climber Aron Ralston's remarkable adventure to save himself after a fallen boulder crashes on his arm and traps him in an isolated canyon in Utah.",
+    "popularity": 5.4915,
+    "poster_path": "/h0RMdn0rfl9l5hWXz3tUh6QVkhi.jpg",
+    "release_date": "2010-11-12",
+    "title": "127 Hours",
+    "video": false,
+    "vote_average": 7.084,
+    "vote_count": 7741,
+    "belongs_to_collection": null,
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1542344",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 43,
+        "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+        "name": "Fox Searchlight Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7981,
+        "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+        "name": "Pathé",
+        "origin_country": "FR"
+      },
+      {
+        "id": 10892,
+        "logo_path": null,
+        "name": "Everest Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 6707,
+        "logo_path": "/5bJmjTayNNSJt1VTEKDpXFM04H1.png",
+        "name": "Cloud Eight Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 8286,
+        "logo_path": null,
+        "name": "Decibel Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 2015,
+        "logo_path": "/2QYmUQEca7nlEmFkuvKQjKQsE0m.png",
+        "name": "DSP",
+        "origin_country": "GB"
+      },
+      {
+        "id": 6705,
+        "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+        "name": "Film4 Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 444,
+        "logo_path": null,
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 10893,
+        "logo_path": null,
+        "name": "Big Screen Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 37336,
+        "logo_path": null,
+        "name": "Down Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 35700000,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fGBJEfGjHmhg7nLAT0Jkcv9qV5e.jpg",
+    "genre_ids": [
+      18,
+      35,
+      10749
+    ],
+    "id": 43347,
+    "original_language": "en",
+    "original_title": "Love & Other Drugs",
+    "overview": "Maggie is an alluring free spirit who won't let anyone – or anything – tie her down. But she meets her match in Jamie, whose relentless and nearly infallible charm serves him well with the ladies and the cutthroat world of pharmaceutical sales. Maggie and Jamie's evolving relationship takes them both by surprise, as they find themselves under the influence of the ultimate drug: love.",
+    "popularity": 8.681,
+    "poster_path": "/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
+    "release_date": "2010-11-04",
+    "title": "Love & Other Drugs",
+    "video": false,
+    "vote_average": 7.043,
+    "vote_count": 5329,
+    "belongs_to_collection": null,
+    "budget": 30000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0758752",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 711,
+        "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+        "name": "Fox 2000 Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 508,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 10104,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "New Regency Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 4403,
+        "logo_path": null,
+        "name": "Stuber Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 348,
+        "logo_path": "/mztvNjgx77cXUL6vWR3r7fyeZCa.png",
+        "name": "Bedford Falls Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 444,
+        "logo_path": null,
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 102800000,
+    "runtime": 112,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+    "genre_ids": [
+      16,
+      28,
+      35,
+      10751,
+      878
+    ],
+    "id": 38055,
+    "original_language": "en",
+    "original_title": "Megamind",
+    "overview": "After Megamind, a highly intelligent alien supervillain, defeats his long-time nemesis Metro Man, Megamind creates a new hero to fight, but must act to save the city when his \"creation\" becomes an even worse villain than he was.",
+    "popularity": 8.9842,
+    "poster_path": "/uZ9ytt3sPTx62XTfN56ILSuYWRe.jpg",
+    "release_date": "2010-10-28",
+    "title": "Megamind",
+    "video": false,
+    "vote_average": 7.0,
+    "vote_count": 7074,
+    "belongs_to_collection": {
+      "id": 1239518,
+      "name": "Megamente - Colección",
+      "poster_path": "/E1eYcIkFaFOw1vKXwqyaW7gL9.jpg",
+      "backdrop_path": "/1VtW2AWO5OtJ5qi86kxP4xlRdh6.jpg"
+    },
+    "budget": 130000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1001526",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 520,
+        "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+        "name": "Pacific Data Images",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 321885765,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Los héroes no nacen... se hacen.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xqWZR7eS5wVBUcwoONQ2PyFFsaL.jpg",
+    "genre_ids": [
+      28,
+      12,
+      16,
+      27
+    ],
+    "id": 31967,
+    "original_language": "en",
+    "original_title": "Dante's Inferno: An Animated Epic",
+    "overview": "Dante journeys through the nine circles of Hell -- limbo, lust, gluttony, greed, anger, heresy, violence, fraud and treachery -- in search of his true love, Beatrice. An animated version of the video game of the same name.",
+    "popularity": 1.2749,
+    "poster_path": "/3HEKlPhoji9i6mJAImI1A98KNzv.jpg",
+    "release_date": "2010-02-09",
+    "title": "Dante's Inferno: An Animated Epic",
+    "video": false,
+    "vote_average": 6.966,
+    "vote_count": 534,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1401113",
+    "origin_country": [
+      "US",
+      "SG"
+    ],
+    "production_companies": [
+      {
+        "id": 4571,
+        "logo_path": "/2gKq3u4hrI0xw5plncuaPapmQaV.png",
+        "name": "Dongwoo A&E",
+        "origin_country": "KR"
+      },
+      {
+        "id": 19,
+        "logo_path": "/2XbFiOpwgdG1P1wKLqfk2kvcTdE.png",
+        "name": "Film Roman",
+        "origin_country": "US"
+      },
+      {
+        "id": 33347,
+        "logo_path": null,
+        "name": "Manglobe",
+        "origin_country": "JP"
+      },
+      {
+        "id": 8032,
+        "logo_path": null,
+        "name": "JM Animation",
+        "origin_country": "KR"
+      },
+      {
+        "id": 529,
+        "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+        "name": "Production I.G",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      },
+      {
+        "iso_3166_1": "SG",
+        "name": "Singapore"
+      },
+      {
+        "iso_3166_1": "KR",
+        "name": "South Korea"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 84,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Lord gimme strength!!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 10138,
+    "original_language": "en",
+    "original_title": "Iron Man 2",
+    "overview": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+    "popularity": 26.1597,
+    "poster_path": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+    "release_date": "2010-04-28",
+    "title": "Iron Man 2",
+    "video": false,
+    "vote_average": 6.849,
+    "vote_count": 21594,
+    "belongs_to_collection": {
+      "id": 131292,
+      "name": "Iron Man - Colección",
+      "poster_path": "/9IcmiJNK5cPiYwefR2915DCa9Y1.jpg",
+      "backdrop_path": "/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1228705",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 420,
+        "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+        "name": "Marvel Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 7297,
+        "logo_path": "/l29JYQVZbTcjZXoz4CUYFpKRmM3.png",
+        "name": "Fairview Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7505,
+        "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+        "name": "Marvel Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 623933331,
+    "runtime": 125,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No es la armadura lo que hace al héroe, sino el hombre que lleva dentro.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/4jCHr55RGHQlXzcDYwJ70b0mYj9.jpg",
+    "genre_ids": [
+      18,
+      28,
+      36
+    ],
+    "id": 44249,
+    "original_language": "cn",
+    "original_title": "葉問前傳",
+    "overview": "The remarkable true story of the early life of Ip Man, the formidable kung fu genius who would become Bruce Lee's mentor; beginning at the start of his journey from his initial training through to the ultimate battle to become supreme master of the art of Wing Chun.",
+    "popularity": 0.2943,
+    "poster_path": "/ekJxJ037GWBrqIR8FX7Kh7daaR9.jpg",
+    "release_date": "2010-06-24",
+    "title": "The Legend Is Born: Ip Man",
+    "video": false,
+    "vote_average": 6.834,
+    "vote_count": 683,
+    "belongs_to_collection": null,
+    "budget": 0,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1641638",
+    "origin_country": [
+      "HK"
+    ],
+    "production_companies": [
+      {
+        "id": 7885,
+        "logo_path": "/bP5C6gdgyNXH2ffrS0eYgwV6SiX.png",
+        "name": "Mei Ah Entertainment",
+        "origin_country": "HK"
+      },
+      {
+        "id": 154085,
+        "logo_path": null,
+        "name": "National Arts Films Production Limited",
+        "origin_country": "HK"
+      },
+      {
+        "id": 154086,
+        "logo_path": null,
+        "name": "Zhejiang Hengdian World Studios Co., Ltd.",
+        "origin_country": "HK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      }
+    ],
+    "revenue": 2708867,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/s1aCCFPCRl4Zw2EBHLGK1dAHs1L.jpg",
+    "genre_ids": [
+      16,
+      12,
+      10751,
+      14
+    ],
+    "id": 41216,
+    "original_language": "en",
+    "original_title": "Legend of the Guardians: The Owls of Ga'Hoole",
+    "overview": "When a young owl is abducted by an evil Owl army, he must escape with new-found friends and seek the legendary Guardians to stop the menace.",
+    "popularity": 3.2052,
+    "poster_path": "/qweKCtPdnIP2uGp1PgWZyCV7gzj.jpg",
+    "release_date": "2010-07-10",
+    "title": "Legend of the Guardians: The Owls of Ga'Hoole",
+    "video": false,
+    "vote_average": 6.815,
+    "vote_count": 2361,
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1219342",
+    "origin_country": [
+      "AU",
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 8089,
+        "logo_path": "/kEUAzsG2hZcCV7rmSCozgLhGWaa.png",
+        "name": "Animal Logic",
+        "origin_country": "AU"
+      },
+      {
+        "id": 215283,
+        "logo_path": null,
+        "name": "GOG Productions",
+        "origin_country": "AU"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "AU",
+        "name": "Australia"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 140073390,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/30rvmoEBqovm723agDJ3QddWXcY.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 37735,
+    "original_language": "en",
+    "original_title": "Easy A",
+    "overview": "Olive, an average high school student, sees her below-the-radar existence turn around overnight once she decides to use the school's gossip grapevine to advance her social standing. Now her classmates are turning against her and the school board is becoming concerned, including her favorite teacher and the distracted guidance counselor. With the support of her hilariously idiosyncratic parents and a little help from a long-time crush, Olive attempts to take on her notorious new identity and crush the rumor mill once and for all.",
+    "popularity": 3.9053,
+    "poster_path": "/v5f1qO6NJnxWgONgkYg21TW39DT.jpg",
+    "release_date": "2010-09-16",
+    "title": "Easy A",
+    "video": false,
+    "vote_average": 6.81,
+    "vote_count": 7064,
+    "belongs_to_collection": null,
+    "budget": 8000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1282140",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3287,
+        "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+        "name": "Screen Gems",
+        "origin_country": "US"
+      },
+      {
+        "id": 7291,
+        "logo_path": "/eo8YnSO7wpUHVEprnMDOUcalhFD.png",
+        "name": "Olive Bridge Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 75026327,
+    "runtime": 93,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No lo hicimos, pero finjamos que sí",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/aPrrrGtSjXbw8XnpzsVJgF0ioq3.jpg",
+    "genre_ids": [
+      28,
+      53,
+      878
+    ],
+    "id": 20504,
+    "original_language": "en",
+    "original_title": "The Book of Eli",
+    "overview": "A post-apocalyptic tale, in which a lone man fights his way across America in order to protect a sacred book that holds the secrets to saving humankind.",
+    "popularity": 4.8022,
+    "poster_path": "/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",
+    "release_date": "2010-01-14",
+    "title": "The Book of Eli",
+    "video": false,
+    "vote_average": 6.794,
+    "vote_count": 6341,
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1037705",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1088,
+        "logo_path": "/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png",
+        "name": "Alcon Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 1885,
+        "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+        "name": "Silver Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 157107755,
+    "runtime": 118,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El Libro de Eli",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8dI1r7qh7sT79ZkkvhTKFwAIuV1.jpg",
+    "genre_ids": [
+      14,
+      27
+    ],
+    "id": 46146,
+    "original_language": "no",
+    "original_title": "Trolljegeren",
+    "overview": "A group of students investigates a series of mysterious bear killings, but learns that there are much more dangerous things going on. They start to follow a mysterious hunter, learning that he is actually a troll hunter.",
+    "popularity": 2.0064,
+    "poster_path": "/v2W5NEz0p9jPFzbbYt0dP86gsOX.jpg",
+    "release_date": "2010-10-29",
+    "title": "Troll Hunter",
+    "video": false,
+    "vote_average": 6.694,
+    "vote_count": 1640,
+    "belongs_to_collection": null,
+    "budget": 3500000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1740707",
+    "origin_country": [
+      "NO"
+    ],
+    "production_companies": [
+      {
+        "id": 1003,
+        "logo_path": null,
+        "name": "Filmkameratene",
+        "origin_country": "NO"
+      },
+      {
+        "id": 5241,
+        "logo_path": null,
+        "name": "FilmFondet Fuzz",
+        "origin_country": "NO"
+      },
+      {
+        "id": 2888,
+        "logo_path": null,
+        "name": "SF Norge",
+        "origin_country": "NO"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NO",
+        "name": "Norway"
+      }
+    ],
+    "revenue": 4159678,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Norwegian",
+        "iso_639_1": "no",
+        "name": "Norsk"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Lo creerás cuando lo veas.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ocOWbTzHcJVTw9Tz173KPeskDOP.jpg",
+    "genre_ids": [
+      10751,
+      14,
+      12
+    ],
+    "id": 12155,
+    "original_language": "en",
+    "original_title": "Alice in Wonderland",
+    "overview": "Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.",
+    "popularity": 12.0282,
+    "poster_path": "/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg",
+    "release_date": "2010-03-03",
+    "title": "Alice in Wonderland",
+    "video": false,
+    "vote_average": 6.635,
+    "vote_count": 14322,
+    "belongs_to_collection": {
+      "id": 261307,
+      "name": "Alicia en el País de las Maravillas - Colección",
+      "poster_path": "/lm9OIPb6jgNC3odr28WZSidO9k3.jpg",
+      "backdrop_path": "/y8Rmadbft60Cupx6SmSvy8rHENH.jpg"
+    },
+    "budget": 200000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1014759",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 16314,
+        "logo_path": "/17ybtw4lx2cub7te99mZjoQCmGj.png",
+        "name": "Roth Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 598,
+        "logo_path": null,
+        "name": "Team Todd",
+        "origin_country": "US"
+      },
+      {
+        "id": 8601,
+        "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+        "name": "Tim Burton Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 80,
+        "logo_path": "/i6B0AIrUESLt5Fm6MOPXmuPhsvA.png",
+        "name": "The Zanuck Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 1025467110,
+    "runtime": 108,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Descubrirás un mundo mágico.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/3GrCggVsUD3DT6UyyuB5Xdx3Sma.jpg",
+    "genre_ids": [
+      18,
+      53,
+      9648
+    ],
+    "id": 26388,
+    "original_language": "en",
+    "original_title": "Buried",
+    "overview": "Paul is a U.S. truck driver working in Iraq. After an attack by a group of Iraqis he wakes to find he is buried alive inside a coffin. With only a lighter and a cell phone it's a race against time to escape this claustrophobic death trap.",
+    "popularity": 2.1239,
+    "poster_path": "/splPNB0vAoNlb8l5WYxz2E3FK2G.jpg",
+    "release_date": "2010-09-24",
+    "title": "Buried",
+    "video": false,
+    "vote_average": 6.63,
+    "vote_count": 2889,
+    "belongs_to_collection": null,
+    "budget": 1987650,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1462758",
+    "origin_country": [
+      "ES"
+    ],
+    "production_companies": [
+      {
+        "id": 11564,
+        "logo_path": null,
+        "name": "Versus Entertainment",
+        "origin_country": "ES"
+      },
+      {
+        "id": 11565,
+        "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+        "name": "The Safran Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 11566,
+        "logo_path": null,
+        "name": "Dark Trick Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 2577,
+        "logo_path": "/QZ4zbeJ0sULzGNJvfukrzgx4d8.png",
+        "name": "Studio 37",
+        "origin_country": "FR"
+      },
+      {
+        "id": 29566,
+        "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+        "name": "Atresmedia",
+        "origin_country": "ES"
+      },
+      {
+        "id": 9335,
+        "logo_path": null,
+        "name": "Canal+ España",
+        "origin_country": "ES"
+      },
+      {
+        "id": 18626,
+        "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
+        "name": "Kinology",
+        "origin_country": "FR"
+      },
+      {
+        "id": 29259,
+        "logo_path": null,
+        "name": "ICO",
+        "origin_country": "ES"
+      },
+      {
+        "id": 152,
+        "logo_path": "/rC2pFo4IBQVSVZvucDLwMRvZHfi.png",
+        "name": "Icon Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 19152480,
+    "runtime": 95,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El tiempo se agota para Paul Conroy.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fZFSvqWsN8bQiwVmJmcgeoL9awe.jpg",
+    "genre_ids": [
+      28,
+      12,
+      18,
+      10751
+    ],
+    "id": 38575,
+    "original_language": "en",
+    "original_title": "The Karate Kid",
+    "overview": "12-year-old Dre Parker could've been the most popular kid in Detroit, but his mother's latest career move has landed him in China. Dre immediately falls for his classmate Mei Ying but the cultural differences make such a friendship impossible. Even worse, Dre's feelings make him an enemy of the class bully, Cheng. With no friends in a strange land, Dre has nowhere to turn but maintenance man Mr. Han, who is a kung fu master. As Han teaches Dre that kung fu is not about punches and parries, but maturity and calm, Dre realizes that facing down the bullies will be the fight of his life.",
+    "popularity": 11.8761,
+    "poster_path": "/b1RBy3l297N0c7PHjlz35cClWju.jpg",
+    "release_date": "2010-06-10",
+    "title": "The Karate Kid",
+    "video": false,
+    "vote_average": 6.56,
+    "vote_count": 6264,
+    "belongs_to_collection": {
+      "id": 8580,
+      "name": "Karate Kid - Colección",
+      "poster_path": "/zymeg72VtbAeFdMzr2f1MfumH9X.jpg",
+      "backdrop_path": "/vG9eCvIfSoucQZ9EFEOrSXhesws.jpg"
+    },
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1155076",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2596,
+        "logo_path": "/755EAcJW7MqKFpCPgbWicsb2QV6.png",
+        "name": "Jerry Weintraub Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 907,
+        "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+        "name": "Overbrook Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 14714,
+        "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+        "name": "China Film Group Corporation",
+        "origin_country": "CN"
+      },
+      {
+        "id": 122289,
+        "logo_path": "/4l16C8j9h4frZO5iPD71lpLqTH3.png",
+        "name": "Emperor Motion Pictures",
+        "origin_country": "HK"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CN",
+        "name": "China"
+      },
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 359126022,
+    "runtime": 140,
+    "spoken_languages": [
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Un desafío que nunca imaginó. Un maestro que nunca esperó.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7o07Xkj2T19e9ken5IjAv1GNmBK.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 20526,
+    "original_language": "en",
+    "original_title": "TRON: Legacy",
+    "overview": "Sam Flynn, the tech-savvy and daring son of Kevin Flynn, investigates his father's disappearance and is pulled into The Grid. With the help of a mysterious program named Quorra, Sam quests to stop evil dictator Clu from crossing into the real world.",
+    "popularity": 8.9552,
+    "poster_path": "/vuifSABRpSnxCAOxEnWpNbZSXpp.jpg",
+    "release_date": "2010-12-14",
+    "title": "TRON: Legacy",
+    "video": false,
+    "vote_average": 6.506,
+    "vote_count": 7385,
+    "belongs_to_collection": {
+      "id": 63043,
+      "name": "TRON - Colección",
+      "poster_path": "/4EN5AO0Xv4jp31497tlrm7f6sAq.jpg",
+      "backdrop_path": "/x2G00OWzUAYwus1FgpeYZM9CZP9.jpg"
+    },
+    "budget": 170000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1104001",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 23791,
+        "logo_path": null,
+        "name": "Sean Bailey Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 409912892,
+    "runtime": 125,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El juego ha cambiado.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oc3be3waruLd0PB9h4bomN7Le3v.jpg",
+    "genre_ids": [
+      12,
+      10751,
+      14
+    ],
+    "id": 10140,
+    "original_language": "en",
+    "original_title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "overview": "This time around Edmund and Lucy Pevensie, along with their pesky cousin Eustace Scrubb find themselves swallowed into a painting and on to a fantastic Narnian ship headed for the very edges of the world.",
+    "popularity": 6.59,
+    "poster_path": "/pP27zlm9yeKrCeDZLFLP2HKELot.jpg",
+    "release_date": "2010-12-02",
+    "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 5696,
+    "belongs_to_collection": {
+      "id": 420,
+      "name": "Las crónicas de Narnia - Colección",
+      "poster_path": "/fJ3b943uYNcxPNhiZqrCmygejUs.jpg",
+      "backdrop_path": "/ojjzZUQlqKTsN1T7s5OAVZSjYMH.jpg"
+    },
+    "budget": 155000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0980970",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 711,
+        "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+        "name": "Fox 2000 Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10221,
+        "logo_path": "/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+        "name": "Walden Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 79503,
+        "logo_path": null,
+        "name": "C.S. Lewis Company",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 415686217,
+    "runtime": 115,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Emprende el viaje. Vive la aventura. Descubre Narnia como nunca antes la habías visto.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/75S1XsekIPF7c99g5cby0DeorPz.jpg",
+    "genre_ids": [
+      28,
+      9648,
+      53
+    ],
+    "id": 27576,
+    "original_language": "en",
+    "original_title": "Salt",
+    "overview": "As a CIA officer, Evelyn Salt swore an oath to duty, honor and country. Her loyalty will be tested when a Russian defector accuses her of being a Russian sleeper spy. She goes on the run, using all her skills and years of experience as a covert operative to elude capture, protect her husband, and stay one step ahead of her colleagues at the CIA. Her efforts to prove her innocence only serve to cast doubt on her motives, as the hunt to uncover the truth behind her identity continues and the question remains: \"Who is Salt?\"",
+    "popularity": 5.83,
+    "poster_path": "/ppXyhOe8UCEOrBRSYqE3SkHwrcR.jpg",
+    "release_date": "2010-07-21",
+    "title": "Salt",
+    "video": false,
+    "vote_average": 6.413,
+    "vote_count": 5650,
+    "belongs_to_collection": null,
+    "budget": 110000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0944835",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 11845,
+        "logo_path": null,
+        "name": "Wintergreen Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7295,
+        "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+        "name": "Relativity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 435,
+        "logo_path": "/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png",
+        "name": "di Bonaventura Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 293329073,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      },
+      {
+        "english_name": "Korean",
+        "iso_639_1": "ko",
+        "name": "한국어/조선말"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kARonxQpuSZdFraTKlCThWOBCtu.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 38365,
+    "original_language": "en",
+    "original_title": "Grown Ups",
+    "overview": "After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.",
+    "popularity": 20.6265,
+    "poster_path": "/ys0LscDFAuZxfUcpH5moiPeFfXs.jpg",
+    "release_date": "2010-06-24",
+    "title": "Grown Ups",
+    "video": false,
+    "vote_average": 6.4,
+    "vote_count": 6358,
+    "belongs_to_collection": {
+      "id": 180546,
+      "name": "Son como niños - Colección",
+      "poster_path": "/tGLlcpz4MdD4pWdND3Um7p3OZee.jpg",
+      "backdrop_path": "/ahlmYgIHI6oye76bgoUtC01mcrC.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1375670",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7295,
+        "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+        "name": "Relativity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 878,
+        "logo_path": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+        "name": "Happy Madison Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 271430189,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Son Como Niños",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ttSqbpXPTBITtX9ijGmyYv58Kno.jpg",
+    "genre_ids": [
+      28,
+      12,
+      36
+    ],
+    "id": 20662,
+    "original_language": "en",
+    "original_title": "Robin Hood",
+    "overview": "When soldier Robin happens upon the dying Robert of Loxley, he promises to return the man's sword to his family in Nottingham. There, he assumes Robert's identity; romances his widow, Marion; and draws the ire of the town's sheriff and King John's henchman, Godfrey.",
+    "popularity": 3.9947,
+    "poster_path": "/9NS5QGOfck24yL3bZqWeW06PgPC.jpg",
+    "release_date": "2010-05-12",
+    "title": "Robin Hood",
+    "video": false,
+    "vote_average": 6.397,
+    "vote_count": 4772,
+    "belongs_to_collection": null,
+    "budget": 200000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0955308",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "production_companies": [
+      {
+        "id": 23,
+        "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+        "name": "Imagine Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7295,
+        "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+        "name": "Relativity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 221347,
+        "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+        "name": "Scott Free Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 321669741,
+    "runtime": 140,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Ukrainian",
+        "iso_639_1": "uk",
+        "name": "Український"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Levántate una y otra vez, hasta que las ovejas se conviertan en leones.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gVl6aX2paJIHpMxAAe8X36VNExi.jpg",
+    "genre_ids": [
+      35,
+      12,
+      14,
+      16,
+      10751
+    ],
+    "id": 10192,
+    "original_language": "en",
+    "original_title": "Shrek Forever After",
+    "overview": "A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away—where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met—he sets out to restore his world and reclaim his true love.",
+    "popularity": 10.6524,
+    "poster_path": "/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
+    "release_date": "2010-05-20",
+    "title": "Shrek Forever After",
+    "video": false,
+    "vote_average": 6.385,
+    "vote_count": 7604,
+    "belongs_to_collection": {
+      "id": 2150,
+      "name": "Shrek - Colección",
+      "poster_path": "/kbZ0L9Jx44ObEltogQ6gkLo7dFL.jpg",
+      "backdrop_path": "/lhsd1zCsq5UquvcNalmhuddV3tI.jpg"
+    },
+    "budget": 165000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0892791",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 752600867,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El capítulo final.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8srpvfRNT9qenQZACPTXDZYXitL.jpg",
+    "genre_ids": [
+      80,
+      18,
+      9648,
+      53
+    ],
+    "id": 12201,
+    "original_language": "en",
+    "original_title": "Edge of Darkness",
+    "overview": "As a seasoned homicide detective, Thomas Craven has seen the bleakest side of humanity. But nothing prepares him for the toughest investigation of his life: the search for his only daughter Emma's killer. Now, he is on a personal mission to uncover the disturbing secrets surrounding her murder, including corporate corruption, government collusion and Emma's own mysterious life.",
+    "popularity": 2.0944,
+    "poster_path": "/pvHjp1vEFmp5FquSCPQ2O95tIZJ.jpg",
+    "release_date": "2010-01-28",
+    "title": "Edge of Darkness",
+    "video": false,
+    "vote_average": 6.364,
+    "vote_count": 1582,
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1226273",
+    "origin_country": [
+      "GB",
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 152,
+        "logo_path": "/rC2pFo4IBQVSVZvucDLwMRvZHfi.png",
+        "name": "Icon Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 3281,
+        "logo_path": "/pfmb82VUfN9VKB1YuBSY69WVNVm.png",
+        "name": "GK Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 288,
+        "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+        "name": "BBC Film",
+        "origin_country": "GB"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 81126522,
+    "runtime": 117,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6sZAhoIrcoM6g372S15Idcja0Hv.jpg",
+    "genre_ids": [
+      12,
+      14,
+      28
+    ],
+    "id": 9543,
+    "original_language": "en",
+    "original_title": "Prince of Persia: The Sands of Time",
+    "overview": "A rogue prince reluctantly joins forces with a mysterious princess and together, they race against dark forces to safeguard an ancient dagger capable of releasing the Sands of Time – gift from the gods that can reverse time and allow its possessor to rule the world.",
+    "popularity": 4.523,
+    "poster_path": "/2Djvd493RnkiPmMRdHGTFgCGdVH.jpg",
+    "release_date": "2010-05-19",
+    "title": "Prince of Persia: The Sands of Time",
+    "video": false,
+    "vote_average": 6.288,
+    "vote_count": 6893,
+    "belongs_to_collection": null,
+    "budget": 200000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0473075",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 130,
+        "logo_path": "/c9dVHPOL3cqCr2593Ahk0nEKTEM.png",
+        "name": "Jerry Bruckheimer Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 336365676,
+    "runtime": 116,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sJpbDELfC8VjlRBOOkMJxxWpUg7.jpg",
+    "genre_ids": [
+      53,
+      12,
+      28
+    ],
+    "id": 27578,
+    "original_language": "en",
+    "original_title": "The Expendables",
+    "overview": "Barney Ross leads a band of highly skilled mercenaries including knife enthusiast Lee Christmas, a martial arts expert Yin Yang, heavy weapons specialist Hale Caesar, demolitionist Toll Road, and a loose-cannon sniper Gunner Jensen. When the group is commissioned by the mysterious Mr. Church to assassinate the dictator of a small South American island, Barney and Lee visit the remote locale to scout out their opposition and discover the true nature of the conflict engulfing the city.",
+    "popularity": 7.105,
+    "poster_path": "/j09ZkH6R4JWVylBcDai1laCmGw7.jpg",
+    "release_date": "2010-08-07",
+    "title": "The Expendables",
+    "video": false,
+    "vote_average": 6.248,
+    "vote_count": 7966,
+    "belongs_to_collection": {
+      "id": 126125,
+      "name": "Los Indestructibles - Colección",
+      "poster_path": "/b8jx5yZmB9VOSCdsd4YMXQAYaRF.jpg",
+      "backdrop_path": "/bNMIrbzIIkGfkdNbMrCUuVYZGNp.jpg"
+    },
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1320253",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7636,
+        "logo_path": "/e6uCvCNTf0nnery1iaQh6QSgpbn.png",
+        "name": "Nimar Studios",
+        "origin_country": "BG"
+      },
+      {
+        "id": 696,
+        "logo_path": null,
+        "name": "Rogue Marble",
+        "origin_country": ""
+      },
+      {
+        "id": 1020,
+        "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+        "name": "Millennium Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 263345,
+        "logo_path": null,
+        "name": "Nu Image Entertainment",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "BG",
+        "name": "Bulgaria"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "revenue": 274470394,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Elige tu arma.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/gh3uqEZQp4nhkyJqkGUJSgGr6AJ.jpg",
+    "genre_ids": [
+      35,
+      10749,
+      18
+    ],
+    "id": 41210,
+    "original_language": "en",
+    "original_title": "The Switch",
+    "overview": "Kassie is a smart, fun-loving single woman who, despite her neurotic best friend Wally’s objections, decides it’s time to have a baby – even if it means doing it herself… with a little help from a charming sperm donor. But, unbeknownst to her, Kassie’s plans go awry because of a last-minute switch that isn’t discovered until seven years later… when Wally gets acquainted with Kassie’s cute, though slightly neurotic, son.",
+    "popularity": 2.1551,
+    "poster_path": "/oJdMT6RGtbvQ26Tk7EHGfG8xZ6.jpg",
+    "release_date": "2010-05-11",
+    "title": "The Switch",
+    "video": false,
+    "vote_average": 6.235,
+    "vote_count": 1938,
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0889573",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 771,
+        "logo_path": "/fQpEeXgCVsXQkVVFMMjrrkOFja3.png",
+        "name": "Mandate Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7382,
+        "logo_path": "/vW2v0PPCDsp3qbB7aXRVavhxmu6.png",
+        "name": "Echo Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 14,
+        "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+        "name": "Miramax",
+        "origin_country": "US"
+      },
+      {
+        "id": 715,
+        "logo_path": "/yDo2dtvQ45dtZb1r2lhIwufz42s.png",
+        "name": "Bona Fide Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 49830607,
+    "runtime": 101,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mJcHh2YnqtqgStTMYqHbIX2O4Tj.jpg",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "id": 37834,
+    "original_language": "en",
+    "original_title": "Knight and Day",
+    "overview": "A fugitive couple goes on a glamorous and sometimes deadly adventure where nothing and no one – even themselves – are what they seem. Amid shifting alliances and unexpected betrayals, they race across the globe, with their survival ultimately hinging on the battle of truth vs. trust.",
+    "popularity": 4.1992,
+    "poster_path": "/phhp52CZZJiGYmiOTp9ZBDkGHB3.jpg",
+    "release_date": "2010-06-15",
+    "title": "Knight and Day",
+    "video": false,
+    "vote_average": 6.223,
+    "vote_count": 4657,
+    "belongs_to_collection": null,
+    "budget": 117000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1013743",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 21845,
+        "logo_path": null,
+        "name": "Pink Machine",
+        "origin_country": ""
+      },
+      {
+        "id": 84,
+        "logo_path": null,
+        "name": "Tree Line Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 444,
+        "logo_path": null,
+        "name": "Dune Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 508,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 261989769,
+    "runtime": 109,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/oguoQWtQJcqIkmmUNbe3CmLx6AP.jpg",
+    "genre_ids": [
+      12,
+      14,
+      18,
+      10749
+    ],
+    "id": 24021,
+    "original_language": "en",
+    "original_title": "The Twilight Saga: Eclipse",
+    "overview": "Bella once again finds herself surrounded by danger as Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge. In the midst of it all, she is forced to choose between her love for Edward and her friendship with Jacob, knowing that her decision has the potential to ignite the ageless struggle between vampire and werewolf. With her graduation quickly approaching, Bella is confronted with the most important decision of her life.",
+    "popularity": 10.4577,
+    "poster_path": "/3mFM80dPzSqoXXuC2UMvLIRWX32.jpg",
+    "release_date": "2010-06-23",
+    "title": "The Twilight Saga: Eclipse",
+    "video": false,
+    "vote_average": 6.2,
+    "vote_count": 8946,
+    "belongs_to_collection": {
+      "id": 33514,
+      "name": "Crepúsculo - Colección",
+      "poster_path": "/g3xh0HrMOxyisn7lPToIikl0O6p.jpg",
+      "backdrop_path": "/3be0BffeZTyMbj4Ndzo6Y877SBQ.jpg"
+    },
+    "budget": 68000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1325004",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 491,
+        "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+        "name": "Summit Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 12292,
+        "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+        "name": "Temple Hill Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 5218,
+        "logo_path": "/dhb42ugM9DzSpDctTWCtABPVOW4.png",
+        "name": "Imprint Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 4000,
+        "logo_path": null,
+        "name": "Maverick Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 5219,
+        "logo_path": null,
+        "name": "Sunswept Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 698491347,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Todo inicia con una decisión.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lalUb4dtLbUhSOUxz4OfS8NRheW.jpg",
+    "genre_ids": [
+      28,
+      12,
+      27,
+      878
+    ],
+    "id": 35791,
+    "original_language": "en",
+    "original_title": "Resident Evil: Afterlife",
+    "overview": "In a world ravaged by a virus infection, turning its victims into the Undead, Alice continues on her journey to find survivors and lead them to safety. Her deadly battle with the Umbrella Corporation reaches new heights, but Alice gets some unexpected help from an old friend. A new lead that promises a safe haven from the Undead takes them to Los Angeles, but when they arrive the city is overrun by thousands of Undead - and Alice and her comrades are about to step into a deadly trap.",
+    "popularity": 0.2403,
+    "poster_path": "/xaEHOuIkoTzHQIiex0Ys306Ky05.jpg",
+    "release_date": "2010-09-09",
+    "title": "Resident Evil: Afterlife",
+    "video": false,
+    "vote_average": 6.065,
+    "vote_count": 3986,
+    "belongs_to_collection": {
+      "id": 17255,
+      "name": "Resident Evil - Colección",
+      "poster_path": "/2rOr1CPnC5fuTbVIKH0UkqJJjjw.jpg",
+      "backdrop_path": "/zwSs7PYLAH684qXjducR5TzVOdi.jpg"
+    },
+    "budget": 60000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1220634",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3287,
+        "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+        "name": "Screen Gems",
+        "origin_country": "US"
+      },
+      {
+        "id": 47,
+        "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+        "name": "Constantin Film",
+        "origin_country": "DE"
+      },
+      {
+        "id": 12163,
+        "logo_path": null,
+        "name": "Davis Films/Impact Pictures",
+        "origin_country": "CA"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 300228084,
+    "runtime": 97,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ella ha vuelto ... Y traerá a algunos de sus amigos.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8kJflsQ4SU9CJQFnht9mpXDW2cF.jpg",
+    "genre_ids": [
+      27,
+      28,
+      14
+    ],
+    "id": 22894,
+    "original_language": "en",
+    "original_title": "Legion",
+    "overview": "When God loses faith in humankind, he sends his legion of angels to bring on the Apocalypse. Humanity's only hope for survival lies in a group of strangers trapped in an out-of-the-way, desert diner with the Archangel Michael.",
+    "popularity": 5.0752,
+    "poster_path": "/ykocDqwg5PRUopnBVb1x1DWnEJF.jpg",
+    "release_date": "2010-01-21",
+    "title": "Legion",
+    "video": false,
+    "vote_average": 5.894,
+    "vote_count": 2712,
+    "belongs_to_collection": null,
+    "budget": 26000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1038686",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 3287,
+        "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+        "name": "Screen Gems",
+        "origin_country": "US"
+      },
+      {
+        "id": 2266,
+        "logo_path": "/owzVs2mguyyJ3vIn7EbgowpUPnk.png",
+        "name": "Bold Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 67900000,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Cuando el último Ángel cae, comienza la lucha por la humanidad.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/qZLt4AGkd7mtM6IvO9noYm0rnio.jpg",
+    "genre_ids": [
+      27,
+      878
+    ],
+    "id": 37707,
+    "original_language": "en",
+    "original_title": "Splice",
+    "overview": "Elsa and Clive, two young rebellious scientists, defy legal and ethical boundaries and forge ahead with a dangerous experiment: splicing together human and animal DNA to create a new organism. Named \"Dren\", the creature rapidly develops from a deformed female infant into a beautiful but dangerous winged human-chimera, who forges a bond with both of her creators - only to have that bond turn deadly.",
+    "popularity": 3.5251,
+    "poster_path": "/4oqaWnO3dKYAt3vZWAD4oLfOXOC.jpg",
+    "release_date": "2010-06-03",
+    "title": "Splice",
+    "video": false,
+    "vote_average": 5.869,
+    "vote_count": 2323,
+    "belongs_to_collection": null,
+    "budget": 26000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1017460",
+    "origin_country": [
+      "CA"
+    ],
+    "production_companies": [
+      {
+        "id": 5106,
+        "logo_path": "/UjER6i4eM9WuBCVxSSWFtMrsuT.png",
+        "name": "Copperheart Entertainment",
+        "origin_country": "CA"
+      },
+      {
+        "id": 9,
+        "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+        "name": "Gaumont",
+        "origin_country": "FR"
+      },
+      {
+        "id": 191,
+        "logo_path": "/5Cz9SVf733VhCvKpaivl1jlAXAK.png",
+        "name": "Senator Film",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      }
+    ],
+    "revenue": 0,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bvlZkXeaR3qhB4fmbUHuYGdooRj.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 38778,
+    "original_language": "en",
+    "original_title": "Dinner for Schmucks",
+    "overview": "Rising executive Tim Conrad works for a boss who hosts a monthly dinner in which the guest who brings the biggest buffoon gets a career-boost. Tim plans on not attending until he meets Barry, a man who builds dioramas using stuffed mice. Barry's blundering but good intentions send Tim's life into a downward spiral, threatening a major business deal and possibly scuttling Tim's engagement to his fiancee.",
+    "popularity": 1.87,
+    "poster_path": "/djwkUFhkM81gIsI9ZZ7I6ajZAKY.jpg",
+    "release_date": "2010-07-30",
+    "title": "Dinner for Schmucks",
+    "video": false,
+    "vote_average": 5.716,
+    "vote_count": 1838,
+    "belongs_to_collection": null,
+    "budget": 69000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0427152",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 158,
+        "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+        "name": "Spyglass Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7294,
+        "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+        "name": "Reliance Entertainment",
+        "origin_country": "IN"
+      },
+      {
+        "id": 49325,
+        "logo_path": "/R05WCoCJcPWGSDaKaYgx3AeVuR.png",
+        "name": "Parkes+MacDonald Image Nation",
+        "origin_country": "US"
+      },
+      {
+        "id": 2242,
+        "logo_path": null,
+        "name": "Everyman Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "IN",
+        "name": "India"
+      }
+    ],
+    "revenue": 86387857,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uR8JBSxkctCr4LofMGoeri4oljj.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      35,
+      14,
+      28
+    ],
+    "id": 39691,
+    "original_language": "en",
+    "original_title": "Cats & Dogs: The Revenge of Kitty Galore",
+    "overview": "The ongoing war between the canine and feline species is put on hold when they join forces to thwart a rogue cat spy with her own sinister plans for conquest.",
+    "popularity": 1.8365,
+    "poster_path": "/nTsZT66I4U3aS9ezLdOKacfvo8T.jpg",
+    "release_date": "2010-07-29",
+    "title": "Cats & Dogs: The Revenge of Kitty Galore",
+    "video": false,
+    "vote_average": 5.184,
+    "vote_count": 656,
+    "belongs_to_collection": {
+      "id": 87014,
+      "name": "Como perros y gatos - Colección",
+      "poster_path": "/imCBLUveWRcKbfdTndFoikHPNdn.jpg",
+      "backdrop_path": "/bYM1XFABSpy0QtAEzr7dks8QRWY.jpg"
+    },
+    "budget": 85000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1287468",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 102301,
+        "logo_path": null,
+        "name": "Polymorphic Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 1757,
+        "logo_path": "/fc9qw5GoTbyWGa0QcfbsZFzuMKQ.png",
+        "name": "Mad Chance",
+        "origin_country": "US"
+      },
+      {
+        "id": 102302,
+        "logo_path": null,
+        "name": "CD2 Films",
+        "origin_country": ""
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 112483764,
+    "runtime": 82,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/22RHzAdZDXukBBFewCOT099jZWL.jpg",
+    "genre_ids": [
+      878,
+      28,
+      53
+    ],
+    "id": 42684,
+    "original_language": "en",
+    "original_title": "Skyline",
+    "overview": "When strange lights descend on the city of Los Angeles, people are drawn outside like moths to a flame where an extraterrestrial force threatens to swallow the entire human population off the face of the Earth. Now the band of survivors must fight for their lives as the world unravels around them.",
+    "popularity": 2.8532,
+    "poster_path": "/7pdUFPw76zGwDKbNpXxJknh0YWB.jpg",
+    "release_date": "2010-11-11",
+    "title": "Skyline",
+    "video": false,
+    "vote_average": 5.018,
+    "vote_count": 1668,
+    "belongs_to_collection": {
+      "id": 484312,
+      "name": "Skyline - Colección",
+      "poster_path": "/oQGSzRmsjawPgbkerZtQIetmUIi.jpg",
+      "backdrop_path": "/b2JplRt6qfZKkupnoxl57n3r46y.jpg"
+    },
+    "budget": 10500000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt1564585",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12007,
+        "logo_path": null,
+        "name": "RAT Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 134,
+        "logo_path": "/2uKAP9aAAhVMpfSqa4wtlIHod5g.png",
+        "name": "Rogue Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10936,
+        "logo_path": null,
+        "name": "Hydraulx",
+        "origin_country": ""
+      },
+      {
+        "id": 12158,
+        "logo_path": null,
+        "name": "Transmission Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 7295,
+        "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+        "name": "Relativity Media",
+        "origin_country": "US"
+      },
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 7437,
+        "logo_path": "/e5CcgFrdlxMUwlsS72si8q1yHBr.png",
+        "name": "IM Global",
+        "origin_country": "US"
+      },
+      {
+        "id": 92782,
+        "logo_path": null,
+        "name": "Trimuse Entertainment Inc.",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 66984887,
+    "runtime": 92,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

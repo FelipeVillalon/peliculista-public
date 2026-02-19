@@ -1,0 +1,717 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/3Nn5BOM1EVw1IYrv6MsbOS6N1Ol.jpg",
+    "genre_ids": [
+      14,
+      18,
+      10749
+    ],
+    "id": 162,
+    "original_language": "en",
+    "original_title": "Edward Scissorhands",
+    "overview": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+    "popularity": 7.9244,
+    "poster_path": "/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg",
+    "release_date": "1990-12-07",
+    "title": "Edward Scissorhands",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 13251,
+    "belongs_to_collection": null,
+    "budget": 20000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0099487",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 8601,
+        "logo_path": "/kqubCH3sfBAk4znUj7hjqv8ffgi.png",
+        "name": "Tim Burton Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 86024005,
+    "runtime": 105,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+    "genre_ids": [
+      12,
+      35,
+      878
+    ],
+    "id": 196,
+    "original_language": "en",
+    "original_title": "Back to the Future Part III",
+    "overview": "The final installment finds Marty digging the trusty DeLorean out of a mineshaft and looking for Doc in the Wild West of 1885. But when their time machine breaks down, the travelers are stranded in a land of spurs. More problems arise when Doc falls for pretty schoolteacher Clara Clayton, and Marty tangles with Buford Tannen.",
+    "popularity": 6.1784,
+    "poster_path": "/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+    "release_date": "1990-05-25",
+    "title": "Back to the Future Part III",
+    "video": false,
+    "vote_average": 7.49,
+    "vote_count": 10969,
+    "belongs_to_collection": {
+      "id": 264,
+      "name": "Volver al Futuro - Colección",
+      "poster_path": "/rX5M1zsxtmysqPzXBmWTJRi4DNI.jpg",
+      "backdrop_path": "/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg"
+    },
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0099088",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 244527583,
+    "runtime": 119,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ha dejado el mejor viaje para el final... Pero puede que esta vez hayan ido demasiado lejos.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/vaVaNrscmsG8CUKYxiwZGFNqGJo.jpg",
+    "genre_ids": [
+      35,
+      10751
+    ],
+    "id": 771,
+    "original_language": "en",
+    "original_title": "Home Alone",
+    "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
+    "popularity": 0.5711,
+    "poster_path": "/i5We88HdO9Nsrv8xLyo4toNsLUM.jpg",
+    "release_date": "1990-11-16",
+    "title": "Home Alone",
+    "video": false,
+    "vote_average": 7.447,
+    "vote_count": 11777,
+    "belongs_to_collection": {
+      "id": 9888,
+      "name": "Mi pobre angelito - Colección",
+      "poster_path": "/pSNeHztDcCsUlDprFAdhCDFPcCl.jpg",
+      "backdrop_path": "/tpmfRWL1ecFxFOOeqvp6hDf41ac.jpg"
+    },
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0099785",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 477,
+        "logo_path": "/4wfCdggcE3ZG26uJpnAvyI0vEeL.png",
+        "name": "Hughes Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 476684675,
+    "runtime": 103,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Una comedia familiar sin la familia.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/zNnjHLDtV8Ti3aworltaeaLMov4.jpg",
+    "genre_ids": [
+      80,
+      18,
+      53
+    ],
+    "id": 242,
+    "original_language": "en",
+    "original_title": "The Godfather Part III",
+    "overview": "In the midst of trying to legitimize his business dealings in 1979 New York and Italy, aging mafia don, Michael Corleone seeks forgiveness for his sins while taking a young protege under his wing.",
+    "popularity": 8.0439,
+    "poster_path": "/lm3pQ2QoQ16pextRsmnUbG2onES.jpg",
+    "release_date": "1990-12-25",
+    "title": "The Godfather Part III",
+    "video": false,
+    "vote_average": 7.418,
+    "vote_count": 6461,
+    "belongs_to_collection": {
+      "id": 230,
+      "name": "El padrino - Colección",
+      "poster_path": "/1eXdkw2e5flhOZfphUe8XByVacz.jpg",
+      "backdrop_path": "/mDMCET9Ens5ANvZAWRpluBsMAtS.jpg"
+    },
+    "budget": 54000000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0099674",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 70,
+        "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+        "name": "American Zoetrope",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 136766062,
+    "runtime": 162,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Italian",
+        "iso_639_1": "it",
+        "name": "Italiano"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sGEqHTylawwS6hwKultk1mKUjdB.jpg",
+    "genre_ids": [
+      10749,
+      35
+    ],
+    "id": 114,
+    "original_language": "en",
+    "original_title": "Pretty Woman",
+    "overview": "While on a business trip in Los Angeles, Edward Lewis, a millionaire entrepreneur who makes a living buying and breaking up companies, picks up a prostitute, Vivian, while asking for directions; after, Edward hires Vivian to stay with him for the weekend to accompany him to a few social events, and the two get closer only to discover there are significant hurdles to overcome as they try to bridge the gap between their very different worlds.",
+    "popularity": 7.032,
+    "poster_path": "/hVHUfT801LQATGd26VPzhorIYza.jpg",
+    "release_date": "1990-03-23",
+    "title": "Pretty Woman",
+    "video": false,
+    "vote_average": 7.462,
+    "vote_count": 8584,
+    "belongs_to_collection": null,
+    "budget": 14000000,
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0100405",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 9195,
+        "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+        "name": "Touchstone Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10282,
+        "logo_path": null,
+        "name": "Silver Screen Partners IV",
+        "origin_country": "US"
+      },
+      {
+        "id": 508,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 25087,
+        "logo_path": null,
+        "name": "Arnon Milchan Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 463406268,
+    "runtime": 119,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Salió de la calle, entró en su vida y robó su corazón.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/e9zfOyNd3YaViIGadiqWg9x8pAq.jpg",
+    "genre_ids": [
+      28,
+      12,
+      878
+    ],
+    "id": 861,
+    "original_language": "en",
+    "original_title": "Total Recall",
+    "overview": "Construction worker Douglas Quaid's obsession with the planet Mars leads him to visit Recall, a company that manufactures memories. When his memory implant goes wrong, Doug can no longer be sure what is and isn't reality.",
+    "popularity": 5.2689,
+    "poster_path": "/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+    "release_date": "1990-06-01",
+    "title": "Total Recall",
+    "video": false,
+    "vote_average": 7.309,
+    "vote_count": 6051,
+    "belongs_to_collection": null,
+    "budget": 65000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0100802",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 275,
+        "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+        "name": "Carolco Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 26265,
+        "logo_path": null,
+        "name": "Ronald Shusett/Gary Goldman Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 261317921,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+    "genre_ids": [
+      14,
+      18,
+      53,
+      9648,
+      10749
+    ],
+    "id": 251,
+    "original_language": "en",
+    "original_title": "Ghost",
+    "overview": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+    "popularity": 5.8785,
+    "poster_path": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+    "release_date": "1990-07-13",
+    "title": "Ghost",
+    "video": false,
+    "vote_average": 7.227,
+    "vote_count": 5743,
+    "belongs_to_collection": null,
+    "budget": 22000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0099653",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 72275,
+        "logo_path": null,
+        "name": "Howard W. Koch Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 505000000,
+    "runtime": 126,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Un amor que durará para siempre.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+    "genre_ids": [
+      28,
+      53
+    ],
+    "id": 1573,
+    "original_language": "en",
+    "original_title": "Die Hard 2",
+    "overview": "One year after his heroics in Los Angeles, John McClane is an off-duty cop who is the wrong guy in the wrong place at the wrong time. On a snowy Christmas Eve, as he waits for his wife's plane to land at Washington Dulles International Airport, terrorists take over the air traffic control system in a plot to free a South American army general and drug smuggler being flown into the US to face drug charges. It's now up to McClane to take on the terrorists, while coping with an inept airport police chief, an uncooperative anti-terrorist squad, and the life of his wife and everyone else trapped in planes circling overhead.",
+    "popularity": 4.6158,
+    "poster_path": "/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg",
+    "release_date": "1990-07-03",
+    "title": "Die Hard 2",
+    "video": false,
+    "vote_average": 6.955,
+    "vote_count": 6043,
+    "belongs_to_collection": {
+      "id": 1570,
+      "name": "Duro de Matar - Colección",
+      "poster_path": "/As8l0i21dtha874Tr0GYWsSGShW.jpg",
+      "backdrop_path": "/nKShbIW0wJnSbl3t8uPje0QhTb7.jpg"
+    },
+    "budget": 70000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0099423",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1073,
+        "logo_path": null,
+        "name": "Gordon Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 1885,
+        "logo_path": "/xlvoOZr4s1PygosrwZyolIFe5xs.png",
+        "name": "Silver Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 240031094,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jfimbZmqygM83yShL4Ayc7zGgLl.jpg",
+    "genre_ids": [
+      27,
+      53
+    ],
+    "id": 11186,
+    "original_language": "en",
+    "original_title": "Child's Play 2",
+    "overview": "Chucky is reconstructed by a toy factory to dispel the negative publicity surrounding the doll, and tracks young Andy Barclay to a foster home where the chase begins again.",
+    "popularity": 3.9461,
+    "poster_path": "/2tPQbPQeHEYAGoXFSW61IWNmoce.jpg",
+    "release_date": "1990-11-09",
+    "title": "Child's Play 2",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 1910,
+    "belongs_to_collection": {
+      "id": 10455,
+      "name": "Chucky - Colección",
+      "poster_path": "/1xmpwR9ubbzrehbnHtjDtJ55rhd.jpg",
+      "backdrop_path": "/aWLxBxRtQP5a6oKkXqGkGYEPmNX.jpg"
+    },
+    "budget": 13000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0099253",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 11050,
+        "logo_path": null,
+        "name": "David Kirschner Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 35763605,
+    "runtime": 84,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Jack lo siento... ¡Chucky ha vuelto!",
+    "added_date": "2025-09-27"
+  }
+]

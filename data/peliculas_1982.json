@@ -1,0 +1,482 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/npoUm3stzUM2lR46ClLDwBZDaeZ.jpg",
+    "belongs_to_collection": null,
+    "budget": 19000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "id": 262,
+    "imdb_id": "tt0085794",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The King of Comedy",
+    "overview": "Rupert Pupkin es un cómico obsesionado con la fama y convertirse en el mejor en su campo. Un día Rupert conoce a su ídolo, Jerry Langford, y le suplica la oportunidad de aparecer en su show, pero éste se la niega. Sin embargo Pupkin no cejará en su empeño, acosando a Jerry para intentar poder conseguir sus propósitos y, con ayuda de su amiga Masha, usará un método contundente para poder obtener sus minutos de celebridad.",
+    "popularity": 1.9925,
+    "poster_path": "/7z5ni7necxkhE2xEodbYB5IyrIP.jpg",
+    "production_companies": [
+      {
+        "id": 10214,
+        "logo_path": null,
+        "name": "Embassy International Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "1982-12-18",
+    "revenue": 2536000,
+    "runtime": 109,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No es cosa de risa.",
+    "title": "El Rey de la Comedia",
+    "video": false,
+    "vote_average": 7.782,
+    "vote_count": 2416,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+    "genre_ids": [
+      27,
+      9648,
+      878
+    ],
+    "id": 1091,
+    "original_language": "en",
+    "original_title": "The Thing",
+    "overview": "In the winter of 1982, a twelve-man research team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror... and becomes one of them.",
+    "popularity": 7.253,
+    "poster_path": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg",
+    "release_date": "1982-06-25",
+    "title": "The Thing",
+    "video": false,
+    "vote_average": 8.069,
+    "vote_count": 7384,
+    "belongs_to_collection": {
+      "id": 479888,
+      "name": "La cosa - Colección",
+      "poster_path": "/vuCSeoxDHNrsgg0PN9r43AQkLI0.jpg",
+      "backdrop_path": "/lUPruOqjDhZrCKz9Ze2tCufPxHR.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0084787",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 662,
+        "logo_path": null,
+        "name": "The Turman-Foster Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 185644,
+        "logo_path": null,
+        "name": "Province of BC, Ministry of Tourism, Film Promotion Office",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "revenue": 19629760,
+    "runtime": 109,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Norwegian",
+        "iso_639_1": "no",
+        "name": "Norsk"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El hombre es el lugar más cálido para ocultarse.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mXLVA0YL6tcXi6SJSuAh9ONXFj5.jpg",
+    "genre_ids": [
+      878,
+      12,
+      10751,
+      14
+    ],
+    "id": 601,
+    "original_language": "en",
+    "original_title": "E.T. the Extra-Terrestrial",
+    "overview": "An alien is left behind on Earth and saved by the 10-year-old Elliot who decides to keep him hidden in his home. While a task force hunts for the extra-terrestrial, Elliot, his brother, and his little sister Gertie form an emotional bond with their new friend, and try to help him find his way home.",
+    "popularity": 8.1728,
+    "poster_path": "/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg",
+    "release_date": "1982-06-11",
+    "title": "E.T. the Extra-Terrestrial",
+    "video": false,
+    "vote_average": 7.514,
+    "vote_count": 11490,
+    "belongs_to_collection": null,
+    "budget": 10500000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0083866",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 792965500,
+    "runtime": 115,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ellos lo encontraron. Ellos lo protegieron. Ahora él debe regresar a casa.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+    "genre_ids": [
+      28,
+      12,
+      53,
+      10752
+    ],
+    "id": 1368,
+    "original_language": "en",
+    "original_title": "First Blood",
+    "overview": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
+    "popularity": 6.5196,
+    "poster_path": "/a9sa6ERZCpplbPEO7OMWE763CLD.jpg",
+    "release_date": "1982-10-22",
+    "title": "First Blood",
+    "video": false,
+    "vote_average": 7.5,
+    "vote_count": 6524,
+    "belongs_to_collection": {
+      "id": 5039,
+      "name": "Rambo - Colección",
+      "poster_path": "/bAB4f27dtioQokZesx28x1sqmXA.jpg",
+      "backdrop_path": "/ecvVwlK75evrAlsEE96V14KN6MN.jpg"
+    },
+    "budget": 15000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0083944",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 275,
+        "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+        "name": "Carolco Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 52941,
+        "logo_path": null,
+        "name": "Anabasis",
+        "origin_country": "AN"
+      },
+      {
+        "id": 52940,
+        "logo_path": null,
+        "name": "Elcajo Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "AN",
+        "name": "Netherlands Antilles"
+      }
+    ],
+    "revenue": 125212904,
+    "runtime": 93,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/bvkPno6U02lLyvPWCnmibq4eIaN.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 609,
+    "original_language": "en",
+    "original_title": "Poltergeist",
+    "overview": "Upon realizing that something truly evil haunts his home, Steve Freeling calls in a team of parapsychologists to help before it's too late.",
+    "popularity": 3.0404,
+    "poster_path": "/4eMN3GANH5GG4kXdHkrTZEUuQ9M.jpg",
+    "release_date": "1982-06-04",
+    "title": "Poltergeist",
+    "video": false,
+    "vote_average": 7.151,
+    "vote_count": 3130,
+    "belongs_to_collection": {
+      "id": 10453,
+      "name": "Poltergeist - Colección",
+      "poster_path": "/g5Fu4TQQrAhr0IzJqt143mwZDpD.jpg",
+      "backdrop_path": "/i8QZZV1olny9FCPNrxAL7Kk9CJy.jpg"
+    },
+    "budget": 10700000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0084516",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 21,
+        "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+        "name": "Metro-Goldwyn-Mayer",
+        "origin_country": "US"
+      },
+      {
+        "id": 214636,
+        "logo_path": null,
+        "name": "Steven Spielberg Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 396,
+        "logo_path": "/5iNXO7nAiSsms7ur1Qy2UwuwcDP.png",
+        "name": "SLM Production Group",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 122200000,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Están aquí.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8HzEinyADCwk908LP15sXLCZ26m.jpg",
+    "genre_ids": [
+      878,
+      28,
+      12
+    ],
+    "id": 97,
+    "original_language": "en",
+    "original_title": "Tron",
+    "overview": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world...And becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.",
+    "popularity": 4.7384,
+    "poster_path": "/zwSFEczP7AzqugAHHIX3zHniT0t.jpg",
+    "release_date": "1982-07-09",
+    "title": "Tron",
+    "video": false,
+    "vote_average": 6.642,
+    "vote_count": 2420,
+    "belongs_to_collection": {
+      "id": 63043,
+      "name": "TRON - Colección",
+      "poster_path": "/4EN5AO0Xv4jp31497tlrm7f6sAq.jpg",
+      "backdrop_path": "/x2G00OWzUAYwus1FgpeYZM9CZP9.jpg"
+    },
+    "budget": 17000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0084827",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 558,
+        "logo_path": null,
+        "name": "Lisberger/Kushner Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 3166,
+        "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+        "name": "Walt Disney Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 33000000,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/3e3dVaVrla2GH6CWKbNRjTvk3s8.jpg",
+    "genre_ids": [
+      18,
+      36
+    ],
+    "id": 6844,
+    "original_language": "en",
+    "original_title": "The Ten Commandments",
+    "overview": "Escaping death, a Hebrew infant is raised in a royal household to become a prince. Upon discovery of his true heritage, Moses embarks on a personal quest to reclaim his destiny as the leader and liberator of the Hebrew people.",
+    "popularity": 5.3346,
+    "poster_path": "/3Ei59AR64x6dMZfWobPCkZjbqTL.jpg",
+    "release_date": "1956-10-05",
+    "title": "The Ten Commandments",
+    "video": false,
+    "vote_average": 7.8,
+    "vote_count": 1726,
+    "belongs_to_collection": null,
+    "budget": 13000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0049833",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 12275,
+        "logo_path": null,
+        "name": "Motion Picture Associates",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 122700000,
+    "runtime": 231,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Se necesitaría más de que un hombre para sacar a los esclavos de la servidumbre. Se necesitaría un Dios.",
+    "added_date": "2025-09-27"
+  }
+]

@@ -1,0 +1,180 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 9552,
+    "original_language": "en",
+    "original_title": "The Exorcist",
+    "overview": "When a charming 12-year-old girl takes on the characteristics and voices of others, doctors say there is nothing they can do. As people begin to die, the girl's mother realizes her daughter has been possessed by the Devil. Her daughter's only possible hope lies with two priests and the ancient rite of demonic exorcism.",
+    "popularity": 9.7818,
+    "poster_path": "/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg",
+    "release_date": "1973-12-26",
+    "title": "The Exorcist",
+    "video": false,
+    "vote_average": 7.7,
+    "vote_count": 8219,
+    "belongs_to_collection": {
+      "id": 12263,
+      "name": "El Exorcista - Colección",
+      "poster_path": "/b5LtKjicF2mWaOYo6r0mbjHtT6S.jpg",
+      "backdrop_path": "/pgxFa9jkfOaopuw5kGZ7KgVkhwW.jpg"
+    },
+    "budget": 12000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0070047",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 48184,
+        "logo_path": null,
+        "name": "Hoya Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 441306145,
+    "runtime": 132,
+    "spoken_languages": [
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Latin",
+        "iso_639_1": "la",
+        "name": "Latin"
+      },
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      },
+      {
+        "english_name": "Greek",
+        "iso_639_1": "el",
+        "name": "ελληνικά"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La película mas terrorífica de todos los tiempos.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/npLwIeUobjVCM4fLfdeLqQhAoey.jpg",
+    "genre_ids": [
+      28
+    ],
+    "id": 9461,
+    "original_language": "en",
+    "original_title": "Enter the Dragon",
+    "overview": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+    "popularity": 3.7837,
+    "poster_path": "/fyrh2ULEcmLpGTVLPQqFW45hqr5.jpg",
+    "release_date": "1973-08-17",
+    "title": "Enter the Dragon",
+    "video": false,
+    "vote_average": 7.422,
+    "vote_count": 1972,
+    "belongs_to_collection": null,
+    "budget": 850000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0070034",
+    "origin_country": [
+      "US",
+      "HK"
+    ],
+    "production_companies": [
+      {
+        "id": 3526,
+        "logo_path": null,
+        "name": "Concord Productions",
+        "origin_country": "HK"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 2521,
+        "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+        "name": "Orange Sky Golden Harvest",
+        "origin_country": "HK"
+      },
+      {
+        "id": 4629,
+        "logo_path": null,
+        "name": "Sequoia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "HK",
+        "name": "Hong Kong"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 400000000,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

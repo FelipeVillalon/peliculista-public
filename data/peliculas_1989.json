@@ -1,0 +1,672 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/2Y7nbXrDtHwAfcTX7KBN0z40OAy.jpg",
+    "genre_ids": [
+      12,
+      28
+    ],
+    "id": 89,
+    "original_language": "en",
+    "original_title": "Indiana Jones and the Last Crusade",
+    "overview": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+    "popularity": 8.1046,
+    "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+    "release_date": "1989-05-24",
+    "title": "Indiana Jones and the Last Crusade",
+    "video": false,
+    "vote_average": 7.848,
+    "vote_count": 10543,
+    "belongs_to_collection": {
+      "id": 84,
+      "name": "Indiana Jones - Colección",
+      "poster_path": "/z1ZuPmh4gdwfDbCJmzbe8WJgZ0m.jpg",
+      "backdrop_path": "/s4xWmz9PEjPERSRcd7H7xMJpYvE.jpg"
+    },
+    "budget": 48000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0097576",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1,
+        "logo_path": "/tlVSws0RvvtPBwViUyOFAO0vcQS.png",
+        "name": "Lucasfilm Ltd.",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 474171806,
+    "runtime": 127,
+    "spoken_languages": [
+      {
+        "english_name": "Arabic",
+        "iso_639_1": "ar",
+        "name": "العربية"
+      },
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Greek",
+        "iso_639_1": "el",
+        "name": "ελληνικά"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/h5pAEVma835u8xoE60kmLVopLct.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "id": 16859,
+    "original_language": "ja",
+    "original_title": "魔女の宅急便",
+    "overview": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+    "popularity": 6.7909,
+    "poster_path": "/Aufa4YdZIv4AXpR9rznwVA5SEfd.jpg",
+    "release_date": "1989-07-29",
+    "title": "Kiki's Delivery Service",
+    "video": false,
+    "vote_average": 7.828,
+    "vote_count": 4282,
+    "belongs_to_collection": null,
+    "budget": 6900000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0097814",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 10342,
+        "logo_path": "/uFuxPEZRUcBTEiYIxjHJq62Vr77.png",
+        "name": "Studio Ghibli",
+        "origin_country": "JP"
+      },
+      {
+        "id": 12516,
+        "logo_path": null,
+        "name": "Nibariki",
+        "origin_country": "JP"
+      },
+      {
+        "id": 104680,
+        "logo_path": null,
+        "name": "Studio Fuga",
+        "origin_country": "JP"
+      },
+      {
+        "id": 1779,
+        "logo_path": "/41nGzTdCnORYZIZzaGZtfsBwQCl.png",
+        "name": "Tokuma Shoten",
+        "origin_country": "JP"
+      },
+      {
+        "id": 6755,
+        "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+        "name": "Nippon Television Network Corporation",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 4493017,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Me sentía triste, pero ya me siento mejor ahora.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/skQN2UMQKQnOTmwplcYMx6ZF4jS.jpg",
+    "genre_ids": [
+      12,
+      35,
+      878
+    ],
+    "id": 165,
+    "original_language": "en",
+    "original_title": "Back to the Future Part II",
+    "overview": "Marty and Doc are at it again as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+    "popularity": 6.6491,
+    "poster_path": "/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
+    "release_date": "1989-11-22",
+    "title": "Back to the Future Part II",
+    "video": false,
+    "vote_average": 7.775,
+    "vote_count": 13274,
+    "belongs_to_collection": {
+      "id": 264,
+      "name": "Volver al Futuro - Colección",
+      "poster_path": "/rX5M1zsxtmysqPzXBmWTJRi4DNI.jpg",
+      "backdrop_path": "/c9C9Pg2QctyjZHRmS0P8rZg1OTA.jpg"
+    },
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0096874",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 56,
+        "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+        "name": "Amblin Entertainment",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 332000000,
+    "runtime": 108,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "El regreso fue solo el principio.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
+    "genre_ids": [
+      12,
+      53,
+      878
+    ],
+    "id": 2756,
+    "original_language": "en",
+    "original_title": "The Abyss",
+    "overview": "A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.",
+    "popularity": 5.4452,
+    "poster_path": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+    "release_date": "1989-08-09",
+    "title": "The Abyss",
+    "video": false,
+    "vote_average": 7.351,
+    "vote_count": 3171,
+    "belongs_to_collection": null,
+    "budget": 43000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0096754",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 1280,
+        "logo_path": null,
+        "name": "Pacific Western",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 90000098,
+    "runtime": 140,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Está todo lo que has sabido sobre la aventura, y luego está The Abyss.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/o4j2Yi8JC6dsOpk8BtW9JSoFtpj.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      14
+    ],
+    "id": 10144,
+    "original_language": "en",
+    "original_title": "The Little Mermaid",
+    "overview": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him. Memorable songs and characters -- including the villainous sea witch Ursula.",
+    "popularity": 8.8794,
+    "poster_path": "/plcZXvI310FkbwIptvd6rqk63LP.jpg",
+    "release_date": "1989-11-17",
+    "title": "The Little Mermaid",
+    "video": false,
+    "vote_average": 7.349,
+    "vote_count": 8107,
+    "belongs_to_collection": {
+      "id": 33085,
+      "name": "La sirenita - Colección",
+      "poster_path": "/ynX9lPSNLtbwCktU38BgfKW0WY5.jpg",
+      "backdrop_path": "/gt7ccJrOgeOTWggy1PubLhWxX9g.jpg"
+    },
+    "budget": 40000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0097757",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10282,
+        "logo_path": null,
+        "name": "Silver Screen Partners IV",
+        "origin_country": "US"
+      },
+      {
+        "id": 171656,
+        "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+        "name": "Walt Disney Feature Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 211343479,
+    "runtime": 82,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "En algún lugar bajo del mar y más allá de tu imaginación existe una aventura de fantasía.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/AuUAB6bHEltolSvbBslfNSgsRIm.jpg",
+    "genre_ids": [
+      14,
+      28,
+      80
+    ],
+    "id": 268,
+    "original_language": "en",
+    "original_title": "Batman",
+    "overview": "Batman must face his most ruthless nemesis when a deformed madman calling himself \"The Joker\" seizes control of Gotham's criminal underworld.",
+    "popularity": 6.9562,
+    "poster_path": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+    "release_date": "1989-06-21",
+    "title": "Batman",
+    "video": false,
+    "vote_average": 7.234,
+    "vote_count": 8146,
+    "belongs_to_collection": {
+      "id": 120794,
+      "name": "Batman Antologia  - Colección",
+      "poster_path": "/mdg6YKzq4KeBiekFw4KF92LjnAb.jpg",
+      "backdrop_path": "/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg"
+    },
+    "budget": 35000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0096895",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 67889,
+        "logo_path": "/rgEZCUJeQFyVyOdXdSLSa9BsEq4.png",
+        "name": "Polygram Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 276,
+        "logo_path": null,
+        "name": "The Guber-Peters Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 411348924,
+    "runtime": 126,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¿Alguna vez has bailado con el Diablo en la pálida luz de la Luna?",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/d9xVUFkEKNxyOIihbpvAVdjzcL.jpg",
+    "genre_ids": [
+      12,
+      35,
+      10751,
+      878
+    ],
+    "id": 9354,
+    "original_language": "en",
+    "original_title": "Honey, I Shrunk the Kids",
+    "overview": "The scientist father of a teenage girl and boy accidentally shrinks his and two other neighborhood teens to the size of insects. Now the teens must fight diminutive dangers as the father searches for them.",
+    "popularity": 3.6245,
+    "poster_path": "/omQOzahi2NIeiYznNxHFDvNbvo6.jpg",
+    "release_date": "1989-06-23",
+    "title": "Honey, I Shrunk the Kids",
+    "video": false,
+    "vote_average": 6.305,
+    "vote_count": 3151,
+    "belongs_to_collection": {
+      "id": 72119,
+      "name": "Querida, encogí a los niños - Colección",
+      "poster_path": "/sukqhyRNrhwfUrEsiwsEugT1bF7.jpg",
+      "backdrop_path": "/3fvZtWdSdCNkxn1TAKTM042iClY.jpg"
+    },
+    "budget": 18000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0097523",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 554,
+        "logo_path": "/mN5HU5xYq9xtEs1X0Hu25A9y8lW.png",
+        "name": "Silver Screen Partners III",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 222724172,
+    "runtime": 93,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡La aventura en el patio trasero más asombrosa e innovadora de todos los tiempos!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7arej0TuOcjLzQzNBsTQ4lj0v8J.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 9494,
+    "original_language": "en",
+    "original_title": "Look Who's Talking",
+    "overview": "Mollie is a single working mother who's out to find the perfect father for her child. Her baby, Mikey, prefers James, a cab driver turned babysitter who has what it takes to make them both happy. But Mollie won't even consider James. It's going to take all the tricks a baby can think of to bring them together before it's too late.",
+    "popularity": 1.9472,
+    "poster_path": "/uVM0D7Q6U9H6xMSZmMdfwECih5h.jpg",
+    "release_date": "1989-10-12",
+    "title": "Look Who's Talking",
+    "video": false,
+    "vote_average": 6.3,
+    "vote_count": 2344,
+    "belongs_to_collection": {
+      "id": 9521,
+      "name": "Mira quién habla - Colección",
+      "poster_path": "/ez7hA34uLtOuGIwZvwhlpr53tXh.jpg",
+      "backdrop_path": "/2jEwMXBICqARNmhFFFDu1IvmJCK.jpg"
+    },
+    "budget": 7500000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0097778",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 8821,
+        "logo_path": null,
+        "name": "Management Company Entertainment Group (MCEG)",
+        "origin_country": ""
+      },
+      {
+        "id": 116419,
+        "logo_path": null,
+        "name": "Hollywood Licensing Group",
+        "origin_country": ""
+      },
+      {
+        "id": 559,
+        "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+        "name": "TriStar Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 296999813,
+    "runtime": 93,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Mikey es tan sólo un bebé, pero sabe muy bien lo que quiere...",
+    "added_date": "2025-09-27"
+  }
+]

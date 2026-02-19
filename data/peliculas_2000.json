@@ -1,0 +1,2258 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/pR3v192B20nFtsHY1jZQS4AkN0a.jpg",
+    "belongs_to_collection": null,
+    "budget": 80000000,
+    "genres": [
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 11973,
+    "imdb_id": "tt0146309",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Thirteen Days",
+    "overview": "Crisis de los misiles de Cuba. En octubre de 1962, una serie de fotografías aéreas obtenidas por aviones norteamericanos revelaron que los soviéticos estaban instalando en la isla misiles que podrían alcanzar gran parte de los Estados Unidos. Para obligar a la URSS a desmantelarlos, el presidente John F. Kennedy y sus colaboradores decidieron el bloqueo de la isla.",
+    "popularity": 1.5114,
+    "poster_path": "/yXFhU90O5ZvgsGaaqUFWFaszEls.jpg",
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 10157,
+        "logo_path": "/iMTZBY3vbW1PMKbdVh50j1Z21WU.png",
+        "name": "Beacon Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2000-12-25",
+    "revenue": 34566746,
+    "runtime": 145,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Drama | Histórico. Política. Años 60. Guerra Fría",
+    "title": "Trece días",
+    "video": false,
+    "vote_average": 7.011,
+    "vote_count": 783,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/sEOUoGpJWIk1T58nU9qcXR398jY.jpg",
+    "belongs_to_collection": null,
+    "budget": 90000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "id": 2067,
+    "imdb_id": "tt0183523",
+    "origin_country": [
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "Mission to Mars",
+    "overview": "En el año 2020 el comandante Luke Graham es seleccionado para dirigir la primera misión tripulada de la NASA a Marte. Una vez en el planeta rojo, descubre una antigua estructura con forma de domo que parece ser una especie de baliza. El domo mata a la tripulación y deja herido a Luc. El coronel Jim McConnell, recientemente enviudado, encabezará la segunda misión de rescate.",
+    "popularity": 2.3263,
+    "poster_path": "/fQM0eyV5b7jQefpSLvQS6b0e1yc.jpg",
+    "production_companies": [
+      {
+        "id": 9195,
+        "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+        "name": "Touchstone Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 158,
+        "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+        "name": "Spyglass Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 3638,
+        "logo_path": null,
+        "name": "The Jacobson Company",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2000-03-10",
+    "revenue": 110983407,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Ciencia ficción. Aventuras | Aventura espacial. Extraterrestres",
+    "title": "Misión a Marte",
+    "video": false,
+    "vote_average": 5.994,
+    "vote_count": 1484,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/mZj8EUr6F1x2PWZjKPxaeYd5WRw.jpg",
+    "belongs_to_collection": {
+      "id": 178117,
+      "name": "Las Locuras del Emperador - Colección",
+      "poster_path": "/xNbamGIzUjpvA5h1vdBMnSdPx2A.jpg",
+      "backdrop_path": "/2nMRUdYxR2yBAzImsNGkn2j8nUy.jpg"
+    },
+    "budget": 100000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "id": 11688,
+    "imdb_id": "tt0120917",
+    "origin_country": [
+      "FR",
+      "JP",
+      "US"
+    ],
+    "original_language": "en",
+    "original_title": "The Emperor's New Groove",
+    "overview": "El emperador Kuzco es convertido en llama por su exadministradora Yzma, y ahora debe recuperar su trono con la ayuda de Pacha, el amable pastor de llamas.",
+    "popularity": 9.7744,
+    "poster_path": "/jdfrjrmvUlbg4MsWHAjFzUhsvaV.jpg",
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171656,
+        "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+        "name": "Walt Disney Feature Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "release_date": "2000-12-15",
+    "revenue": 169327687,
+    "runtime": 78,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "title": "Las locuras del emperador",
+    "video": false,
+    "vote_average": 7.558,
+    "vote_count": 6973,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/amBvmIshdsSkOtvVIgxl7YSQ9Dg.jpg",
+    "belongs_to_collection": {
+      "id": 16302,
+      "name": "Battle Royale - Colección",
+      "poster_path": "/e9x8MueDBGtEAALdZZIZQ96i8C6.jpg",
+      "backdrop_path": "/gKpdj5aKtxrAoAbJJ3EtBZHcsyP.jpg"
+    },
+    "budget": 4500000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "id": 3176,
+    "imdb_id": "tt0266308",
+    "origin_country": [
+      "JP"
+    ],
+    "original_language": "ja",
+    "original_title": "バトル・ロワイアル",
+    "overview": "En el amanecer de un nuevo milenio, el país está al borde del colapso. Millones de personas vagan sin empleo. La violencia en la escuela está descontrolada y adolescentes rebeldes protagonizan boicots masivos. El gobierno contrataca con “Battle Royale”. Cada año, una clase es escogida al azar para que se enfrente, en una isla abandonada, a un cruel juego de supervivencia",
+    "popularity": 3.6085,
+    "poster_path": "/e9UQGoX2ZFNdrjLwEejMSMDSxmR.jpg",
+    "production_companies": [
+      {
+        "id": 5822,
+        "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+        "name": "Toei Company",
+        "origin_country": "JP"
+      },
+      {
+        "id": 157807,
+        "logo_path": "/tyrJOOVAUIxQEJzjP1PhP2H5zFi.png",
+        "name": "WOWOW",
+        "origin_country": "JP"
+      },
+      {
+        "id": 11538,
+        "logo_path": null,
+        "name": "AM Associates",
+        "origin_country": "JP"
+      },
+      {
+        "id": 11539,
+        "logo_path": null,
+        "name": "Kobi",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3032,
+        "logo_path": "/gaf3ez34cuvG9snphWGreB1WerA.png",
+        "name": "Nippan Group Holdings",
+        "origin_country": "JP"
+      },
+      {
+        "id": 11540,
+        "logo_path": null,
+        "name": "MF Pictures",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3656,
+        "logo_path": "/mY6L0bHRp8fNWfICPqLjxp3khvq.png",
+        "name": "GAGA Communications",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "release_date": "2000-12-16",
+    "revenue": 30600000,
+    "runtime": 114,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¿Puedes matar a tu mejor amigo?",
+    "title": "Juego sangriento [バトル・ロワイアル]",
+    "video": false,
+    "vote_average": 7.3,
+    "vote_count": 3550,
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/jhk6D8pim3yaByu1801kMoxXFaX.jpg",
+    "genre_ids": [
+      28,
+      18,
+      12
+    ],
+    "id": 98,
+    "original_language": "en",
+    "original_title": "Gladiator",
+    "overview": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+    "popularity": 14.7103,
+    "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+    "release_date": "2000-05-04",
+    "title": "Gladiator",
+    "video": false,
+    "vote_average": 8.221,
+    "vote_count": 19908,
+    "belongs_to_collection": {
+      "id": 1069584,
+      "name": "Gladiador - Colección",
+      "poster_path": "/aRMttbADa60lYPVTfW0JKMzsvq0.jpg",
+      "backdrop_path": "/1VdLvSIeHuwqCT13H9EafxCacGB.jpg"
+    },
+    "budget": 103000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0172495",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 33,
+        "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+        "name": "Universal Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 1645,
+        "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+        "name": "Scott Free Productions",
+        "origin_country": "GB"
+      },
+      {
+        "id": 14440,
+        "logo_path": "/gk9zllyMFnaVBWTdZpm7VcfQrHC.png",
+        "name": "Red Wagon Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 21904,
+        "logo_path": null,
+        "name": "Mill Film",
+        "origin_country": "GB"
+      },
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 465516248,
+    "runtime": 155,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Lo que hacemos en vida... resuena en la eternidad.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7Wev9JMo6R5XAfz2KDvXb7oPMmy.jpg",
+    "genre_ids": [
+      9648,
+      53
+    ],
+    "id": 77,
+    "original_language": "en",
+    "original_title": "Memento",
+    "overview": "Leonard Shelby is tracking down the man who raped and murdered his wife. The difficulty of locating his wife's killer, however, is compounded by the fact that he suffers from a rare, untreatable form of short-term memory loss. Although he can recall details of life before his accident, Leonard cannot remember what happened fifteen minutes ago, where he's going, or why.",
+    "popularity": 8.4673,
+    "poster_path": "/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+    "release_date": "2000-10-11",
+    "title": "Memento",
+    "video": false,
+    "vote_average": 8.177,
+    "vote_count": 15427,
+    "belongs_to_collection": null,
+    "budget": 9000000,
+    "genres": [
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0209144",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 28,
+        "logo_path": "/7tRG0ZsmtptmzPMKupd1FZkjtnn.png",
+        "name": "Newmarket Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 491,
+        "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+        "name": "Summit Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 598,
+        "logo_path": null,
+        "name": "Team Todd",
+        "origin_country": "US"
+      },
+      {
+        "id": 34446,
+        "logo_path": null,
+        "name": "I Remember Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 40047236,
+    "runtime": 113,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Algunos recuerdos es mejor olvidarlos",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7tZt3PA948fvSTFx0699YF44Tdt.jpg",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "id": 641,
+    "original_language": "en",
+    "original_title": "Requiem for a Dream",
+    "overview": "The drug-induced utopias of four Coney Island residents are shattered when their addictions run deep.",
+    "popularity": 3.871,
+    "poster_path": "/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+    "release_date": "2000-10-06",
+    "title": "Requiem for a Dream",
+    "video": false,
+    "vote_average": 8.0,
+    "vote_count": 10407,
+    "belongs_to_collection": null,
+    "budget": 4500000,
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0180093",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2188,
+        "logo_path": "/f1zrx8bIsS81AHoPQq4riJx68Lt.png",
+        "name": "Artisan Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 380,
+        "logo_path": null,
+        "name": "Thousand Words",
+        "origin_country": "US"
+      },
+      {
+        "id": 7503,
+        "logo_path": "/3K8wbNkTn7O4wX89ucnp1ZYR1XF.png",
+        "name": "Protozoa Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 7390108,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/rRwD4MoBlkBXWQ6PDnbKRSU5dDu.jpg",
+    "genre_ids": [
+      53,
+      18,
+      80
+    ],
+    "id": 1359,
+    "original_language": "en",
+    "original_title": "American Psycho",
+    "overview": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+    "popularity": 9.4761,
+    "poster_path": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg",
+    "release_date": "2000-04-13",
+    "title": "American Psycho",
+    "video": false,
+    "vote_average": 7.406,
+    "vote_count": 11504,
+    "belongs_to_collection": {
+      "id": 86105,
+      "name": "Psicópata Americano - Colección",
+      "poster_path": "/ko4O9lcRGYOZAF5Hh79Mfsgjpun.jpg",
+      "backdrop_path": "/z5cYtp6jrS23RrQPBiJMJpIMwjc.jpg"
+    },
+    "budget": 7000000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0144084",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1632,
+        "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+        "name": "Lionsgate",
+        "origin_country": "US"
+      },
+      {
+        "id": 6455,
+        "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+        "name": "Pressman Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 15231,
+        "logo_path": "/iFbzMtXFBv2ekA9Ldrw6LqjLrvX.png",
+        "name": "Muse Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 217087,
+        "logo_path": null,
+        "name": "Christian Halsey Solomon Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 34300000,
+    "runtime": 102,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg",
+    "genre_ids": [
+      10751,
+      12,
+      16,
+      35,
+      14
+    ],
+    "id": 10501,
+    "original_language": "en",
+    "original_title": "The Road to El Dorado",
+    "overview": "Stowing away after a failed con, a pair of swindlers end up on El Dorado, the fabled \"city of gold\", where they quickly get in over their heads when they are mistaken as gods by the inhabitants.",
+    "popularity": 4.6744,
+    "poster_path": "/ryXm7xp4aqQyda0FU2eMfHehPBg.jpg",
+    "release_date": "2000-03-31",
+    "title": "The Road to El Dorado",
+    "video": false,
+    "vote_average": 7.25,
+    "vote_count": 3868,
+    "belongs_to_collection": null,
+    "budget": 95000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0138749",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 7,
+        "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+        "name": "DreamWorks Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 521,
+        "logo_path": "/bLcoNzeXlJmcL47kuE57yO9YG7M.png",
+        "name": "DreamWorks Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 76400000,
+    "runtime": 89,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Vinieron por el oro. Se quedaron por la aventura.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/kWYHKVCl2aD3kRco4eRUr4h6LsD.jpg",
+    "genre_ids": [
+      18,
+      36,
+      10752,
+      28
+    ],
+    "id": 2024,
+    "original_language": "en",
+    "original_title": "The Patriot",
+    "overview": "After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.",
+    "popularity": 4.6456,
+    "poster_path": "/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+    "release_date": "2000-06-28",
+    "title": "The Patriot",
+    "video": false,
+    "vote_average": 7.178,
+    "vote_count": 4065,
+    "belongs_to_collection": null,
+    "budget": 110000000,
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 36,
+        "name": "Historia"
+      },
+      {
+        "id": 10752,
+        "name": "Bélica"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0187393",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 762,
+        "logo_path": "/3T7EpKcS13viHu3WzRtQGvi9sTY.png",
+        "name": "Mutual Film Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 347,
+        "logo_path": "/1wpVtAaWLqvFJVVbyzTAf7U4JPX.png",
+        "name": "Centropolis Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 9269,
+        "logo_path": null,
+        "name": "Global Medien KG",
+        "origin_country": "DE"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 215294342,
+    "runtime": 165,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+    "genre_ids": [
+      53,
+      18,
+      9648
+    ],
+    "id": 9741,
+    "original_language": "en",
+    "original_title": "Unbreakable",
+    "overview": "An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead — and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.",
+    "popularity": 4.9497,
+    "poster_path": "/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg",
+    "release_date": "2000-11-22",
+    "title": "Unbreakable",
+    "video": false,
+    "vote_average": 7.1,
+    "vote_count": 9537,
+    "belongs_to_collection": null,
+    "budget": 75000000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0217869",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 17032,
+        "logo_path": null,
+        "name": "Barry Mendel Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 12236,
+        "logo_path": "/bVu0qQm4GujSTCvZZz9S3rHDczA.png",
+        "name": "Blinding Edge Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 9195,
+        "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+        "name": "Touchstone Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 248118121,
+    "runtime": 106,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Algunas cosas solo se revelan por accidente",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/a6MwSrIKmMjs5b8os7eEgQk05yx.jpg",
+    "genre_ids": [
+      12,
+      28,
+      878
+    ],
+    "id": 36657,
+    "original_language": "en",
+    "original_title": "X-Men",
+    "overview": "Two mutants, Rogue and Wolverine, come to a private academy for their kind whose resident superhero team, the X-Men, must oppose a terrorist organization with similar powers.",
+    "popularity": 0.452,
+    "poster_path": "/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+    "release_date": "2000-07-13",
+    "title": "X-Men",
+    "video": false,
+    "vote_average": 7.005,
+    "vote_count": 11684,
+    "belongs_to_collection": {
+      "id": 748,
+      "name": "X-Men - Colección",
+      "poster_path": "/fTx4vrq48SMd4D4r8Yxk34c070b.jpg",
+      "backdrop_path": "/ykVHlrE3aSvHYeIXOrWDsYZ18vv.jpg"
+    },
+    "budget": 75000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120903",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 431,
+        "logo_path": "/6dcR1MbRqYgt3jUVYxkHe68GFnZ.png",
+        "name": "The Donners' Company",
+        "origin_country": "US"
+      },
+      {
+        "id": 9168,
+        "logo_path": "/xWE982LvaAmBQffyRGkaGg7qNK5.png",
+        "name": "Bad Hat Harry Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 160251,
+        "logo_path": "/x25ZchdyICzx2v0h4OQQ4yadJ0J.png",
+        "name": "Marvel Entertainment Group",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 296339527,
+    "runtime": 104,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "La evolución ha comenzado.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/7isarjYDEKZ5t1CgcvbuqEUby8P.jpg",
+    "genre_ids": [
+      27
+    ],
+    "id": 9532,
+    "original_language": "en",
+    "original_title": "Final Destination",
+    "overview": "After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.",
+    "popularity": 13.2555,
+    "poster_path": "/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",
+    "release_date": "2000-03-17",
+    "title": "Final Destination",
+    "video": false,
+    "vote_average": 6.628,
+    "vote_count": 6212,
+    "belongs_to_collection": {
+      "id": 8864,
+      "name": "Destino Final - Colección",
+      "poster_path": "/yrQjtYmEsnc1hlDlXQZ29EMSFbp.jpg",
+      "backdrop_path": "/y3aWOInifbGKXM34KjtcMITrZRZ.jpg"
+    },
+    "budget": 23000000,
+    "genres": [
+      {
+        "id": 27,
+        "name": "Terror"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0195714",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 48772,
+        "logo_path": null,
+        "name": "Hard Eight Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 3169,
+        "logo_path": null,
+        "name": "Zide-Perry Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 112880294,
+    "runtime": 98,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Sin accidentes. Sin coincidencias. Sin escapes. No puedes engañar a la muerte.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/8qLen3NLCVSu1I9aqGWbTUIoBLQ.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 2123,
+    "original_language": "en",
+    "original_title": "Me, Myself & Irene",
+    "overview": "Rhode Island State Trooper Charlie Baileygates has a multiple personality disorder. One personality is crazy and aggressive, while the other is more friendly and laid back. Both of these personalities fall in love with the same woman named Irene after Charlie loses his medication.",
+    "popularity": 4.7281,
+    "poster_path": "/rvRrcbLbpn7UJGRH1JupgHOeJFq.jpg",
+    "release_date": "2000-06-22",
+    "title": "Me, Myself & Irene",
+    "video": false,
+    "vote_average": 6.605,
+    "vote_count": 4020,
+    "belongs_to_collection": null,
+    "budget": 51000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0183505",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 1156,
+        "logo_path": null,
+        "name": "Conundrum Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 149270999,
+    "runtime": 117,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Dos cabezas son más problemáticas que una.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/wfebvjrep7sV80fwyEdpaGwrsO8.jpg",
+    "genre_ids": [
+      16,
+      878,
+      12,
+      10751,
+      28
+    ],
+    "id": 7450,
+    "original_language": "en",
+    "original_title": "Titan A.E.",
+    "overview": "A young man finds out that he holds the key to restoring hope and ensuring survival for the human race, while an alien species called the Drej are bent on mankind's destruction.",
+    "popularity": 2.0266,
+    "poster_path": "/el2iHk3LTJWfEnwrvcRkvWY501G.jpg",
+    "release_date": "2000-06-16",
+    "title": "Titan A.E.",
+    "video": false,
+    "vote_average": 6.595,
+    "vote_count": 1117,
+    "belongs_to_collection": null,
+    "budget": 75000000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0120913",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 11050,
+        "logo_path": null,
+        "name": "David Kirschner Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 211613,
+        "logo_path": null,
+        "name": "Gary Goldman Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      },
+      {
+        "id": 11749,
+        "logo_path": "/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png",
+        "name": "20th Century Fox Animation",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 36754634,
+    "runtime": 90,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Mandarin",
+        "iso_639_1": "zh",
+        "name": "普通话"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Animación. Ciencia ficción. Aventuras | Aventura espacial",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/laeEtakR2pLKu3CeRwB2lU5Y53X.jpg",
+    "genre_ids": [
+      16,
+      10751,
+      12
+    ],
+    "id": 10567,
+    "original_language": "en",
+    "original_title": "Dinosaur",
+    "overview": "An orphaned dinosaur raised by lemurs joins an arduous trek to a sancturary after a meteorite shower destroys his family home.",
+    "popularity": 5.3481,
+    "poster_path": "/rSje3FS7ycJSglowlngjsvDt7vO.jpg",
+    "release_date": "2000-05-19",
+    "title": "Dinosaur",
+    "video": false,
+    "vote_average": 6.546,
+    "vote_count": 2624,
+    "belongs_to_collection": null,
+    "budget": 127500000,
+    "genres": [
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0130623",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 171656,
+        "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+        "name": "Walt Disney Feature Animation",
+        "origin_country": "US"
+      },
+      {
+        "id": 216234,
+        "logo_path": "/1ZkjwNsOXnKYwSNyoysuKVAXXyM.png",
+        "name": "The Secret Lab",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 354248063,
+    "runtime": 82,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "No has visto nada como esto.",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/iM7MA12WiiErwo3UKhY3ytH8SUx.jpg",
+    "genre_ids": [
+      35,
+      80,
+      28
+    ],
+    "id": 1493,
+    "original_language": "en",
+    "original_title": "Miss Congeniality",
+    "overview": "When the local FBI office receives a letter from a terrorist known only as 'The Citizen', it's quickly determined that he's planning his next act at the Miss America beauty pageant. Because tough-as-nails Gracie Hart is the only female Agent at the office, she's chosen to go undercover as the contestant from New Jersey.",
+    "popularity": 4.4303,
+    "poster_path": "/pat3vKaRlB70he4ghwTMydR4TvP.jpg",
+    "release_date": "2000-12-22",
+    "title": "Miss Congeniality",
+    "video": false,
+    "vote_average": 6.5,
+    "vote_count": 4034,
+    "belongs_to_collection": {
+      "id": 93220,
+      "name": "Miss Simpatia - Colección",
+      "poster_path": "/pUZSbHdAAnXG7Cs9rfYiGdnetZC.jpg",
+      "backdrop_path": "/7TIT28YbhAOeQGD2q2hJ9j83jI1.jpg"
+    },
+    "budget": 45000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0212346",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 79,
+        "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+        "name": "Village Roadshow Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 97,
+        "logo_path": "/7znWcbDd4PcJzJUlJxYqAlPPykp.png",
+        "name": "Castle Rock Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 172,
+        "logo_path": null,
+        "name": "NPV Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 4258,
+        "logo_path": "/2AAcFwLxc1yble95qTSi6QfxKRa.png",
+        "name": "Fortis Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 174,
+        "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 212000000,
+    "runtime": 111,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Miss Simpatía",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/dLGQo5Xq6H18vPx00Czot8VHi3K.jpg",
+    "genre_ids": [
+      12,
+      14,
+      16,
+      28,
+      10751
+    ],
+    "id": 10991,
+    "original_language": "ja",
+    "original_title": "劇場版ポケットモンスター 結晶塔の帝王 ENTEI",
+    "overview": "When the sadness of her father's disappearance gets to Molly Hale, she unknowingly uses the Unown to create her own dream world along with Entei, who she believes to be her father. When Entei kidnaps Ash's mother, Ash — alongside Misty and Brock — invade the mansion looking for his mom and trying to stop the mysteries of Molly's Dream World and Entei!",
+    "popularity": 2.5629,
+    "poster_path": "/rf1ptotD12w8NYzaKXgrjKUl4d5.jpg",
+    "release_date": "2000-07-08",
+    "title": "Pokémon 3: The Movie",
+    "video": false,
+    "vote_average": 6.509,
+    "vote_count": 638,
+    "belongs_to_collection": {
+      "id": 34055,
+      "name": "Pokémon - Colección",
+      "poster_path": "/9h52kFaxgNobfotNhM72odDpUEk.jpg",
+      "backdrop_path": "/iGoYKA0TFfgSoZpG2u5viTJMGfK.jpg"
+    },
+    "budget": 16000000,
+    "genres": [
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 16,
+        "name": "Animación"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 10751,
+        "name": "Familia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0235679",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 12288,
+        "logo_path": "/e4dQAqZD374H5EuM0W1ljEBWTKy.png",
+        "name": "Nintendo",
+        "origin_country": "JP"
+      },
+      {
+        "id": 5372,
+        "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+        "name": "OLM",
+        "origin_country": "JP"
+      },
+      {
+        "id": 3034,
+        "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+        "name": "TV Tokyo",
+        "origin_country": "JP"
+      },
+      {
+        "id": 198169,
+        "logo_path": null,
+        "name": "Pikachu Project 2000",
+        "origin_country": "JP"
+      },
+      {
+        "id": 9149,
+        "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+        "name": "Shogakukan",
+        "origin_country": "JP"
+      },
+      {
+        "id": 7967,
+        "logo_path": "/4W9ByL6mMDn9UOHh8oGD36l3BnN.png",
+        "name": "Media Factory",
+        "origin_country": "JP"
+      },
+      {
+        "id": 11644,
+        "logo_path": "/1fhfHRzI3GrXRjfuGTLaERshdzu.png",
+        "name": "Tomy",
+        "origin_country": "JP"
+      },
+      {
+        "id": 12307,
+        "logo_path": null,
+        "name": "Creatures",
+        "origin_country": "JP"
+      },
+      {
+        "id": 5399,
+        "logo_path": null,
+        "name": "GAME FREAK",
+        "origin_country": "JP"
+      },
+      {
+        "id": 8157,
+        "logo_path": "/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png",
+        "name": "jeki",
+        "origin_country": "JP"
+      },
+      {
+        "id": 5261,
+        "logo_path": null,
+        "name": "Shogakukan Production",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 68452128,
+    "runtime": 92,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/xXHtSqFx8mLjzNGX9oCKQEx2yTa.jpg",
+    "genre_ids": [
+      35,
+      10749
+    ],
+    "id": 3981,
+    "original_language": "en",
+    "original_title": "What Women Want",
+    "overview": "Advertising executive Nick Marshall is as cocky as they come, but what happens to a chauvinistic guy when he can suddenly hear what women are thinking? Nick gets passed over for a promotion, but after an accident enables him to hear women's thoughts, he puts his newfound talent to work against Darcy, his new boss, who seems to be infatuated with him.",
+    "popularity": 4.4867,
+    "poster_path": "/eqkBEMDk1316Yx5wVoabWY07JAi.jpg",
+    "release_date": "2000-12-15",
+    "title": "What Women Want",
+    "video": false,
+    "vote_average": 6.451,
+    "vote_count": 4087,
+    "belongs_to_collection": null,
+    "budget": 70000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0207201",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 4,
+        "logo_path": "/gz66EfNoYPqHTYI4q9UEN4CbHRc.png",
+        "name": "Paramount Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 152,
+        "logo_path": "/rC2pFo4IBQVSVZvucDLwMRvZHfi.png",
+        "name": "Icon Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 32803,
+        "logo_path": "/eMprIlvx3TyNfc7XjlUuBnw7J12.png",
+        "name": "Wind Dancer Films",
+        "origin_country": ""
+      },
+      {
+        "id": 4564,
+        "logo_path": "/pQQ5WKlDFbTIrsgkCTUoMqDtmpy.png",
+        "name": "Icon Entertainment International",
+        "origin_country": "GB"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 374100000,
+    "runtime": 127,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "French",
+        "iso_639_1": "fr",
+        "name": "Français"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Finalmente un hombre esta escuchando...",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uHZRTGMFb1RLmgWcqlIOZsGbDCT.jpg",
+    "genre_ids": [
+      35
+    ],
+    "id": 4247,
+    "original_language": "en",
+    "original_title": "Scary Movie",
+    "overview": "A familiar-looking group of teenagers find themselves being stalked by a more-than-vaguely recognizable masked killer! As the victims begin to pile up and the laughs pile on, none of your favorite scary movies escape the razor-sharp satire of this outrageously funny parody!",
+    "popularity": 8.8504,
+    "poster_path": "/fVQFPRuw3yWXojYDJvA5EoFjUOY.jpg",
+    "release_date": "2000-07-07",
+    "title": "Scary Movie",
+    "video": false,
+    "vote_average": 6.372,
+    "vote_count": 7251,
+    "belongs_to_collection": {
+      "id": 4246,
+      "name": "Scary Movie - Colección",
+      "poster_path": "/kxHEd7OGYx9OizI6QNVGNsvstQf.jpg",
+      "backdrop_path": "/4YFCPV5KXWgIfQ8oTEeIJvtuxVj.jpg"
+    },
+    "budget": 19000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0175142",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 10958,
+        "logo_path": null,
+        "name": "Brad Grey Pictures",
+        "origin_country": ""
+      },
+      {
+        "id": 1607,
+        "logo_path": null,
+        "name": "Gold/Miller Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 1608,
+        "logo_path": null,
+        "name": "Wayans Bros. Entertainment",
+        "origin_country": "US"
+      },
+      {
+        "id": 7405,
+        "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+        "name": "Dimension Films",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 278019771,
+    "runtime": 88,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡Mortalmente divertida!",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/uaTVgIzIn02wd1SBTDXouGTpiIG.jpg",
+    "genre_ids": [
+      14,
+      35,
+      10749
+    ],
+    "id": 1636,
+    "original_language": "en",
+    "original_title": "Bedazzled",
+    "overview": "Elliot Richards, a socially awkward IT worker, is given seven wishes to get the girl of his dreams when he meets a very seductive Satan. The catch: his soul. Some of his wishes include being a 7 foot basketball star, a wealthy, powerful man, and a sensitive caring guy. But, as could be expected, the Devil puts her own little twist on each of his fantasies.",
+    "popularity": 3.8058,
+    "poster_path": "/sBV28EVvWsJRosMsEFCbVmpAZEl.jpg",
+    "release_date": "2000-10-19",
+    "title": "Bedazzled",
+    "video": false,
+    "vote_average": 6.068,
+    "vote_count": 1964,
+    "belongs_to_collection": null,
+    "budget": 48000000,
+    "genres": [
+      {
+        "id": 14,
+        "name": "Fantasía"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0230030",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 73949,
+        "logo_path": null,
+        "name": "KirchMedia",
+        "origin_country": "DE"
+      },
+      {
+        "id": 508,
+        "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+        "name": "Regency Enterprises",
+        "origin_country": "US"
+      },
+      {
+        "id": 20555,
+        "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+        "name": "Taurus Film",
+        "origin_country": "DE"
+      },
+      {
+        "id": 25,
+        "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+        "name": "20th Century Fox",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 90383208,
+    "runtime": 94,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "Russian",
+        "iso_639_1": "ru",
+        "name": "Pусский"
+      },
+      {
+        "english_name": "Spanish",
+        "iso_639_1": "es",
+        "name": "Español"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/opkt6IK1Os5gAwhlpu27bCZCk8K.jpg",
+    "genre_ids": [
+      878,
+      28,
+      9648,
+      18,
+      53
+    ],
+    "id": 8452,
+    "original_language": "en",
+    "original_title": "The 6th Day",
+    "overview": "A world of the very near future in which cattle, fish, and even the family pet can be cloned. But cloning humans is illegal - that is until family man Adam Gibson comes home from work one day to find a clone has replaced him. Taken from his family and plunged into a sinister world he doesn't understand, Gibson must not only save himself from the assassins who must destroy him to protect their secret, but uncover who and what is behind the horrible things happening to him.",
+    "popularity": 2.5663,
+    "poster_path": "/rODFJOFiPk1UVCe4pmBza8T6feO.jpg",
+    "release_date": "2000-11-17",
+    "title": "The 6th Day",
+    "video": false,
+    "vote_average": 5.987,
+    "vote_count": 2112,
+    "belongs_to_collection": null,
+    "budget": 82000000,
+    "genres": [
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      },
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 9648,
+        "name": "Misterio"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0216216",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 11317,
+        "logo_path": "/hMboqqmeILXFeOJjuCsn3FvCIT3.png",
+        "name": "Phoenix Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 216219,
+        "logo_path": null,
+        "name": "Jon Davison Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      },
+      {
+        "iso_3166_1": "CA",
+        "name": "Canada"
+      }
+    ],
+    "revenue": 96085477,
+    "runtime": 124,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Eres quien tú crees que eres",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/fYKfPWArkWeMcril9JxhVRP9bYk.jpg",
+    "genre_ids": [
+      35,
+      14
+    ],
+    "id": 9678,
+    "original_language": "en",
+    "original_title": "Little Nicky",
+    "overview": "After the lord of darkness decides he will not cede his throne to any of his three sons, the two most powerful of them escape to Earth to create a kingdom for themselves. This action closes the portal filtering sinful souls to Hell and causes Satan to wither away. He must send his most weak but beloved son, Little Nicky, to Earth to return his brothers to Hell.",
+    "popularity": 6.1175,
+    "poster_path": "/AudA8gnTWSBWXBHSBHnr3HHUXXM.jpg",
+    "release_date": "2000-11-10",
+    "title": "Little Nicky",
+    "video": false,
+    "vote_average": 5.86,
+    "vote_count": 1881,
+    "belongs_to_collection": null,
+    "budget": 85000000,
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 14,
+        "name": "Fantasía"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0185431",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 12,
+        "logo_path": "/x33I3vv8nx1O7rECNN7X5MsAFoN.png",
+        "name": "New Line Cinema",
+        "origin_country": "US"
+      },
+      {
+        "id": 878,
+        "logo_path": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+        "name": "Happy Madison Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 3929,
+        "logo_path": null,
+        "name": "Robert Simonds Productions",
+        "origin_country": "US"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 58292295,
+    "runtime": 77,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/lF1yxdtXNkTheOQCaAaPtAuewzr.jpg",
+    "genre_ids": [
+      28,
+      12,
+      35,
+      80,
+      53
+    ],
+    "id": 4327,
+    "original_language": "en",
+    "original_title": "Charlie's Angels",
+    "overview": "The captivating crime-fighting trio who are masters of disguise, espionage and martial arts are back! When a devious mastermind embroils them in a plot to destroy individual privacy, the Angels, aided by their loyal sidekick Bosley, set out to bring down the bad guys. But when a terrible secret is revealed, it makes the Angels targets for assassination.",
+    "popularity": 5.7256,
+    "poster_path": "/paDTaHGLxhacythNZCT86VPanm6.jpg",
+    "release_date": "2000-11-02",
+    "title": "Charlie's Angels",
+    "video": false,
+    "vote_average": 5.847,
+    "vote_count": 4291,
+    "belongs_to_collection": {
+      "id": 86029,
+      "name": "Los ángeles de Charlie - Colección",
+      "poster_path": "/we2xaGKxdrWtMF2auFLVki8cMAd.jpg",
+      "backdrop_path": "/jfKqvbZqU3LcNcwj4N8Q1ZJ7fSv.jpg"
+    },
+    "budget": 92000000,
+    "genres": [
+      {
+        "id": 28,
+        "name": "Acción"
+      },
+      {
+        "id": 12,
+        "name": "Aventura"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      },
+      {
+        "id": 80,
+        "name": "Crimen"
+      },
+      {
+        "id": 53,
+        "name": "Suspense"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0160127",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 5,
+        "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+        "name": "Columbia Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10239,
+        "logo_path": "/7L9xHVi0nkcwiDlOijV3N5EefCV.png",
+        "name": "Tall Trees Productions",
+        "origin_country": "US"
+      },
+      {
+        "id": 19813,
+        "logo_path": null,
+        "name": "Flower Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 121252,
+        "logo_path": null,
+        "name": "Leonard Goldberg Productions",
+        "origin_country": ""
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 264105545,
+    "runtime": 98,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      },
+      {
+        "english_name": "German",
+        "iso_639_1": "de",
+        "name": "Deutsch"
+      },
+      {
+        "english_name": "Finnish",
+        "iso_639_1": "fi",
+        "name": "suomi"
+      },
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      },
+      {
+        "english_name": "Cantonese",
+        "iso_639_1": "cn",
+        "name": "广州话 / 廣州話"
+      }
+    ],
+    "status": "Released",
+    "tagline": "Acción. Aventuras. Comedia. Thriller",
+    "added_date": "2025-09-27"
+  },
+  {
+    "adult": false,
+    "backdrop_path": "/eqZ5t82asfprFcNS56eVruNT5G5.jpg",
+    "genre_ids": [
+      10751,
+      35
+    ],
+    "id": 10481,
+    "original_language": "en",
+    "original_title": "102 Dalmatians",
+    "overview": "Get ready for a howling good time as an all new assortment of irresistible animal heroes are unleashed in this great family tail! In an unlikely alliance, the outrageous Waddlesworth - a parrot who thinks he's a Rottweiler - teams up with Oddball - an un-marked Dalmatian puppy eager to earn her spots! Together they embark on a laugh-packed quest to outwit the ever-scheming Cruella De Vil.",
+    "popularity": 2.6207,
+    "poster_path": "/ueE6u2GTECzGBtas6PFx7wwi9y0.jpg",
+    "release_date": "2000-10-07",
+    "title": "102 Dalmatians",
+    "video": false,
+    "vote_average": 5.505,
+    "vote_count": 1402,
+    "belongs_to_collection": {
+      "id": 124916,
+      "name": "101 Dálmatas (Live-Action) - Colección",
+      "poster_path": "/9bww4aYHN709kq7uYShLb7CSKD8.jpg",
+      "backdrop_path": "/eTaNHqpi7VldgcrDetfTzk4FeDi.jpg"
+    },
+    "budget": 85000000,
+    "genres": [
+      {
+        "id": 10751,
+        "name": "Familia"
+      },
+      {
+        "id": 35,
+        "name": "Comedia"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0211181",
+    "origin_country": [
+      "US"
+    ],
+    "production_companies": [
+      {
+        "id": 2,
+        "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+        "name": "Walt Disney Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 10472,
+        "logo_path": null,
+        "name": "Cruella Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 37053,
+        "logo_path": null,
+        "name": "Kanzaman S.A.M.",
+        "origin_country": "MC"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "revenue": 183611771,
+    "runtime": 100,
+    "spoken_languages": [
+      {
+        "english_name": "English",
+        "iso_639_1": "en",
+        "name": "English"
+      }
+    ],
+    "status": "Released",
+    "tagline": "",
+    "added_date": "2025-09-27"
+  }
+]

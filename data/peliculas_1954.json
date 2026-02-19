@@ -1,0 +1,80 @@
+[
+  {
+    "adult": false,
+    "backdrop_path": "/9kskVRVgXkiCWrWXEelMeadrf53.jpg",
+    "genre_ids": [
+      53,
+      27,
+      878
+    ],
+    "id": 1678,
+    "original_language": "ja",
+    "original_title": "ゴジラ",
+    "overview": "Japan is thrown into a panic after several ships are sunk near Odo Island. An expedition to the island led by Dr. Kyohei Yamane soon discover something far more devastating than imagined in the form of a 50 meter tall monster whom the natives call Gojira. Now the monster begins a rampage that threatens to destroy not only Japan, but the rest of the world as well.",
+    "popularity": 3.3558,
+    "poster_path": "/365zBxfAgBG8iO2miGfVtltUXwt.jpg",
+    "release_date": "1954-11-03",
+    "title": "Godzilla",
+    "video": false,
+    "vote_average": 7.646,
+    "vote_count": 1035,
+    "belongs_to_collection": {
+      "id": 374509,
+      "name": "Godzilla Showa - Colección",
+      "poster_path": "/hy27yth16OKLDxlzawwJHg7NE32.jpg",
+      "backdrop_path": "/a20d9jnAidiWXoN4EjYdbW54OZ3.jpg"
+    },
+    "budget": 60000,
+    "genres": [
+      {
+        "id": 53,
+        "name": "Suspense"
+      },
+      {
+        "id": 27,
+        "name": "Terror"
+      },
+      {
+        "id": 878,
+        "name": "Ciencia ficción"
+      }
+    ],
+    "homepage": "",
+    "imdb_id": "tt0047034",
+    "origin_country": [
+      "JP"
+    ],
+    "production_companies": [
+      {
+        "id": 882,
+        "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+        "name": "TOHO",
+        "origin_country": "JP"
+      },
+      {
+        "id": 244155,
+        "logo_path": null,
+        "name": "Toho Laboratory",
+        "origin_country": "JP"
+      }
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "JP",
+        "name": "Japan"
+      }
+    ],
+    "revenue": 2250000,
+    "runtime": 96,
+    "spoken_languages": [
+      {
+        "english_name": "Japanese",
+        "iso_639_1": "ja",
+        "name": "日本語"
+      }
+    ],
+    "status": "Released",
+    "tagline": "¡Godzilla, arma de la ciencia, una gran batalla de maravilla y terror!",
+    "added_date": "2025-09-27"
+  }
+]
